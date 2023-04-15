@@ -1,0 +1,5044 @@
+Shape,nsites,elements,nelements,composition,composition_reduced,formula_pretty,formula_anonymous,chemsys,volume,density,density_atomic,symmetry,material_id,uncorrected_energy_per_atom,energy_per_atom,formation_energy_per_atom,energy_above_hull,is_stable,grain_boundaries,band_gap,cbm,vbm,efermi,is_gap_direct,is_metal,is_magnetic,ordering,total_magnetization,total_magnetization_normalized_vol,total_magnetization_normalized_formula_units,num_magnetic_sites,num_unique_magnetic_sites,types_of_magnetic_species,k_vrh,g_vrh,e_total,e_ionic,e_electronic,n,e_ij_max,weighted_surface_energy_EV_PER_ANG2,weighted_surface_energy,weighted_work_function,surface_anisotropy,shape_factor,has_reconstructed,possible_species,theoretical
+Shape,nsites,nelements,composition_reduced
+Cubic,5,3,Cu1 Ni3 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Na1 Mo1 O3
+Cubic,5,3,Ca1 V1 O3
+Cubic,40,4,Ca7 Mg1 Mn8 O24
+Cubic,20,4,Sr2 Fe1 Os1 O6
+Cubic,10,4,Mn1 Re1 Pb2 O6
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,La3 Pb1 C1
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Na1 Mo1 O3
+Cubic,20,4,Sr2 Fe1 Os1 O6
+Cubic,5,3,Cu1 Ni3 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Cr3 Pt1 N1
+Cubic,10,4,La2 Mn1 Ni1 O6
+Cubic,5,3,Cd1 H1 Cl3
+Cubic,10,3,Co1 I3 N6
+Cubic,10,3,Na3 Au1 F6
+Cubic,10,4,Cs2 Ag1 Bi1 Cl6
+Cubic,5,3,K1 Cu1 Cl3
+Cubic,10,4,Ba2 Li1 Os1 O6
+Cubic,10,4,Rb2 Li1 Y1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,La2 Mn1 Ni1 O6
+Cubic,5,3,Cd1 H1 Cl3
+Cubic,10,3,Co1 I3 N6
+Cubic,10,3,Na3 Au1 F6
+Orthorhombic,20,3,Sr1 Os1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Na1 Mo1 O3
+Cubic,20,4,Sr2 Fe1 Os1 O6
+Cubic,10,4,Rb2 Cu1 Sb1 F6
+Cubic,5,3,Cu1 Ni3 N1
+Cubic,10,3,Rb1 In1 F3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Na1 Mo1 O3
+Cubic,20,4,Sr2 Fe1 Os1 O6
+Cubic,10,4,Rb2 Cu1 Sb1 F6
+Cubic,5,3,Cu1 Ni3 N1
+Cubic,10,3,Rb1 In1 F3
+Cubic,10,3,Co1 I3 N6
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,10,4,Rb2 Er1 Ag1 Cl6
+Cubic,10,4,Rb2 Na1 Al1 F6
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Cu1 Ni3 N1
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,10,3,Rb1 In1 F3
+Cubic,10,4,K2 Na1 Pd1 F6
+Cubic,10,3,Co1 I3 N6
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,5,3,La3 Pb1 C1
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Sm3 Sn1 C1
+Orthorhombic,20,3,Sr1 Ir1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Mn3 Cu1 N1
+Cubic,5,3,Sm1 Ni1 O3
+Cubic,5,3,K1 Cu1 Cl3
+Cubic,10,4,Ba2 Li1 Os1 O6
+Cubic,10,4,Rb2 Li1 Y1 F6
+Cubic,5,3,Er3 Al1 N1
+Cubic,10,4,Cs2 Na1 Mo1 Cl6
+Cubic,10,4,K2 Na1 Pd1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,La1 Ga1 O3
+Cubic,5,3,K1 Cu1 Cl3
+Cubic,10,4,Ba2 Li1 Os1 O6
+Cubic,5,3,Tm3 Ga1 C1
+Cubic,10,4,Ba2 Na1 I1 O6
+Orthorhombic,20,3,Mn1 Bi1 O3
+Cubic,5,3,Er3 Al1 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Sm3 Sn1 C1
+Orthorhombic,20,3,Sr1 Ir1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ca3 Bi1 P1
+Cubic,5,3,Mn3 Cu1 N1
+Cubic,5,3,Sm1 Ni1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,La3 Pb1 C1
+Cubic,5,3,Ba3 Bi1 As1
+Cubic,5,3,Cd1 Os1 O3
+Cubic,5,3,Sr1 Ge1 O3
+Cubic,10,4,Ba2 Y1 Os1 O6
+Cubic,10,4,Sr2 La1 Cr1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Ca1 Co1 O3
+Cubic,10,4,K2 Cu1 Bi1 Br6
+Cubic,10,4,K2 Na1 Pd1 F6
+Cubic,5,3,Mg1 V1 O3
+Cubic,5,3,Pr3 Al1 N1
+Cubic,10,3,K3 As1 Cl6
+Cubic,10,4,Rb2 Na1 Nd1 F6
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,5,3,Sr1 Ir1 O3
+Tetragonal,20,4,Sr1 Ca3 Mn4 O12
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Hf1 Zn1 O3
+Cubic,5,3,Ti3 Al1 N1
+Cubic,5,3,La1 Ni1 O3
+Cubic,20,3,Sr1 Mn1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,5,3,Cd1 Co3 N1
+Cubic,5,3,Sr1 Ir1 O3
+Tetragonal,20,4,Sr1 Ca3 Mn4 O12
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Hg1 Os1 O3
+Cubic,5,3,La1 Pd3 C1
+Cubic,5,3,Cr3 Pt1 N1
+Cubic,10,4,Rb2 Nb1 Ag1 F6
+Cubic,5,3,Zn1 Sn1 O3
+Cubic,5,3,K1 Mo1 O3
+Cubic,5,3,Ce3 Al1 N1
+Cubic,10,4,La2 Mn1 Ni1 O6
+Cubic,5,3,Cd1 H1 Cl3
+Cubic,10,3,Co1 I3 N6
+Cubic,10,3,Na3 Au1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Cs2 Ag1 Bi1 Cl6
+Orthorhombic,20,3,Sr1 Os1 O3
+Cubic,10,4,Cs2 Eu1 Ag1 Cl6
+Cubic,5,3,Ba3 As1 P1
+Cubic,5,3,La1 Pt3 C1
+Cubic,10,4,Rb2 Li1 Nd1 I6
+Cubic,10,4,K2 In1 Au1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Cs2 In1 Hg1 F6
+Monoclinic,20,4,La2 Mg1 Rh1 O6
+Cubic,5,3,Na1 Mo1 O3
+Cubic,5,3,Ca1 V1 O3
+Cubic,40,4,Ca7 Mg1 Mn8 O24
+Cubic,5,3,Sr1 Al1 H3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Hf1 Zn1 O3
+Cubic,5,3,Ti3 Al1 N1
+Cubic,5,3,La1 Ni1 O3
+Cubic,20,4,Ba2 Cr1 Mo1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Hg1 Os1 O3
+Cubic,5,3,La1 Pd3 C1
+Cubic,5,3,Cr3 Pt1 N1
+Cubic,10,4,Rb2 Nb1 Ag1 F6
+Cubic,5,3,Sm3 Ga1 C1
+Cubic,5,3,Mg3 Sb1 N1
+Cubic,5,3,Zn1 Sn1 O3
+Cubic,5,3,K1 Mo1 O3
+Cubic,5,3,Ce3 Al1 N1
+Cubic,5,3,Sc1 B1 Ir3
+Cubic,10,4,Ba2 La1 Ir1 O6
+Cubic,10,4,La2 Mn1 Ni1 O6
+Cubic,5,3,Cd1 H1 Cl3
+Cubic,10,3,Co1 I3 N6
+Cubic,5,3,Er3 Ga1 C1
+Cubic,5,3,Mn1 N1 F3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Monoclinic,20,3,Tm1 Ni1 O3
+Cubic,10,4,Na2 Li1 In1 F6
+Cubic,5,3,Mg1 V1 O3
+Cubic,5,3,Pr3 Al1 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Sc3 B1 Pb1
+Cubic,5,3,Ba3 P1 N1
+Cubic,5,3,Sn1 Hg1 O3
+Cubic,10,4,Cs2 Ag1 Bi1 Cl6
+Orthorhombic,20,3,Sr1 Os1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Ti1 Sn1 O3
+Cubic,10,4,Ba2 Zr1 Ti1 O6
+Cubic,10,3,Li3 Ru1 F6
+Cubic,5,3,Ba3 As1 P1
+Cubic,5,3,La1 Pt3 C1
+Cubic,10,4,Rb2 Li1 Nd1 I6
+Cubic,10,4,K2 In1 Au1 F6
+Cubic,5,3,Ba3 Bi1 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Cs2 Ta1 Cu1 I6
+Cubic,5,3,Y3 Sn1 C1
+Cubic,10,4,K2 Y1 Cu1 I6
+Cubic,10,4,K2 Tl1 Hg1 Cl6
+Cubic,5,3,Ca3 Bi1 P1
+Cubic,5,3,Mn3 Cu1 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,5,3,In1 Ni3 N1
+Cubic,40,4,Sr7 Ca1 Ti8 O24
+Cubic,5,3,Na1 Cr1 O3
+Cubic,20,3,Sr1 Mn1 O3
+Cubic,10,4,Cs2 Na1 Au1 Br6
+Cubic,10,4,Rb2 Ag1 Mo1 F6
+Orthorhombic,20,3,In1 Rh1 O3
+Cubic,10,4,Rb2 Na1 Bi1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,La2 Zr1 Ni1 O6
+Cubic,10,4,Rb2 Na1 Pr1 I6
+Cubic,5,3,Ca1 Co1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,10,4,K2 Na1 In1 Cl6
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,5,3,K1 Cu1 Cl3
+Cubic,10,4,Cs2 Na1 Ce1 F6
+Cubic,10,4,Rb2 In1 Ag1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Cu1 Sb1 F6
+Cubic,10,4,Mn1 Re1 Pb2 O6
+Cubic,10,4,Rb2 Y1 Cu1 Cl6
+Cubic,5,3,Cu1 Ni3 N1
+Orthorhombic,20,3,Ce1 Ga1 O3
+Cubic,10,4,Rb2 Tl1 Ag1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Tm3 Ga1 C1
+Cubic,10,4,Ba2 Na1 I1 O6
+Cubic,5,3,Zr1 Hg1 O3
+Cubic,5,3,Er3 Al1 N1
+Cubic,5,3,Hg1 Rh1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,40,4,Sr8 Mn1 Fe7 O24
+Cubic,5,3,Mn3 In1 C1
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,5,3,Cd1 Co3 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,La1 Ga1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Sr1 Ir1 O3
+Cubic,10,4,K2 Na1 Mo1 I6
+Tetragonal,20,4,Sr1 Ca3 Mn4 O12
+Cubic,10,4,K2 Li1 Nd1 Cl6
+Cubic,10,4,Rb2 Dy1 Ag1 Cl6
+Cubic,10,4,Rb2 Li1 Y1 I6
+Cubic,5,3,Sr3 Bi1 As1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,20,4,Ba2 Nb1 Fe1 O6
+Orthorhombic,20,3,Tl1 Cr1 O3
+Cubic,5,3,Cd1 Ru1 O3
+Cubic,10,3,Rb3 Sc1 Cl6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ti3 Al1 N1
+Cubic,5,3,La1 Ni1 O3
+Cubic,20,4,Ba2 Cr1 Mo1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,La3 Pb1 C1
+Cubic,5,3,Ba3 Bi1 As1
+Cubic,5,3,Cd1 Os1 O3
+Cubic,5,3,Mn1 Zn1 O3
+Tetragonal,40,4,La1 Sm1 Co2 O6
+Cubic,10,4,Cs2 Cu1 Bi1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Cs2 Li1 Bi1 F6
+Cubic,10,4,Na2 Mn1 Ag1 F6
+Cubic,10,4,Rb2 Tb1 Ag1 Cl6
+Cubic,5,3,Sr1 Ge1 O3
+Cubic,10,4,Ba2 Y1 Os1 O6
+Cubic,10,4,Sr2 La1 Cr1 O6
+Cubic,5,3,Ge1 Pb1 O3
+Cubic,10,4,La2 Ti1 Ni1 O6
+Cubic,5,3,Sm3 Sn1 C1
+Orthorhombic,20,3,Sr1 Ir1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Cr3 Pd1 N1
+Cubic,5,3,Zr1 Ru3 C1
+Cubic,5,3,V1 Zn1 O3
+Cubic,5,3,Nd3 Pb1 N1
+Cubic,10,4,Rb2 Na1 Ce1 Br6
+Monoclinic,20,4,La2 Mg1 Rh1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,3,K1 Tl1 I3
+Cubic,5,3,Na1 Mo1 O3
+Cubic,5,3,Ba1 V1 O3
+Cubic,5,3,K1 Cr1 O3
+Cubic,5,3,Ca1 V1 O3
+Cubic,40,4,Ca7 Mg1 Mn8 O24
+Cubic,5,3,Sr1 Al1 H3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Mg1 Si1 O3
+Cubic,10,4,Rb2 Cu1 Sb1 Br6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Monoclinic,20,4,Ba2 Pr1 Nb1 O6
+Cubic,5,3,Ni1 N1 F3
+Cubic,5,3,Cu1 N1 F3
+Cubic,5,3,Ca3 Bi1 P1
+Cubic,10,4,Rb2 Na1 Ta1 F6
+Cubic,10,4,Rb2 Na1 Ta1 Cl6
+Cubic,10,3,Li3 Ir1 F6
+Cubic,5,3,K1 Cu1 Cl3
+Cubic,10,4,Cs2 Na1 Ce1 F6
+Cubic,10,4,Cs2 Na1 Nd1 F6
+Cubic,10,4,Rb2 Al1 Ag1 Cl6
+Cubic,5,3,Ca1 Fe1 O3
+Monoclinic,20,3,Sc1 Mn1 O3
+Cubic,10,4,Rb2 Cu1 Sb1 F6
+Cubic,10,4,Mn1 Re1 Pb2 O6
+Cubic,10,4,Rb2 Y1 Cu1 Cl6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,3,Rb1 In1 F3
+Cubic,5,3,La1 Ga1 O3
+Cubic,10,4,Rb2 Na1 Bi1 Br6
+Cubic,5,3,Tm3 Al1 N1
+Cubic,10,4,Ba2 U1 Cd1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Mg1 Sn1 O3
+Cubic,5,3,Tm3 Ga1 C1
+Cubic,10,4,Ba2 Na1 I1 O6
+Cubic,5,3,Zr1 Hg1 O3
+Orthorhombic,20,3,Mn1 Bi1 O3
+Cubic,10,4,Rb2 Li1 Mo1 Cl6
+Cubic,10,4,Rb2 Li1 Sb1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Zn1 Si1 O3
+Cubic,20,4,Sr2 Hf1 Cr1 O6
+Cubic,10,4,K2 Tl1 Au1 F6
+Cubic,5,3,Er3 Al1 N1
+Cubic,5,3,Hg1 Rh1 O3
+Cubic,10,4,Rb2 Li1 Ta1 Cl6
+Cubic,10,3,K3 Nd1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Tetragonal,20,4,Sr3 Ca1 Fe4 O12
+Cubic,5,3,Rb1 Au1 Br3
+Cubic,5,3,Mg3 Sb1 N1
+Cubic,5,3,Zn1 Sn1 O3
+Cubic,5,3,Er1 B1 Pd3
+Cubic,5,3,K1 Mo1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Sr3 Sb1 P1
+Cubic,5,3,Yb1 Rh3 C1
+Cubic,5,3,Hg1 Os1 O3
+Cubic,5,3,La1 Pd3 C1
+Cubic,5,3,Cr3 Pt1 N1
+Cubic,10,4,K2 Ta1 Cu1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Monoclinic,20,3,Tm1 Ni1 O3
+Cubic,5,3,Mg1 V1 O3
+Cubic,5,3,Pr3 Al1 N1
+Cubic,10,4,Ba2 Gd1 Mo1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Sm3 Ga1 C1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,La2 Zr1 Ni1 O6
+Cubic,10,4,Rb2 Na1 Pr1 I6
+Cubic,5,3,Ca1 Co1 O3
+Cubic,10,4,Rb2 Ru1 Au1 F6
+Cubic,10,4,Sr2 Zr1 Co1 O6
+Cubic,5,3,Sc1 B1 Ir3
+Cubic,10,4,La2 Mn1 Ni1 O6
+Cubic,5,3,Mg1 Ru1 O3
+Cubic,5,3,Yb1 Ni1 H3
+Cubic,5,3,Sn1 C1 Cl3
+Cubic,10,3,Rb3 Ce1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Lu3 Al1 N1
+Cubic,5,3,Na1 V1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Tetragonal,40,4,K5 Na3 Ta8 O24
+Cubic,10,4,Ba2 Zn1 Te1 O6
+Cubic,10,4,K2 Cu1 Bi1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,10,3,Cs3 Tl1 Cl6
+Cubic,5,3,K3 C1 O1
+Cubic,10,4,Rb2 Sb1 Au1 Cl6
+Cubic,10,4,Cs2 K1 As1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,Cs2 Ag1 Bi1 Cl6
+Orthorhombic,20,3,Sr1 Os1 O3
+Cubic,5,3,Ca3 Sb1 As1
+Cubic,10,4,Rb2 Y1 Ag1 Br6
+Cubic,10,3,Co1 I3 N6
+Cubic,5,3,La3 Al1 C1
+Cubic,10,3,Na3 Au1 F6
+Cubic,5,3,Rb1 V1 O3
+Cubic,40,4,Sr2 Y1 Co1 O6
+Cubic,5,3,Er3 Ga1 C1
+Cubic,5,3,Mn1 N1 F3
+Tetragonal,10,3,Ba1 Zr1 O3
+Cubic,10,4,Cs2 In1 Bi1 Cl6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Hf1 Hg1 O3
+Cubic,5,3,Ho3 In1 C1
+Cubic,10,3,K3 Ga1 Cl6
+Cubic,10,4,K2 Pr1 Cu1 Cl6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,K2 Sc1 Hg1 Cl6
+Cubic,10,4,Cs2 In1 Bi1 Br6
+Cubic,5,3,Y3 Sn1 C1
+Cubic,10,4,K2 Y1 Cu1 I6
+Cubic,10,4,K2 Tl1 Hg1 Cl6
+Cubic,10,4,Cs2 Ga1 Cu1 Cl6
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,5,3,In1 Ni3 N1
+Cubic,40,4,Sr7 Ca1 Ti8 O24
+Cubic,5,3,Na1 Cr1 O3
+Cubic,40,4,Sr2 Zr1 Cr1 O6
+Cubic,10,4,Rb2 Li1 Ta1 F6
+Cubic,5,3,Y3 Ga1 C1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ca3 Bi1 P1
+Cubic,40,4,La7 Sm1 Fe8 O24
+Cubic,5,3,Mn3 Cu1 N1
+Cubic,5,3,Sm1 Ni1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Zr1 Pb1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Sc3 B1 Pb1
+Cubic,5,3,Sr3 Bi1 P1
+Monoclinic,20,4,Nd2 Mg1 Ir1 O6
+Cubic,5,3,Ba3 P1 N1
+Cubic,5,3,Sn1 Hg1 O3
+Cubic,5,3,Sr3 Sb1 P1
+Cubic,5,3,La1 Sc1 O3
+Cubic,5,3,Ti1 Sn1 O3
+Cubic,10,4,Ba2 Zr1 Ti1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Monoclinic,20,4,Sr2 Gd1 Mo1 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,20,4,Ba2 Nb1 Fe1 O6
+Cubic,5,3,Ba3 Bi1 Sb1
+Orthorhombic,20,3,Tl1 Cr1 O3
+Cubic,5,3,Ba1 Rh1 O3
+Cubic,5,3,Ca1 Hf1 O3
+Cubic,10,4,Cs2 Na1 As1 Br6
+Cubic,20,3,Sr1 Mn1 O3
+Cubic,10,4,Cs2 Na1 Au1 Br6
+Orthorhombic,20,3,In1 Rh1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Ba3 Sb1 P1
+Cubic,5,3,Sc3 Sn1 B1
+Cubic,5,3,Sc1 Pt3 C1
+Cubic,40,4,Sr8 Mn1 Fe7 O24
+Cubic,5,3,Mn3 In1 C1
+Monoclinic,20,4,Ca2 Sc1 Os1 O6
+Cubic,10,4,Rb2 Pd1 Au1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Ag1 Sb1 Br6
+Cubic,10,3,K3 Cr1 F6
+Cubic,10,4,Cs2 Na1 Nd1 Cl6
+Cubic,10,4,Cs2 Rb1 Ga1 Cl6
+Cubic,5,3,Sr3 Bi1 Sb1
+Cubic,10,4,K2 Na1 Pr1 F6
+Cubic,10,4,K2 Bi1 Au1 Br6
+Cubic,10,4,K2 In1 Bi1 F6
+Cubic,5,3,Lu3 Sn1 C1
+Cubic,5,3,Ba3 As1 P1
+Cubic,5,3,La1 Pt3 C1
+Cubic,5,3,Rb1 Os1 O3
+Cubic,5,3,Ba3 Bi1 N1
+Cubic,5,3,K1 Mg1 H3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Li1 Bi1 Br6
+Cubic,10,4,K2 Ag1 Bi1 I6
+Cubic,10,4,Rb2 Y1 Ag1 F6
+Cubic,10,4,Rb2 Li1 Mo1 Br6
+Cubic,10,4,Cs2 Cu1 Bi1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Hf1 Zn1 O3
+Cubic,5,3,Ti3 Al1 N1
+Cubic,5,3,Sr3 Bi1 As1
+Cubic,5,3,Hg1 Ru1 O3
+Cubic,5,3,La1 Ni1 O3
+Cubic,5,3,Sm1 Ag1 O3
+Cubic,40,4,Sr8 Fe7 Co1 O24
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Cd1 Ru1 O3
+Cubic,5,3,Sr3 Sb1 As1
+Tetragonal,20,4,Sr1 Ca3 Mn4 O12
+Cubic,5,3,Ca1 Ir1 O3
+Tetragonal,40,5,K2 Na2 Mo3 W1 O12
+Cubic,10,4,Rb2 Mo1 Au1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Tb3 Al1 N1
+Cubic,5,3,Sc1 Rh3 C1
+Cubic,10,4,K2 Na1 Bi1 F6
+Cubic,10,4,Cs2 K1 Sm1 Cl6
+Cubic,5,3,Sr1 Ir1 O3
+Tetragonal,20,4,Sr1 Ca3 Mn4 O12
+Cubic,10,4,Sr2 Ti1 Fe1 O6
+Cubic,10,4,Rb2 Ag1 Ir1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,La3 Pb1 C1
+Cubic,5,3,Al1 Co3 C1
+Cubic,5,3,Ba3 Bi1 As1
+Cubic,5,3,Cd1 Os1 O3
+Cubic,5,3,Mn1 Zn1 O3
+Tetragonal,40,4,La1 Sm1 Co2 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Sr1 Ge1 O3
+Cubic,10,4,Ba2 Y1 Os1 O6
+Cubic,10,4,Sr2 La1 Cr1 O6
+Cubic,5,3,Ge1 Pb1 O3
+Cubic,10,4,La2 Ti1 Ni1 O6
+Cubic,10,4,Rb2 Na1 Ce1 F6
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Eu1 Fe1 O3
+Cubic,5,3,Sm3 Sn1 C1
+Cubic,10,4,Rb2 Li1 Ta1 I6
+Orthorhombic,20,3,Sr1 Ir1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,V1 Zn1 O3
+Cubic,5,3,Nd3 Pb1 N1
+Monoclinic,20,4,La2 Mg1 Rh1 O6
+Cubic,5,3,Na1 Os1 O3
+Cubic,10,4,Na1 Pb2 I1 O6
+Cubic,40,4,La7 Sm1 Mn8 O24
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Ba3 Sb1 As1
+Cubic,5,3,Rb1 Cr1 O3
+Monoclinic,20,4,Sr2 Ho1 Mo1 O6
+Cubic,10,4,K2 In1 Ag1 Cl6
+Cubic,5,3,Cr3 Pd1 N1
+Cubic,5,3,Zr1 Ru3 C1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Cd1 Rh1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Cs2 In1 Ag1 Cl6
+Cubic,5,3,Mg1 Si1 O3
+Cubic,40,4,Ca7 Mg1 Mn8 O24
+Cubic,5,3,Sr1 Al1 H3
+Cubic,5,3,Sr3 As1 P1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,K1 Cd1 F3
+Cubic,5,3,Tl1 H1 Pd3
+Cubic,10,4,Rb2 Cu1 Sb1 Br6
+Cubic,5,3,La1 Ag1 O3
+Cubic,10,4,Ba2 Ta1 In1 O6
+Cubic,10,4,K2 Nd1 Ag1 Br6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Monoclinic,20,4,Ba2 Pr1 Nb1 O6
+Cubic,5,3,Ni1 N1 F3
+Cubic,5,3,Cu1 N1 F3
+Cubic,5,3,Ca3 Bi1 N1
+Cubic,5,3,Eu1 Mn1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Na1 Bi1 Br6
+Cubic,10,4,K2 Na1 In1 Cl6
+Cubic,5,3,Tm3 Al1 N1
+Cubic,10,4,Ba2 U1 Cd1 O6
+Cubic,10,4,Rb2 Na1 Sb1 I6
+Tetragonal,10,4,K1 Na1 Mo2 O6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Lu3 Tl1 C1
+Cubic,10,4,Na2 Ga1 Cu1 F6
+Cubic,5,3,Cd1 Sn1 O3
+Cubic,5,3,Y1 Ag1 O3
+Cubic,10,4,Cs2 Rb1 As1 Cl6
+Cubic,5,3,Ca3 Bi1 P1
+Cubic,10,4,Rb2 Na1 Ta1 F6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,3,Na3 Cr1 F6
+Cubic,5,3,K1 Cu1 Cl3
+Cubic,5,3,Mg1 Ni3 C1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,Ba2 Li1 Os1 O6
+Cubic,5,3,Y1 B1 Pt3
+Cubic,5,3,Rb1 Ta1 O3
+Cubic,10,4,Na2 Li1 Sb1 F6
+Cubic,5,3,Mg1 Sn1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Tm3 Ga1 C1
+Cubic,5,3,Ba3 P1 N1
+Orthorhombic,20,3,La1 Y1 O3
+Cubic,10,4,Cs2 Na1 La1 Br6
+Cubic,10,4,Ba2 Na1 I1 O6
+Cubic,5,3,Zr1 Hg1 O3
+Cubic,5,3,Ba3 Sb1 As1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Er3 Al1 N1
+Cubic,5,3,Hg1 Rh1 O3
+Cubic,5,3,Nd3 Sn1 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Mg1 Ir1 O3
+Cubic,5,3,Zn1 Si1 O3
+Cubic,20,4,Sr2 Hf1 Cr1 O6
+Cubic,5,3,Dy3 Al1 N1
+Cubic,10,4,K2 Na1 Ce1 Cl6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Zr1 Cd1 O3
+Cubic,10,4,Rb2 Na1 Ce1 Cl6
+Cubic,5,3,Sr3 Bi1 P1
+Cubic,10,3,Cs1 Tl1 F3
+Cubic,5,3,Zn1 Cu1 O3
+Cubic,5,3,Ba3 As1 N1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Tetragonal,20,4,Sr3 Ca1 Fe4 O12
+Cubic,5,3,Rb1 Au1 Br3
+Cubic,5,3,Sc1 Co3 C1
+Orthorhombic,20,3,Pr1 Cr1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,La2 Zr1 Ni1 O6
+Cubic,5,3,Ca1 Co1 O3
+Cubic,5,3,Ba3 Bi1 As1
+Cubic,5,3,Cs1 Be1 F3
+Orthorhombic,20,3,Tm1 In1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ca1 Mn1 O3
+Cubic,5,3,Rb1 Ag1 F3
+Cubic,5,3,K3 C1 O1
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,5,3,Ti1 Hg1 O3
+Cubic,10,3,Na3 Mo1 F6
+Cubic,10,3,K3 In1 Cl6
+Cubic,10,4,K2 Sb1 Au1 F6
+Cubic,10,4,K2 Y1 Hg1 F6
+Cubic,10,4,Cs2 K1 Pr1 Cl6
+Cubic,5,3,Si1 Hg1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Ti1 Zn1 O3
+Cubic,10,4,Rb2 Li1 Y1 I6
+Cubic,10,4,K2 In1 Au1 Br6
+Cubic,10,4,Mn1 Re1 Pb2 O6
+Cubic,10,4,K1 Rb2 Sc1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Tl1 Ag1 F6
+Cubic,5,3,Hf1 B1 Rh3
+Cubic,40,4,Ca7 Mg1 Co8 O24
+Cubic,5,3,K1 Al1 H3
+Cubic,5,3,Na1 Mo1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Mo1 Os1 Pb2 O6
+Cubic,5,3,Ba1 V1 O3
+Cubic,5,3,K1 Cr1 O3
+Cubic,5,3,Ca1 V1 O3
+Cubic,10,4,Cs2 Ag1 Bi1 Br6
+Cubic,10,4,K2 Ag1 Mo1 F6
+Cubic,5,3,Ca1 Fe1 O3
+Monoclinic,20,3,Sc1 Mn1 O3
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,10,4,Rb2 Cu1 Sb1 F6
+Cubic,5,3,Sr1 Rh1 O3
+Cubic,10,4,Rb2 Cu1 Mo1 I6
+Cubic,5,3,Ce3 Al1 C1
+Cubic,5,3,Zn1 Ni3 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Ca3 As1 P1
+Cubic,5,3,Er3 In1 C1
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,10,4,K2 Nd1 Cu1 Cl6
+Cubic,10,4,Cs2 Sc1 Hg1 Cl6
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,10,4,Rb2 In1 Ag1 I6
+Cubic,10,4,K2 La1 Au1 Cl6
+Cubic,10,4,Cs2 In1 Hg1 I6
+Tetragonal,50,4,Ba5 Li2 U3 O15
+Orthorhombic,20,3,V1 Bi1 O3
+Monoclinic,20,4,Ca2 Sc1 Ta1 O6
+Cubic,5,3,Cr3 Rh1 N1
+Cubic,10,4,Cs2 In1 Bi1 I6
+Cubic,10,4,Ba6 In2 N1 F1
+Cubic,10,4,Cs2 K1 La1 F6
+Cubic,10,4,Cs2 Nd1 Ag1 F6
+Trigonal,40,5,Cs8 Na4 Y1 Ho3 Cl24
+Trigonal,15,3,Cs1 Mn1 Cl3
+Cubic,10,4,Rb2 Sc1 In1 Cl6
+Cubic,5,3,Cs1 Eu1 F3
+Cubic,10,4,Cs2 Na1 Pr1 I6
+Cubic,40,4,Ba2 Ce1 Pr1 O6
+Cubic,5,3,Ba1 Be1 O3
+Cubic,5,3,Ni1 Sb1 O3
+Cubic,5,3,Mn3 As1 N1
+Cubic,5,3,Rb1 Ca1 Br3
+Monoclinic,20,4,La2 Ni1 Ru1 O6
+Cubic,10,4,Rb2 Eu1 Cu1 Cl6
+Cubic,5,3,Rb1 Cd1 F3
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Cubic,10,4,Cs2 Li1 N1 F6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,5,3,K1 Te1 O3
+Cubic,10,4,Rb2 Tl1 In1 Br6
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Cubic,5,3,Lu1 Re1 O3
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Cubic,5,3,Yb1 Re1 O3
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,K1 Gd1 Nb2 O6
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Cubic,10,4,Cs2 Ta1 Cu1 I6
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,5,3,Na1 V1 F3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,3,Cs3 Tb1 F6
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Cubic,10,4,Cs2 Li1 N1 F6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Cubic,10,4,Cs2 Ag1 Au1 F6
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,5,3,Dy1 Sn1 O3
+Cubic,5,3,Pu1 In1 O3
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,5,3,K1 Te1 O3
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Cubic,10,4,Rb2 Tl1 In1 Br6
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Cubic,10,4,Ba2 Ta1 Co1 O6
+Cubic,5,3,Lu1 Re1 O3
+Cubic,10,4,K2 Na1 Pd1 F6
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Trigonal,20,3,Sr1 Ni1 O3
+Cubic,10,4,K2 Na1 Rh1 F6
+Cubic,5,3,Yb1 Re1 O3
+Cubic,10,4,Sr2 In1 Sb1 O6
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,Ca2 La1 Sb1 O6
+Tetragonal,10,4,Ba1 Eu1 Zr2 O6
+Cubic,10,4,K1 Gd1 Nb2 O6
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Orthorhombic,20,3,Sc1 Cr1 O3
+Cubic,10,3,Ba1 Ti1 O3
+Cubic,10,4,Cs2 Ta1 Cu1 I6
+Orthorhombic,20,3,Tb1 Rh1 O3
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,5,3,Rb1 Na1 O3
+Cubic,5,3,Ho1 Ge1 O3
+Cubic,10,4,Eu2 Ni1 W1 O6
+Cubic,10,4,Cs2 Ta1 Cu1 I6
+Cubic,10,4,Sr2 Ga1 Bi1 O6
+Orthorhombic,20,3,Tb1 Rh1 O3
+Cubic,5,3,Nd3 In1 C1
+Cubic,5,3,Eu1 Hf1 O3
+Cubic,5,3,Ca1 Sn1 S3
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,10,4,Rb2 Na1 Nd1 F6
+Cubic,5,3,Rb1 Na1 O3
+Cubic,10,4,K2 Pr1 Cu1 I6
+Cubic,10,4,K2 Ga1 Ag1 Cl6
+Cubic,5,3,Ho1 Ge1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 Cl6
+Cubic,5,3,Cs1 Au1 Br3
+Cubic,10,4,Cs2 Ag1 As1 Cl6
+Cubic,5,3,Al1 Pb1 O3
+Cubic,5,3,Mg1 Tl1 O3
+Cubic,5,3,Si1 Mo1 O3
+Cubic,10,4,K2 Na1 Pr1 F6
+Monoclinic,20,4,Sr2 Sc1 Ta1 O6
+Cubic,20,4,Sr2 Nb1 Co1 O6
+Cubic,10,4,K2 Na1 Mo1 I6
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,10,4,Cs2 Na1 As1 F6
+Cubic,10,4,Rb2 Nd1 Au1 Cl6
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Orthorhombic,40,5,Na3 Gd1 Ti2 Nb2 O12
+Cubic,5,3,Na1 V1 F3
+Orthorhombic,20,3,La1 Pd1 O3
+Cubic,5,3,Eu1 Ti1 O3
+Orthorhombic,20,3,Ba1 U1 O3
+Cubic,10,4,Na1 Sr2 Mn1 O6
+Monoclinic,20,4,Ba2 Ca1 U1 O6
+Cubic,5,3,Nb1 Tl1 O3
+Cubic,5,3,Er3 Sn1 C1
+Cubic,10,4,Rb2 Eu1 Cu1 Cl6
+Cubic,5,3,K3 I1 O1
+Cubic,20,4,Ba2 Cr1 Mo1 O6
+Monoclinic,60,4,La3 Ta1 Co2 O9
+Cubic,10,4,K2 Na1 Sb1 Cl6
+Cubic,10,4,Rb2 Ta1 Ag1 Br6
+Cubic,10,4,Cs2 Na1 U1 Cl6
+Cubic,10,4,Rb2 Tl1 Ag1 Br6
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,10,4,K2 Na1 Ta1 Cl6
+Cubic,5,3,Mn3 Zn1 C1
+Cubic,10,4,Rb2 Hg1 As1 Cl6
+Cubic,10,4,Rb2 Cu1 Ni1 F6
+Cubic,10,4,Rb2 Na1 In1 I6
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Monoclinic,20,4,Sr2 Tb1 Ru1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,Gd1 Cu1 O3
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,5,3,Np1 Si1 O3
+Cubic,10,4,K1 Ba2 I1 O6
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,10,4,Sr2 V1 W1 O6
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Monoclinic,20,3,Sc1 Co1 O3
+Orthorhombic,20,3,Tb1 Sc1 O3
+Cubic,10,4,Sr2 Nd1 Mn1 O6
+Cubic,5,3,Yb3 Sn1 C1
+Cubic,10,4,Cs2 Na1 Y1 Br6
+Cubic,10,4,Cs2 Li1 N1 F6
+Orthorhombic,20,3,Er1 Co1 O3
+Cubic,10,4,K2 Na1 Bi1 Cl6
+Cubic,10,4,Rb2 Hg1 Sb1 I6
+Orthorhombic,20,3,Tl1 Co1 O3
+Cubic,10,4,K2 Na1 Sc1 Cl6
+Cubic,10,4,Cs2 K1 Sb1 Br6
+Cubic,5,3,Np1 Be1 O3
+Cubic,10,4,Cs2 Ce1 Ag1 F6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,Rb2 Tl1 Bi1 F6
+Cubic,10,4,Cs2 Na1 Pb1 F6
+Cubic,10,4,Re1 Ni1 Pb2 O6
+Monoclinic,20,4,Sr2 Co1 Sb1 O6
+Cubic,10,4,Rb2 Cu1 Sb1 F6
+Monoclinic,40,4,Ca2 Fe1 Ir1 O6
+Cubic,10,4,Rb2 Y1 Cu1 Cl6
+Monoclinic,20,4,Li1 Nd2 Ir1 O6
+Cubic,10,4,K2 In1 Ga1 I6
+Cubic,5,3,Ti1 Fe3 N1
+Cubic,10,4,Cs2 Y1 Tl1 I6
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Cubic,10,4,Cs2 In1 Bi1 Cl6
+Cubic,10,4,Cs2 Eu1 Ag1 Cl6
+Cubic,10,3,Rb3 Rh1 F6
+Tetragonal,10,4,Sr2 Ta1 Al1 O6
+Cubic,5,3,Ho1 B1 O3
+Orthorhombic,20,3,La1 Sc1 S3
+Orthorhombic,20,3,Sc1 Cr1 O3
+Monoclinic,34,3,Nd4 Ni3 O10
+Cubic,10,3,Ba1 Ti1 O3
+Cubic,10,4,Ba2 Dy1 Re1 O6
+Cubic,10,4,Eu2 Ni1 W1 O6
+Cubic,5,3,Y1 Ag1 O3
+Cubic,10,4,Sr2 Tb1 Nb1 O6
+Cubic,10,4,Sr2 Sm1 Fe1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Monoclinic,60,4,La3 Ta1 Co2 O9
+Cubic,10,4,Ba2 V1 Bi1 O6
+Orthorhombic,20,3,Ca1 Bi1 O3
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,3,Cs3 Tb1 F6
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,10,4,Sr2 V1 W1 O6
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Cubic,10,4,Sr2 Nd1 Mn1 O6
+Cubic,10,4,Cs2 Li1 N1 F6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,Cs2 Na1 U1 Cl6
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,5,3,Mn3 Zn1 C1
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Monoclinic,20,4,Sr2 Tb1 Ru1 O6
+Cubic,10,4,Cs2 Ag1 Au1 F6
+Cubic,10,4,K2 Na1 Pr1 F6
+Cubic,10,4,K2 Na1 Mo1 I6
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,10,4,Cs2 Na1 As1 F6
+Cubic,10,4,Rb2 Nd1 Au1 Cl6
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,10,4,Na1 Sr2 Mn1 O6
+Cubic,5,3,Er3 Sn1 C1
+Cubic,10,4,Rb2 Eu1 Cu1 Cl6
+Cubic,5,3,K3 I1 O1
+Monoclinic,60,4,La3 Ta1 Co2 O9
+Orthorhombic,20,3,Sc1 Co1 O3
+Orthorhombic,20,3,Sm1 Tm1 O3
+Cubic,10,4,Ba2 V1 Bi1 O6
+Orthorhombic,20,3,Ca1 Bi1 O3
+Cubic,10,4,Rb2 Y1 Ag1 F6
+Cubic,10,4,Cs2 Cu1 Bi1 F6
+Cubic,10,4,Cs2 Cu1 Bi1 Br6
+Cubic,10,3,Rb3 Ru1 F6
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,4,Rb2 Na1 Sc1 Br6
+Cubic,5,3,Mg1 Re1 O3
+Monoclinic,20,4,Sr2 Sc1 Nb1 O6
+Cubic,10,3,Cs3 Tb1 F6
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,10,4,Sr2 V1 W1 O6
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Monoclinic,20,3,Sc1 Co1 O3
+Cubic,10,4,Sr2 Nd1 Mn1 O6
+Cubic,5,3,Yb3 Sn1 C1
+Cubic,10,4,Cs2 Li1 N1 F6
+Orthorhombic,20,3,Er1 Co1 O3
+Orthorhombic,20,3,Tl1 Co1 O3
+Cubic,5,3,Np1 Be1 O3
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,Cs2 Na1 Pb1 F6
+Cubic,5,3,Rb1 Mn1 O3
+Cubic,5,3,Eu1 Zr1 O3
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,5,3,Dy1 Sn1 O3
+Cubic,5,3,Pu1 In1 O3
+Cubic,10,4,Cs2 Li1 Bi1 Cl6
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,10,4,Na2 Li1 Mn1 F6
+Cubic,5,3,Mo1 Pb1 O3
+Cubic,5,3,K1 Te1 O3
+Monoclinic,20,4,Ca2 Sc1 Sb1 O6
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Cubic,5,3,Cu3 Pd1 N1
+Cubic,10,4,Rb2 Tl1 In1 Br6
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Cubic,10,4,Ba2 Ta1 Co1 O6
+Cubic,5,3,Lu1 Re1 O3
+Cubic,10,4,K2 Na1 Pd1 F6
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Cubic,10,4,Sr2 Tb1 Zr1 O6
+Trigonal,20,3,Sr1 Ni1 O3
+Cubic,10,4,K2 Na1 Rh1 F6
+Cubic,10,4,Ba2 Sm1 Cr1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,Yb1 Mg1 O3
+Cubic,5,3,Na3 Br1 O1
+Cubic,10,4,Sr2 In1 Sb1 O6
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,Ca2 La1 Sb1 O6
+Cubic,10,3,Rb3 As1 Cl6
+Cubic,10,4,K2 Li1 Pd1 F6
+Tetragonal,10,4,Ba1 Eu1 Zr2 O6
+Cubic,10,4,Cs2 Li1 Ta1 I6
+Cubic,10,4,K1 Gd1 Nb2 O6
+Cubic,10,4,Cs2 Sc1 Ag1 Br6
+Cubic,5,3,Yb1 Nb1 O3
+Monoclinic,20,4,Li1 Nd2 Ir1 O6
+Cubic,5,3,Ti1 Fe3 N1
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Orthorhombic,20,3,Sc1 Cr1 O3
+Cubic,10,3,Ba1 Ti1 O3
+Cubic,10,4,Rb2 Ta1 Ag1 Br6
+Cubic,10,4,Cs2 Na1 U1 Cl6
+Cubic,10,4,Rb2 Tl1 Ag1 Br6
+Cubic,10,4,Sr2 In1 Bi1 O6
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,10,4,K2 Na1 Ta1 Cl6
+Cubic,5,3,Mn3 Zn1 C1
+Cubic,10,4,Rb2 Hg1 As1 Cl6
+Cubic,40,4,Sr2 Ce1 Nb1 O6
+Tetragonal,10,4,Ba2 Ca1 W1 O6
+Cubic,10,4,Rb2 Cu1 Ni1 F6
+Cubic,5,3,Nd3 Pb1 N1
+Monoclinic,20,4,Sr2 Lu1 Ru1 O6
+Cubic,10,4,Rb2 Na1 In1 I6
+Orthorhombic,20,3,Sr1 Sn1 O3
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Cubic,10,4,Sr2 Lu1 Nb1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Rb2 Nb1 Ag1 F6
+Cubic,5,3,Fe3 Ni1 N1
+Cubic,10,4,Cs2 Li1 Ta1 Br6
+Cubic,10,4,Cs2 Li1 Tl1 Br6
+Orthorhombic,20,3,Ba3 Si1 O1
+Cubic,10,4,Rb2 Y1 Tl1 F6
+Monoclinic,20,4,Li1 La2 Re1 O6
+Cubic,5,3,Yb1 Mg1 O3
+Cubic,5,3,Lu3 In1 C1
+Cubic,5,3,Rb1 Pb1 Cl3
+Cubic,5,3,Na3 Br1 O1
+Cubic,10,4,Sr2 In1 Sb1 O6
+Orthorhombic,60,4,Ca1 Nd2 Mn3 O9
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,Ba2 Ce1 Nb1 O6
+Cubic,10,4,Ca2 La1 Sb1 O6
+Cubic,10,4,Sr2 Eu1 Nb1 O6
+Cubic,10,3,Rb3 As1 Cl6
+Cubic,10,4,K2 Li1 Pd1 F6
+Tetragonal,10,4,Ba1 Eu1 Zr2 O6
+Cubic,10,4,Cs2 Li1 Ta1 I6
+Cubic,10,4,K1 Gd1 Nb2 O6
+Cubic,5,3,K1 Ni1 F3
+Cubic,10,4,Cs2 Sc1 Ag1 Br6
+Cubic,5,3,Gd3 In1 N1
+Tetragonal,10,3,Rb1 Ag1 F3
+Cubic,5,3,Yb1 Nb1 O3
+Cubic,5,3,Tl1 Co1 F3
+Cubic,10,4,Cs2 Y1 Cu1 F6
+Cubic,10,4,K2 Li1 Ta1 Cl6
+Cubic,10,4,Cs2 Bi1 Au1 Cl6
+Orthorhombic,20,3,Sc1 Co1 O3
+Cubic,5,3,Ac1 Ga1 O3
+Cubic,5,3,Bi1 Pt1 O3
+Orthorhombic,20,3,Sm1 Tm1 O3
+Cubic,10,4,Sr2 Yb1 U1 O6
+Cubic,5,3,Cs1 Tm1 H3
+Cubic,10,4,Ba2 V1 Bi1 O6
+Monoclinic,20,4,Pr2 Mg1 Pt1 O6
+Orthorhombic,20,3,Ca1 Bi1 O3
+Tetragonal,5,4,Ba1 Ta1 N1 O2
+Cubic,10,4,Sr2 Dy1 Re1 O6
+Cubic,10,4,Rb2 Y1 Ag1 F6
+Cubic,10,4,Cs2 Cu1 Bi1 F6
+Cubic,10,4,Cs2 Cu1 Bi1 Br6
+Cubic,10,3,Rb3 Ru1 F6
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,4,Sr2 Hf1 Ti1 O6
+Cubic,10,4,Rb2 Na1 Sc1 Br6
+Monoclinic,20,4,Sr2 Gd1 Ru1 O6
+Orthorhombic,20,3,Tm1 Ni1 O3
+Cubic,5,3,Y3 Pb1 C1
+Cubic,5,3,Mg1 Re1 O3
+Cubic,5,3,Ca1 Zr1 O3
+Monoclinic,20,4,Sr2 Sc1 Nb1 O6
+Cubic,5,3,Yb1 Ge1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Mg1 Pb2 W1 O6
+Cubic,5,3,Cr3 Ga1 N1
+Cubic,10,4,Sr2 Ga1 Bi1 O6
+Orthorhombic,20,3,Tb1 Rh1 O3
+Monoclinic,60,4,Sr3 Ca1 Ru2 O9
+Cubic,5,3,Nd3 In1 C1
+Cubic,10,4,Na2 Li1 N1 F6
+Cubic,5,3,Eu1 Hf1 O3
+Cubic,10,4,K2 Na1 Ta1 I6
+Cubic,10,4,Rb2 Sb1 Au1 I6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,Be1 Re1 O3
+Trigonal,11,5,Na1 Mg1 Ti2 Bi1 O6
+Cubic,5,3,Sr1 Yb1 O3
+Orthorhombic,36,3,Cs1 In3 O5
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Orthorhombic,20,3,K3 Cl1 O1
+Tetragonal,20,4,Sr4 Fe3 Mo1 O12
+Cubic,10,4,Ba2 Yb1 Ta1 O6
+Cubic,10,4,Rb2 Na1 As1 F6
+Cubic,10,4,Ba2 Ta1 Co1 O6
+Cubic,10,4,Cs2 Tl1 Bi1 Br6
+Cubic,5,3,Lu1 Re1 O3
+Cubic,10,4,Cs2 K1 Y1 Br6
+Cubic,10,4,Cs2 Sc1 In1 I6
+Cubic,10,4,Rb2 Y1 Hg1 Cl6
+Cubic,5,3,Be1 In1 O3
+Cubic,5,3,K1 Zn1 O3
+Cubic,10,4,Eu2 Y1 W1 O6
+Cubic,5,3,Sb1 Au1 O3
+Cubic,20,4,Ba2 Ta1 Fe1 O6
+Orthorhombic,20,3,Ce1 Rh1 O3
+Cubic,10,4,Sr2 V1 Sn1 O6
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Cubic,10,4,Sr2 Tb1 Zr1 O6
+Trigonal,20,3,Sr1 Ni1 O3
+Orthorhombic,20,3,La1 Ti1 O3
+Cubic,5,3,K1 Pd1 F3
+Cubic,5,3,Si1 Pd1 O3
+Cubic,10,4,K2 Na1 Rh1 F6
+Cubic,5,3,Mg1 Hg1 O3
+Cubic,5,3,Rb1 Na1 O3
+Orthorhombic,20,3,Ba1 Zr1 S3
+Cubic,10,4,Sr2 Ho1 U1 O6
+Cubic,5,3,Pr3 Ga1 C1
+Cubic,10,4,K2 Pr1 Cu1 I6
+Cubic,5,3,Eu1 Os1 O3
+Tetragonal,50,4,Sr4 Ca1 Fe5 O15
+Cubic,10,4,K2 Ga1 Ag1 Cl6
+Orthorhombic,20,3,In1 Rh1 O3
+Cubic,10,4,Rb2 Na1 Bi1 I6
+Cubic,5,3,Ho1 Ge1 O3
+Cubic,10,4,Cs2 Li1 Dy1 Cl6
+Cubic,5,3,Cs1 Na1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Ti1 Bi1 O6
+Orthorhombic,20,3,Y1 W1 O3
+Cubic,10,4,Cs2 Ag1 As1 Cl6
+Cubic,5,3,Al1 Pb1 O3
+Cubic,10,4,Na1 Eu1 Zr2 O6
+Cubic,5,3,Mg1 Tl1 O3
+Cubic,10,4,Sr2 Nd1 V1 O6
+Cubic,10,4,K1 Rb2 Bi1 F6
+Cubic,10,4,Sr2 Zn1 Mo1 O6
+Cubic,5,3,Si1 Mo1 O3
+Orthorhombic,20,3,Ca1 V1 O3
+Orthorhombic,20,3,Cs1 Eu1 Br3
+Cubic,10,4,K2 Na1 Pr1 F6
+Monoclinic,20,4,Sr2 Zn1 Re1 O6
+Orthorhombic,20,3,Tb1 Lu1 O3
+Monoclinic,20,4,Sr2 Sc1 Ta1 O6
+Cubic,5,3,Na1 Mg1 O3
+Cubic,5,3,Zn1 B1 O3
+Cubic,10,4,K2 Ag1 Sb1 I6
+Cubic,10,4,Cs2 Cu1 Sb1 Br6
+Cubic,20,4,Sr2 Nb1 Co1 O6
+Cubic,10,4,K2 Nb1 Ag1 F6
+Cubic,5,3,Ca1 Y1 O3
+Cubic,10,4,K2 Na1 Mo1 I6
+Cubic,5,3,Ho1 Cu1 O3
+Orthorhombic,28,3,Ho2 Pb1 S4
+Cubic,10,4,Ba2 Y1 Zr1 O6
+Cubic,5,3,Ho1 Ru3 C1
+Cubic,5,3,Dy1 Sn1 O3
+Cubic,5,3,Pu1 In1 O3
+Cubic,10,4,Cs2 Li1 Bi1 Cl6
+Cubic,5,3,Dy3 Sn1 C1
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,10,4,Na2 Li1 Mn1 F6
+Cubic,5,3,La1 Al1 O3
+Cubic,5,3,Mo1 Pb1 O3
+Cubic,5,3,K1 Te1 O3
+Monoclinic,20,4,Ca2 Sc1 Sb1 O6
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Cubic,10,4,Cs2 Rb1 Tb1 Cl6
+Cubic,5,3,Cu3 Pd1 N1
+Cubic,10,4,Cs2 Tl1 In1 Cl6
+Cubic,10,4,Rb2 Tl1 In1 Br6
+Cubic,10,4,Cs2 Sb1 Au1 Cl6
+Cubic,5,3,Be1 Re1 O3
+Cubic,5,3,Sr1 Yb1 O3
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Tetragonal,20,4,Sr4 Fe3 Mo1 O12
+Cubic,10,4,Ba2 Ta1 Co1 O6
+Cubic,5,3,Lu1 Re1 O3
+Cubic,10,4,Eu2 Y1 W1 O6
+Cubic,10,4,Sr2 V1 Sn1 O6
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Cubic,10,4,Sr2 Tb1 Zr1 O6
+Trigonal,20,3,Sr1 Ni1 O3
+Cubic,10,4,K2 Na1 Rh1 F6
+Cubic,10,4,Ba2 Sm1 Cr1 O6
+Orthorhombic,20,3,La1 Sc1 O3
+Cubic,10,4,Ba2 Eu1 Nb1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,5,3,Lu3 Al1 C1
+Cubic,10,4,K2 Li1 Nd1 Cl6
+Cubic,40,4,Sr1 Ca7 Mn8 O24
+Cubic,10,4,Rb2 Dy1 Ag1 Cl6
+Cubic,5,3,Al1 Sn1 O3
+Cubic,10,4,Cs2 Na1 As1 F6
+Cubic,10,4,Cs2 Y1 Ag1 Cl6
+Cubic,10,4,Cs2 Hg1 Sb1 I6
+Cubic,10,4,Sr2 Hf1 Sn1 O6
+Orthorhombic,20,3,Yb1 Fe1 O3
+Cubic,10,4,Ba2 Nb1 Co1 O6
+Cubic,10,4,Ba2 Nb1 In1 O6
+Cubic,10,4,Rb2 Nd1 Au1 Cl6
+Cubic,10,3,Fe1 Bi1 O3
+Orthorhombic,20,3,Fe1 Bi1 O3
+Cubic,5,3,Sc1 Sn1 O3
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Ba2 Mg1 Re1 O6
+Cubic,5,3,Yb1 Re1 O3
+Cubic,5,3,Fe3 Pt1 N1
+Cubic,10,4,Sr2 Eu1 Bi1 O6
+Cubic,5,3,Fe3 Ni1 N1
+Cubic,10,4,Eu2 V1 W1 O6
+Cubic,10,4,Cs2 Li1 Ta1 Br6
+Cubic,10,4,Cs2 Li1 Tl1 Br6
+Orthorhombic,20,3,Ba3 Si1 O1
+Cubic,10,4,Rb2 Y1 Tl1 F6
+Monoclinic,20,4,Li1 La2 Re1 O6
+Cubic,10,4,Rb2 Li1 Pr1 I6
+Cubic,5,3,Yb1 Mg1 O3
+Cubic,10,3,Li3 Co1 F6
+Cubic,5,3,Lu3 In1 C1
+Cubic,10,3,Cs3 Au1 Br6
+Cubic,10,4,Cs2 Nd1 Au1 Cl6
+Cubic,5,3,Rb1 Pb1 Cl3
+Cubic,10,4,K1 Rb2 Pd1 F6
+Cubic,5,3,Na3 Br1 O1
+Cubic,10,4,Rb2 Li1 Sm1 Cl6
+Orthorhombic,20,3,Mn1 N1 F3
+Cubic,10,4,Sr2 In1 Sb1 O6
+Cubic,5,3,K1 Au1 O3
+Cubic,10,4,K2 Cu1 Sb1 Cl6
+Monoclinic,20,4,Sr2 Sc1 Nb1 O6
+Cubic,10,4,K2 Mn1 Hg1 F6
+Cubic,5,3,Yb1 Ge1 O3
+Cubic,10,4,Cs2 Ga1 Hg1 I6
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,10,3,Cs3 Pd1 F6
+Cubic,10,4,Rb2 Sc1 Cu1 Cl6
+Cubic,10,3,Rb3 Au1 Cl6
+Cubic,5,3,Ge1 Pd1 O3
+Cubic,10,4,K2 Ce1 Ag1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Mg1 Pb2 W1 O6
+Monoclinic,34,3,Ba4 Ir3 O10
+Cubic,5,3,Mn3 Sn1 C1
+Cubic,5,3,Cr3 Ga1 N1
+Cubic,10,4,Sr2 Ga1 Bi1 O6
+Monoclinic,40,4,Sr2 Co1 Re1 O6
+Orthorhombic,20,3,Tb1 Rh1 O3
+Orthorhombic,20,3,Li1 V1 F3
+Monoclinic,60,4,Sr3 Ca1 Ru2 O9
+Cubic,5,3,Nd3 In1 C1
+Cubic,10,4,Cs2 Na1 Ga1 H6
+Cubic,10,4,Na2 Li1 N1 F6
+Cubic,10,3,K3 Bi1 F6
+Cubic,10,3,Li3 Ga1 F6
+Cubic,10,4,Cs2 K1 As1 Cl6
+Cubic,10,4,Cs2 Lu1 Ag1 Cl6
+Cubic,5,3,Eu1 Hf1 O3
+Cubic,5,3,Np1 Mo1 O3
+Cubic,10,4,K2 Na1 Ta1 I6
+Cubic,10,4,Ba2 Ce1 Pu1 O6
+Cubic,10,4,Rb2 Sb1 Au1 I6
+Cubic,5,3,Ca1 Sn1 S3
+Cubic,10,4,Cs2 Li1 Tm1 Cl6
+Cubic,10,4,Rb2 Li1 Mn1 F6
+Cubic,10,4,Rb2 Na1 Tb1 Cl6
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,10,4,Cs2 Ag1 As1 F6
+Cubic,10,4,Rb2 Na1 Nd1 F6
+Cubic,5,3,Ca1 Sn1 S3
+Cubic,10,4,Cs2 Li1 Tm1 Cl6
+Cubic,10,4,Rb2 Li1 Mn1 F6
+Cubic,10,4,Rb2 Na1 Tb1 Cl6
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,10,4,Cs2 Ag1 As1 F6
+Cubic,5,3,Mg1 Hg1 O3
+Cubic,5,3,Rb1 Na1 O3
+Cubic,10,4,Sr2 Ho1 U1 O6
+Cubic,10,4,K2 Pr1 Cu1 I6
+Tetragonal,50,4,Sr4 Ca1 Fe5 O15
+Cubic,10,4,K2 Ga1 Ag1 Cl6
+Cubic,5,3,Ho1 Ge1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 Cl6
+Cubic,5,3,Cs1 Au1 Br3
+Cubic,10,4,Sr2 Ti1 Bi1 O6
+Cubic,10,4,Cs2 Ag1 As1 Cl6
+Cubic,5,3,Al1 Pb1 O3
+Cubic,5,3,Mg1 Tl1 O3
+Cubic,10,4,K1 Rb2 Bi1 F6
+Cubic,5,3,Si1 Mo1 O3
+Orthorhombic,20,3,Cs1 Eu1 Br3
+Cubic,10,4,K2 Na1 Pr1 F6
+Orthorhombic,20,3,Tb1 Lu1 O3
+Monoclinic,20,4,Sr2 Sc1 Ta1 O6
+Cubic,5,3,Zn1 B1 O3
+Cubic,20,4,Sr2 Nb1 Co1 O6
+Cubic,10,4,K2 Na1 Mo1 I6
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,10,4,K2 Li1 Nd1 Cl6
+Cubic,10,4,Rb2 Dy1 Ag1 Cl6
+Cubic,10,4,Cs2 Na1 As1 F6
+Cubic,10,4,Cs2 Y1 Ag1 Cl6
+Cubic,10,4,Cs2 Hg1 Sb1 I6
+Cubic,10,4,Ba2 Nb1 Co1 O6
+Cubic,10,4,Rb2 Nd1 Au1 Cl6
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,10,4,Ca2 Hf1 Sn1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,Eu1 Zr1 O3
+Cubic,5,3,Rb1 Mn1 O3
+Cubic,10,4,Cs2 K1 Ag1 F6
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,10,4,Rb2 Na1 Bi1 Br6
+Cubic,10,4,Cs2 Ag1 Au1 F6
+Cubic,10,4,K2 Na1 In1 Cl6
+Cubic,10,4,K2 Li1 Fe1 F6
+Cubic,5,3,Eu1 Zr1 O3
+Cubic,10,4,K1 Rb2 Au1 F6
+Cubic,10,4,Ba2 Yb1 Mo1 O6
+Cubic,5,3,Cu1 Hg1 O3
+Cubic,5,3,Cd1 Ni3 C1
+Cubic,5,3,Rb1 Mn1 O3
+Cubic,10,4,Cs2 K1 Ag1 F6
+Orthorhombic,28,3,Mg1 Ag2 O4
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,5,3,Dy1 Sn1 O3
+Cubic,5,3,Tb3 In1 N1
+Monoclinic,20,4,Sr2 Tm1 Ru1 O6
+Cubic,10,4,Rb2 Li1 Y1 F6
+Cubic,10,4,Na2 Li1 Al1 H6
+Cubic,5,3,Pu1 In1 O3
+Cubic,10,4,Cs2 Li1 Bi1 Cl6
+Cubic,5,3,Dy3 Sn1 C1
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,10,4,Rb2 Li1 Mo1 Cl6
+Cubic,10,4,Rb2 Ga1 Ag1 I6
+Cubic,10,4,Na2 Li1 Mn1 F6
+Cubic,10,4,Cs2 Rb1 Al1 Cl6
+Cubic,10,4,Cs2 K1 Gd1 Cl6
+Cubic,10,4,K1 Rb2 Al1 Br6
+Cubic,5,3,La1 Al1 O3
+Orthorhombic,20,3,Fe1 Sn1 O3
+Cubic,5,3,Mo1 Pb1 O3
+Cubic,5,3,Pu1 Sb1 O3
+Cubic,20,4,Sr2 Cr1 W1 O6
+Cubic,5,3,K1 Te1 O3
+Monoclinic,20,4,Ca2 Sc1 Sb1 O6
+Cubic,10,4,Cs2 Na1 Mo1 Cl6
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Cubic,10,4,Cs2 Rb1 Tb1 Cl6
+Cubic,5,3,Cu3 Pd1 N1
+Cubic,10,4,Cs2 Tl1 In1 Cl6
+Cubic,10,4,Ba2 Pu1 Pa1 O6
+Cubic,10,3,In1 Ag3 F6
+Orthorhombic,60,4,Ca1 Nd2 Mn3 O9
+Orthorhombic,20,4,Y1 Er1 Al2 O6
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,Ba2 Ce1 Nb1 O6
+Cubic,10,4,Ca2 La1 Sb1 O6
+Cubic,10,4,Sr2 Eu1 Nb1 O6
+Cubic,10,3,Rb3 As1 Cl6
+Cubic,10,4,Ba2 La1 Sb1 O6
+Cubic,5,3,Er1 B1 Rh3
+Cubic,10,4,K2 Li1 Pd1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,K1 Gd1 Nb2 O6
+Cubic,5,3,K1 Ni1 F3
+Cubic,10,4,Rb2 Li1 Ce1 Br6
+Cubic,10,4,Cs2 Sc1 Ag1 Br6
+Cubic,10,4,Rb2 Gd1 Ag1 Cl6
+Cubic,5,3,Gd3 In1 N1
+Cubic,10,4,K2 Na1 Tm1 Cl6
+Cubic,10,4,K2 Li1 Mn1 F6
+Tetragonal,10,3,Rb1 Ag1 F3
+Cubic,10,4,Cs2 In1 Cu1 Br6
+Cubic,5,3,Yb1 Nb1 O3
+Cubic,10,4,Cs2 Ag1 Ir1 F6
+Cubic,5,3,Tl1 Co1 F3
+Cubic,5,3,Yb1 Zn1 O3
+Orthorhombic,40,3,Nb1 Ag1 O3
+Cubic,10,3,Fe1 Ag3 F6
+Monoclinic,20,4,Li1 Nd2 Ir1 O6
+Cubic,10,4,K2 In1 Ga1 I6
+Monoclinic,20,4,Sr2 Y1 Sb1 O6
+Cubic,5,3,Ti1 Fe3 N1
+Cubic,10,4,Cs2 Y1 Tl1 I6
+Cubic,10,4,K1 Zr2 Bi1 O6
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Cubic,10,4,Cs2 In1 Bi1 Cl6
+Cubic,40,4,Nd1 Eu2 Sb1 O6
+Cubic,10,4,Na2 Eu1 Mn1 O6
+Cubic,10,3,Rb3 Rh1 F6
+Cubic,10,4,Pr1 Zn1 Bi2 O6
+Cubic,10,4,Ba2 Sn1 W1 O6
+Tetragonal,10,4,Sr2 Ta1 Al1 O6
+Cubic,5,3,Ho1 B1 O3
+Orthorhombic,20,3,La1 Sc1 S3
+Orthorhombic,20,3,Sc1 Cr1 O3
+Orthorhombic,20,3,Gd1 Ga1 O3
+Cubic,5,3,Pr1 Co1 O3
+Orthorhombic,20,3,Gd1 V1 O3
+Monoclinic,34,3,Nd4 Ni3 O10
+Cubic,10,3,Ba1 Ti1 O3
+Cubic,10,4,Ba2 Dy1 Re1 O6
+Cubic,10,4,Eu2 Ni1 W1 O6
+Cubic,5,3,Y1 Ag1 O3
+Cubic,10,4,Cs2 Ce1 Ag1 Cl6
+Cubic,10,4,Sr2 Tb1 Nb1 O6
+Cubic,5,3,Ba1 Pd1 O3
+Monoclinic,20,4,Sr2 Gd1 Bi1 O6
+Cubic,10,4,Sr2 Sm1 Fe1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Rb2 Sc1 Cu1 F6
+Cubic,5,3,Co1 Sb1 O3
+Cubic,5,3,Cs1 Ti1 O3
+Monoclinic,20,4,Sr2 Nd1 Ta1 O6
+Orthorhombic,40,5,Na3 Gd1 Ti2 Nb2 O12
+Cubic,10,4,Ca1 La1 Co2 O6
+Cubic,5,3,Na1 V1 F3
+Orthorhombic,20,3,La1 Pd1 O3
+Cubic,5,3,Eu1 Ti1 O3
+Cubic,10,4,K2 As1 Au1 Br6
+Cubic,10,4,Ba2 Sm1 Cr1 O6
+Cubic,10,4,Rb2 Tl1 Rh1 F6
+Orthorhombic,20,3,La1 Sc1 O3
+Trigonal,20,4,Cs2 Li1 In1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Ba2 V1 Bi1 O6
+Monoclinic,20,4,Li1 La2 Ru1 O6
+Monoclinic,20,4,Pr2 Mg1 Pt1 O6
+Orthorhombic,20,3,Dy1 Ti1 O3
+Cubic,10,4,Cs2 Br1 Cl6 F1
+Orthorhombic,20,3,Ca1 Bi1 O3
+Tetragonal,5,4,Ba1 Ta1 N1 O2
+Cubic,10,4,Rb2 Li1 Bi1 Br6
+Cubic,10,4,Sr2 Dy1 Re1 O6
+Cubic,10,4,K2 Ag1 Bi1 I6
+Cubic,10,4,Rb2 Y1 Ag1 F6
+Cubic,10,4,Cs2 Ag1 Sb1 Br6
+Cubic,5,3,Mg1 B1 O3
+Orthorhombic,20,3,K1 Ag1 F3
+Cubic,10,4,Sr2 Sm1 U1 O6
+Cubic,10,4,Cs2 Cu1 Bi1 F6
+Cubic,10,4,Sr2 Li1 Re1 O6
+Orthorhombic,20,3,Mg1 Bi1 O3
+Cubic,10,4,Cs2 Cu1 Bi1 Br6
+Cubic,10,3,Rb3 Ru1 F6
+Cubic,40,4,Sr2 Eu1 Nb1 O6
+Cubic,10,4,Nd1 Eu2 Nb1 O6
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,4,Sr2 Hf1 Ti1 O6
+Cubic,10,4,Rb2 Na1 Sc1 Br6
+Cubic,10,4,Eu2 Dy1 Mn1 O6
+Monoclinic,20,4,Sr2 Gd1 Ru1 O6
+Cubic,5,3,Ti3 In1 C1
+Orthorhombic,20,3,Tm1 Ni1 O3
+Cubic,5,3,Y3 Pb1 C1
+Orthorhombic,20,3,Tb1 Ho1 O3
+Cubic,5,3,Si1 B1 O3
+Cubic,5,3,Mg1 Re1 O3
+Cubic,5,3,Ca1 Zr1 O3
+Cubic,10,4,Rb2 Na1 Ce1 F6
+Cubic,5,3,K3 Br1 O1
+Cubic,5,3,Sr1 Zr1 O3
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,10,4,K2 Li1 Pr1 Cl6
+Cubic,10,4,Cs2 Na1 Sb1 F6
+Cubic,10,4,Sr2 V1 W1 O6
+Cubic,10,4,K2 In1 Ag1 Br6
+Cubic,10,4,Cs2 In1 Ga1 Cl6
+Cubic,5,3,Cs1 Eu1 O3
+Cubic,10,4,Sr2 La1 Sb1 O6
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Orthorhombic,20,4,La1 Y1 Ti2 O6
+Cubic,10,4,Sr2 Pr1 Co1 O6
+Monoclinic,20,3,Sc1 Co1 O3
+Orthorhombic,20,3,Tb1 Sc1 O3
+Cubic,10,4,Sr2 Nd1 Mn1 O6
+Cubic,5,3,Yb3 Sn1 C1
+Cubic,10,4,Ba2 U1 Fe1 O6
+Cubic,10,4,Cs2 Na1 Y1 Br6
+Cubic,20,4,Ba2 Ni1 Mo1 O6
+Cubic,10,4,Cs2 Li1 N1 F6
+Cubic,5,3,Cs1 Ge1 Br3
+Cubic,5,3,Ba1 Pa1 O3
+Cubic,10,4,Cs2 Rb1 Tl1 F6
+Orthorhombic,20,3,Er1 Co1 O3
+Cubic,10,4,K2 Na1 Bi1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Rb2 Sb1 Au1 Cl6
+Cubic,10,4,Cs2 K1 As1 I6
+Cubic,10,4,Sr2 V1 Sn1 O6
+Cubic,10,4,Cs2 Na1 Cr1 Cl6
+Monoclinic,60,4,Ca3 Mn2 W1 O9
+Hexagonal,30,4,Ba3 Sr1 Nb2 O9
+Cubic,10,4,Ba2 Pu1 Pa1 O6
+Cubic,5,3,Rb1 Li1 O3
+Cubic,10,3,In1 Ag3 F6
+Orthorhombic,60,4,Ca1 Nd2 Mn3 O9
+Orthorhombic,20,4,Y1 Er1 Al2 O6
+Cubic,10,4,Rb2 Pr1 Cu1 I6
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,Cs2 K1 Ta1 F6
+Cubic,10,3,K3 V1 F6
+Cubic,10,4,Ba2 Ce1 Nb1 O6
+Cubic,10,4,K2 Tl1 Hg1 Br6
+Cubic,10,4,Cs2 Li1 Gd1 Cl6
+Cubic,10,4,Rb2 Hg1 As1 I6
+Cubic,10,4,Rb2 Li1 Tb1 Cl6
+Cubic,5,3,Co1 Rh1 O3
+Cubic,5,3,V1 Os1 O3
+Cubic,10,4,Ca2 La1 Sb1 O6
+Cubic,5,3,Zr1 B1 O3
+Cubic,5,3,Co1 Ag1 F3
+Trigonal,20,5,Sr3 La1 Ti2 Mn2 O12
+Hexagonal,60,4,Ba2 Sr1 Ir3 O9
+Cubic,10,3,Na3 Au1 F6
+Cubic,10,4,Sr2 Eu1 Nb1 O6
+Cubic,5,3,La3 In1 B1
+Cubic,10,3,Rb3 As1 Cl6
+Cubic,10,4,Ba2 Eu1 Re1 O6
+Cubic,5,3,K3 Au1 O1
+Cubic,10,4,Rb2 Na1 Pb1 F6
+Cubic,10,4,Ba2 La1 Sb1 O6
+Cubic,5,3,Er1 B1 Rh3
+Cubic,10,4,Cs2 Na1 Ta1 Cl6
+Cubic,10,4,K2 Li1 Pd1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Cubic,10,4,Cs2 Tl1 As1 F6
+Cubic,10,4,Cs2 Tl1 Hg1 F6
+Cubic,10,4,Cs2 In1 Bi1 Cl6
+Cubic,10,4,Rb2 Na1 Sc1 F6
+Cubic,10,4,Rb2 Na1 As1 Cl6
+Cubic,10,4,Sr2 In1 Os1 O6
+Cubic,40,4,Nd1 Eu2 Sb1 O6
+Cubic,5,3,Ce3 Al1 O1
+Cubic,10,4,Cs2 Eu1 Ag1 Cl6
+Cubic,10,4,Na2 Eu1 Mn1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Ba2 Sn1 W1 O6
+Tetragonal,10,4,Sr2 Ta1 Al1 O6
+Cubic,10,4,Sr2 Dy1 Mn1 O6
+Cubic,10,4,Ba2 Sm1 Fe1 O6
+Cubic,5,3,Ho1 B1 O3
+Cubic,5,3,Ca3 Pb1 O1
+Cubic,5,3,K1 U1 O3
+Orthorhombic,20,3,La1 Sc1 S3
+Orthorhombic,20,3,Sc1 Cr1 O3
+Cubic,10,4,Cs2 Rb1 In1 Br6
+Cubic,10,4,Cs2 K1 Ta1 Br6
+Orthorhombic,20,3,Eu1 Tm1 O3
+Orthorhombic,20,3,Gd1 Ga1 O3
+Cubic,5,3,Mg1 U1 O3
+Monoclinic,20,4,Sr2 Ca1 Te1 O6
+Cubic,5,3,Pr1 Co1 O3
+Cubic,10,4,Sr2 Nd1 Nb1 O6
+Monoclinic,20,4,La2 Nb1 Ni1 O6
+Orthorhombic,20,3,Gd1 V1 O3
+Monoclinic,34,3,Nd4 Ni3 O10
+Cubic,10,3,Ba1 Ti1 O3
+Cubic,10,4,Ba2 Dy1 Re1 O6
+Cubic,10,4,Eu2 Ni1 W1 O6
+Cubic,10,4,K1 Nd1 Zr2 O6
+Cubic,5,3,Mn1 In1 F3
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Cubic,10,4,Sr2 Tb1 Zr1 O6
+Cubic,5,3,Ta1 Ru3 C1
+Orthorhombic,20,3,Sm1 Ni1 O3
+Cubic,5,3,Ca3 Sn1 O1
+Trigonal,20,3,Sr1 Ni1 O3
+Cubic,5,3,Rb3 Cl1 O1
+Cubic,5,3,Cs1 K1 O3
+Orthorhombic,20,3,La1 Ti1 O3
+Cubic,10,4,Cs2 Rb1 Eu1 Cl6
+Cubic,5,3,K1 Pd1 F3
+Cubic,10,4,Cs2 Al1 In1 I6
+Cubic,5,3,Cs1 Pb1 O3
+Cubic,5,3,Si1 Pd1 O3
+Orthorhombic,20,3,Ca1 W1 O3
+Cubic,10,4,K2 Na1 Rh1 F6
+Cubic,10,3,K3 As1 Cl6
+Cubic,10,4,Ba2 Ca1 Mo1 O6
+Cubic,10,4,K2 As1 Au1 Br6
+Cubic,5,3,Cs1 U1 Br3
+Cubic,10,4,Ba2 Sm1 Cr1 O6
+Cubic,5,3,K1 Ta1 O3
+Cubic,10,4,Rb2 Tl1 Rh1 F6
+Monoclinic,20,4,La2 Mn1 V1 O6
+Orthorhombic,20,3,La1 Sc1 O3
+Cubic,5,3,Co1 Te1 O3
+Cubic,5,3,Li1 Ac1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,K1 Au1 O3
+Cubic,5,3,Y1 Ag1 O3
+Orthorhombic,20,3,Sr3 Ge1 O1
+Cubic,10,4,Cs2 Ce1 Ag1 Cl6
+Cubic,10,4,Sr2 Tb1 Nb1 O6
+Cubic,5,3,Ba1 Pd1 O3
+Monoclinic,20,4,Sr2 Gd1 Bi1 O6
+Orthorhombic,20,3,Sc1 Bi1 O3
+Cubic,10,4,Sr2 Sm1 Fe1 O6
+Cubic,5,3,Pr1 Nb1 O3
+Cubic,10,4,Ba1 Sr1 Sn2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Ba2 Er1 Ta1 O6
+Cubic,5,3,Dy1 Sb1 O3
+Orthorhombic,60,4,Sr1 Nd2 Mn3 O9
+Cubic,10,4,Cs2 Na1 Er1 F6
+Cubic,5,3,Al1 Sb1 O3
+Cubic,10,4,Mg1 Pb2 W1 O6
+Monoclinic,34,3,Ba4 Ir3 O10
+Cubic,5,3,Mn3 Sn1 C1
+Cubic,5,3,Cr3 Ga1 N1
+Cubic,5,3,Lu1 B1 Pd3
+Cubic,10,4,Sr2 Ga1 Bi1 O6
+Orthorhombic,20,3,Gd1 Mn1 O3
+Monoclinic,40,4,Sr2 Co1 Re1 O6
+Cubic,5,3,V1 Pt1 O3
+Orthorhombic,20,3,Tb1 Rh1 O3
+Orthorhombic,20,3,Li1 V1 F3
+Monoclinic,60,4,Sr3 Ca1 Ru2 O9
+Cubic,10,4,Cs2 Nd1 Au1 Cl6
+Cubic,10,4,Na1 La1 Zr2 O6
+Cubic,5,3,Rb1 Pb1 Cl3
+Cubic,10,4,K1 Rb2 Pd1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,K1 Re1 O3
+Cubic,10,4,Cs2 Li1 Ta1 I6
+Orthorhombic,20,3,Ca1 Ni1 O3
+Cubic,10,4,K1 Gd1 Nb2 O6
+Cubic,5,3,Pd3 Pb1 C1
+Cubic,5,3,K1 Ni1 F3
+Cubic,10,4,Rb2 Li1 Ce1 Br6
+Monoclinic,20,4,Sr2 Er1 Ru1 O6
+Cubic,10,4,Cs2 Sc1 Ag1 Br6
+Cubic,5,3,Ac1 Cu1 O3
+Cubic,10,4,Rb2 Gd1 Ag1 Cl6
+Cubic,5,3,Gd3 In1 N1
+Cubic,10,4,K2 Na1 Tm1 Cl6
+Cubic,10,3,K3 Mo1 Cl6
+Cubic,10,4,K2 Li1 Mn1 F6
+Cubic,10,4,Cs2 Na1 Pr1 Cl6
+Tetragonal,10,3,Rb1 Ag1 F3
+Cubic,10,3,Na3 Pd1 F6
+Cubic,10,4,Cs2 In1 Cu1 Br6
+Cubic,5,3,Nd1 Np1 O3
+Cubic,5,3,Yb1 Nb1 O3
+Cubic,40,4,Sr2 Fe1 Sb1 O6
+Cubic,10,4,Cs2 Ag1 Ir1 F6
+Cubic,5,3,Tl1 Co1 F3
+Cubic,10,4,Eu2 Mn1 W1 O6
+Cubic,5,3,Yb1 Zn1 O3
+Orthorhombic,40,3,Nb1 Ag1 O3
+Cubic,10,3,Fe1 Ag3 F6
+Monoclinic,20,4,Li1 Nd2 Ir1 O6
+Tetragonal,10,4,Ba1 La1 Mn2 O6
+Cubic,10,3,Sr1 Co1 O3
+Orthorhombic,20,3,Gd1 Lu1 O3
+Cubic,10,4,K2 In1 Ga1 I6
+Cubic,5,3,Ac1 Cr1 O3
+Monoclinic,20,4,Sr2 Y1 Sb1 O6
+Cubic,10,4,Cs2 Li1 In1 Br6
+Cubic,5,3,Ti1 Fe3 N1
+Cubic,5,3,Rb1 Cu1 Br3
+Cubic,10,4,Cs2 Y1 Tl1 I6
+Cubic,10,4,K2 Li1 Sm1 Cl6
+Cubic,10,4,K1 Zr2 Bi1 O6
+Cubic,10,4,K2 Na1 Er1 Cl6
+Orthorhombic,20,3,Ba1 U1 O3
+Cubic,10,4,Na1 Sr2 Mn1 O6
+Monoclinic,20,4,Ba2 Ca1 U1 O6
+Cubic,5,3,Nb1 Tl1 O3
+Orthorhombic,20,3,Sr1 Zr1 S3
+Cubic,5,3,Er3 Sn1 C1
+Cubic,5,3,Cs1 Hg1 F3
+Cubic,10,4,Rb2 Eu1 Cu1 Cl6
+Cubic,10,3,Sr1 Ni1 O3
+Cubic,5,3,K3 I1 O1
+Monoclinic,60,4,La3 Ta1 Co2 O9
+Cubic,10,4,K2 Na1 Sb1 Cl6
+Cubic,10,4,K2 Li1 La1 Cl6
+Cubic,10,4,Cs2 Nb1 Ag1 F6
+Cubic,10,4,Cs2 Y1 Cu1 F6
+Cubic,10,4,Cs2 Ag1 Au1 Br6
+Cubic,10,4,K1 Rb2 Al1 I6
+Cubic,10,4,K2 Li1 Ta1 Cl6
+Cubic,5,3,Li1 Er1 O3
+Cubic,10,4,Cs2 Bi1 Au1 Cl6
+Tetragonal,5,4,Cs1 Hg1 Br2 Cl1
+Monoclinic,20,4,Sr2 Y1 Ru1 O6
+Orthorhombic,20,3,Sc1 Co1 O3
+Cubic,5,3,Ac1 Ga1 O3
+Cubic,5,3,Bi1 Pt1 O3
+Orthorhombic,20,3,Sm1 Tm1 O3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,La1 Ta1 O3
+Cubic,10,4,Rb2 Y1 Hg1 F6
+Cubic,5,3,Eu1 Hg1 O3
+Cubic,5,3,Gd1 Cu1 O3
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,5,3,Np1 Si1 O3
+Cubic,10,4,Eu2 Fe1 Sn1 O6
+Cubic,10,4,K1 Ba2 I1 O6
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Cs2 Na1 Sm1 F6
+Cubic,5,3,Er1 Al1 O3
+Cubic,10,4,Ba2 Ho1 U1 O6
+Cubic,10,4,K2 Li1 Cu1 F6
+Orthorhombic,20,3,Tm1 Ti1 O3
+Cubic,10,4,Ba2 Mg1 Re1 O6
+Cubic,5,3,Yb1 Re1 O3
+Cubic,40,4,Ba2 Pr1 Zr1 O6
+Cubic,5,3,Fe3 Pt1 N1
+Cubic,10,4,Sr2 Eu1 Bi1 O6
+Cubic,5,3,Mn3 Ge1 C1
+Cubic,5,3,Rb1 Ca1 F3
+Cubic,5,3,Cs1 Sn1 I3
+Cubic,5,3,Fe3 Ni1 N1
+Cubic,5,3,Zr1 Os1 O3
+Cubic,10,4,Eu2 V1 W1 O6
+Cubic,5,3,Cs1 Pd1 Br3
+Cubic,10,4,Cs2 Li1 Ta1 Br6
+Cubic,10,4,Na2 Li1 Y1 F6
+Cubic,10,4,Cs2 Li1 Tl1 Br6
+Cubic,10,4,Rb2 Na1 Pr1 Br6
+Cubic,10,4,Rb2 Tl1 Au1 F6
+Orthorhombic,20,3,Ba3 Si1 O1
+Cubic,10,4,Cs2 Na1 Ga1 Cl6
+Cubic,10,4,Cs2 Er1 Ag1 Cl6
+Cubic,10,4,Rb2 Y1 Tl1 F6
+Cubic,5,3,Eu1 Lu1 O3
+Cubic,5,3,K1 Cd1 N3
+Monoclinic,20,4,Li1 La2 Re1 O6
+Orthorhombic,20,4,La1 Pr1 Mn2 O6
+Cubic,10,4,Rb2 Li1 Pr1 I6
+Cubic,5,3,Yb1 Mg1 O3
+Cubic,10,3,Li3 Co1 F6
+Cubic,5,3,Lu3 In1 C1
+Cubic,10,3,Cs3 Au1 Br6
+Cubic,10,4,Cs2 Na1 Pb1 F6
+Cubic,10,4,Re1 Ni1 Pb2 O6
+Cubic,10,4,Ba2 Ce1 W1 O6
+Monoclinic,20,4,Sr2 Co1 Sb1 O6
+Monoclinic,40,4,Ca2 Fe1 Ir1 O6
+Monoclinic,20,4,Na2 Li1 Al1 H6
+Cubic,5,3,Sr1 Ru1 O3
+Cubic,40,4,K9 U6 Bi1 O24
+Cubic,10,4,Sr2 Ho1 Re1 O6
+Cubic,10,4,Rb2 Ta1 Ag1 Br6
+Cubic,10,4,K2 Li1 Mo1 F6
+Cubic,10,4,Cs2 Tm1 Cu1 Cl6
+Cubic,10,4,Cs2 Na1 U1 Cl6
+Cubic,10,4,K2 Tl1 As1 Cl6
+Cubic,10,4,Cs2 Rb1 In1 I6
+Cubic,10,4,Rb2 Tl1 Ag1 Br6
+Cubic,10,4,Rb2 Ga1 Hg1 Br6
+Cubic,10,4,Sr2 In1 Bi1 O6
+Cubic,10,4,Rb2 Tl1 As1 Br6
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,5,3,Th1 B1 O3
+Cubic,5,3,Ce1 Ru3 C1
+Cubic,10,4,K2 Na1 Ta1 Cl6
+Cubic,5,3,Ce3 Sn1 N1
+Orthorhombic,20,3,K1 Dy1 Br3
+Cubic,5,3,Mn3 Zn1 C1
+Cubic,10,4,Rb2 Hg1 As1 Cl6
+Cubic,40,4,Sr2 Ce1 Nb1 O6
+Tetragonal,10,4,Ba2 Ca1 W1 O6
+Cubic,10,4,Rb2 Cu1 Ni1 F6
+Cubic,5,3,Nd3 Pb1 N1
+Monoclinic,20,4,Sr2 Lu1 Ru1 O6
+Cubic,10,4,Rb2 Na1 In1 I6
+Orthorhombic,20,3,Sr1 Sn1 O3
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Cubic,5,3,Cs1 Cd1 Cl3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,Tb3 In1 N1
+Cubic,10,4,Rb2 Na1 As1 F6
+Cubic,10,4,Ba2 Ta1 Co1 O6
+Cubic,10,3,K3 Au1 Cl6
+Cubic,10,4,Cs2 Al1 Ag1 Br6
+Cubic,10,4,K2 Cu1 Bi1 Br6
+Cubic,5,3,Na1 Ag1 O3
+Cubic,5,3,U1 Re1 O3
+Cubic,10,4,Cs2 Tl1 Bi1 Br6
+Orthorhombic,20,3,Eu1 U1 O3
+Cubic,5,3,Lu1 Re1 O3
+Cubic,10,4,Cs2 K1 Y1 Br6
+Cubic,10,4,Cs2 Sc1 In1 I6
+Orthorhombic,20,3,Mg1 W1 O3
+Cubic,10,4,Rb2 Y1 Hg1 Cl6
+Cubic,5,3,Be1 In1 O3
+Cubic,10,4,Sr2 Eu1 V1 O6
+Cubic,5,3,K1 Zn1 O3
+Cubic,10,4,Eu2 Y1 W1 O6
+Cubic,5,3,Sb1 Au1 O3
+Orthorhombic,20,3,U1 Cr1 S3
+Cubic,20,4,Ba2 Ta1 Fe1 O6
+Orthorhombic,20,3,Tm1 Co1 O3
+Orthorhombic,20,3,Ce1 Rh1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Orthorhombic,20,4,Sr1 Ca1 Ru2 O6
+Cubic,5,3,Cs1 Au1 Br3
+Cubic,5,3,Nd3 In1 N1
+Cubic,5,3,K1 Mg1 H3
+Cubic,10,4,Sr2 Ti1 Bi1 O6
+Cubic,5,3,La3 Al1 N1
+Orthorhombic,20,3,Y1 W1 O3
+Cubic,40,4,Ba2 Co1 Re1 O6
+Cubic,10,4,Cs2 Ag1 As1 Cl6
+Cubic,5,3,Cs1 Yb1 F3
+Cubic,5,3,Rb1 W1 O3
+Tetragonal,40,4,Sr2 Ti1 Mn1 O6
+Orthorhombic,60,4,Ca2 Y1 Mn3 O9
+Cubic,10,4,K2 Li1 Fe1 F6
+Cubic,5,3,Eu1 Zr1 O3
+Cubic,10,4,K1 Rb2 Au1 F6
+Cubic,5,3,Cu1 Hg1 O3
+Cubic,10,4,Ba2 Yb1 Mo1 O6
+Cubic,40,4,Ba2 Nd1 Bi1 O6
+Cubic,10,4,Ba2 Nd1 Bi1 O6
+Cubic,5,3,Cd1 Ni3 C1
+Cubic,5,3,Rb1 Mn1 O3
+Cubic,10,4,Sr2 Ni1 Bi1 O6
+Cubic,10,4,Cs2 K1 Ag1 F6
+Cubic,10,4,Ba2 Ce1 Sn1 O6
+Orthorhombic,28,3,Mg1 Ag2 O4
+Cubic,10,4,Sr2 Y1 W1 O6
+Cubic,10,4,Sr2 Ca1 W1 O6
+Orthorhombic,20,3,Dy1 Sc1 O3
+Orthorhombic,24,3,Tl2 Sn1 O3
+Cubic,10,4,Cs2 K1 Tb1 Cl6
+Orthorhombic,20,3,Cd1 Co1 O3
+Cubic,10,4,K2 La1 Au1 Cl6
+Cubic,10,4,Cs2 In1 Hg1 I6
+Cubic,5,3,Dy1 Sn1 O3
+Orthorhombic,20,3,Na1 V1 F3
+Cubic,5,3,B1 Sb1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,Ni1 Pt1 O3
+Cubic,10,4,Cs2 K1 Sb1 Br6
+Cubic,10,4,Ba2 Y1 Mo1 O6
+Cubic,5,3,Np1 Be1 O3
+Tetragonal,10,4,Sr2 Nb1 Fe1 O6
+Cubic,10,4,Cs2 Ce1 Ag1 F6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,Rb2 Tl1 Bi1 F6
+Orthorhombic,20,3,Ba1 Zr1 S3
+Cubic,10,4,Sr2 Ho1 U1 O6
+Cubic,5,3,Pr3 Ga1 C1
+Orthorhombic,20,3,Tb1 Co1 O3
+Cubic,10,4,K2 Pr1 Cu1 I6
+Cubic,5,3,Eu1 Os1 O3
+Orthorhombic,20,4,Ca1 Ta1 N1 O2
+Tetragonal,50,4,Sr4 Ca1 Fe5 O15
+Cubic,5,3,Sr3 Sb1 N1
+Cubic,5,3,K1 Ba1 O3
+Cubic,5,3,Mn1 Tl1 F3
+Cubic,10,4,K2 Ga1 Ag1 Cl6
+Cubic,10,4,K2 Na1 In1 I6
+Orthorhombic,20,3,Li1 Mn1 F3
+Cubic,5,3,K1 Rb1 O3
+Cubic,5,3,Ho1 Ge1 O3
+Cubic,5,3,Sr1 Tm1 O3
+Cubic,10,4,Cs2 Li1 Dy1 Cl6
+Cubic,10,4,Yb1 Ta1 Pb2 O6
+Cubic,5,3,Cs1 Na1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 Cl6
+Cubic,5,3,Yb1 Si1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,Be1 Re1 O3
+Trigonal,11,5,Na1 Mg1 Ti2 Bi1 O6
+Cubic,5,3,Sr1 Yb1 O3
+Orthorhombic,36,3,Cs1 In3 O5
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Cubic,5,3,Sm3 Pb1 C1
+Orthorhombic,20,3,K3 Cl1 O1
+Orthorhombic,20,3,Tb1 Mn1 O3
+Tetragonal,20,4,Sr4 Fe3 Mo1 O12
+Tetragonal,10,3,K1 Cu1 F3
+Cubic,10,4,Ba2 Yb1 Ta1 O6
+Cubic,10,4,K1 Rb2 Sc1 F6
+Cubic,10,4,Cs2 Ga1 Cu1 Cl6
+Cubic,5,3,Nd3 In1 C1
+Cubic,5,3,Dy1 Cu1 O3
+Cubic,10,4,Cs2 Na1 Ga1 H6
+Cubic,5,3,La1 Mg1 O3
+Cubic,10,4,Ba2 U1 In1 O6
+Monoclinic,20,4,Sr2 Sm1 Ta1 O6
+Monoclinic,20,4,La2 Mg1 Nb1 O6
+Tetragonal,10,4,Mn6 Zn2 C1 N1
+Cubic,10,4,Na2 Li1 N1 F6
+Orthorhombic,20,3,Ti1 Cd1 O3
+Cubic,10,3,K3 Bi1 F6
+Cubic,10,3,Li3 Ga1 F6
+Cubic,10,4,Cs2 K1 As1 Cl6
+Cubic,5,3,Sm1 Ni1 O3
+Cubic,10,4,Cs2 Lu1 Ag1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Rb2 Sb1 Au1 I6
+Cubic,5,3,Ca1 Sn1 S3
+Cubic,5,3,Sr1 Ho1 O3
+Cubic,10,4,Ca6 Sn2 N1 F1
+Cubic,10,4,Cs2 Li1 Tm1 Cl6
+Cubic,10,4,Rb2 Li1 Mn1 F6
+Cubic,40,4,Sr2 Zr1 Cr1 O6
+Cubic,10,4,Rb2 Li1 Ta1 F6
+Cubic,10,4,Cs2 Rb1 Ta1 F6
+Cubic,10,4,K1 Rb2 Au1 Br6
+Cubic,10,4,Rb2 Na1 Tb1 Cl6
+Orthorhombic,20,3,Ca1 Hf1 S3
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,10,4,Ba2 Sm1 U1 O6
+Monoclinic,20,4,Nd2 Co1 Ni1 O6
+Cubic,10,4,Cs2 Ag1 As1 F6
+Cubic,10,4,Rb2 Na1 Nd1 F6
+Cubic,5,3,Mg1 Hg1 O3
+Cubic,10,4,Sr2 Ce1 Hf1 O6
+Cubic,5,3,Rb1 Na1 O3
+Monoclinic,20,4,Ca2 Sc1 Os1 O6
+Cubic,5,3,Al1 Pb1 O3
+Cubic,10,4,Rb2 Pd1 Au1 F6
+Cubic,10,4,K2 Li1 Ce1 I6
+Cubic,10,4,Cs2 Na1 Sc1 I6
+Cubic,10,4,Cs2 Rb1 Gd1 Cl6
+Cubic,10,4,Cs2 Eu1 Cu1 Cl6
+Cubic,10,3,Na3 Ru1 F6
+Cubic,5,3,Ba1 Tl1 O3
+Cubic,10,4,Na1 Eu1 Zr2 O6
+Monoclinic,20,4,Li1 Sm2 Ir1 O6
+Cubic,5,3,Mg1 Tl1 O3
+Cubic,10,4,Nb1 Ga1 Pb2 O6
+Cubic,10,4,Sr2 Nd1 V1 O6
+Cubic,10,4,Ba2 Ho1 Ta1 O6
+Cubic,10,4,Ca2 Dy1 Sb1 O6
+Cubic,10,4,K1 Rb2 Bi1 F6
+Cubic,10,4,Sr2 Zn1 Mo1 O6
+Cubic,5,3,Si1 Mo1 O3
+Orthorhombic,20,3,Ca1 V1 O3
+Cubic,10,4,Ba2 Tb1 Ce1 O6
+Orthorhombic,20,3,Cs1 Eu1 Br3
+Cubic,10,4,K2 Na1 Pr1 F6
+Monoclinic,20,4,Sr2 Zn1 Re1 O6
+Orthorhombic,20,3,Tb1 Lu1 O3
+Orthorhombic,20,3,Ho1 Fe1 O3
+Cubic,5,3,Tm3 In1 C1
+Monoclinic,20,4,Sr2 Sc1 Ta1 O6
+Orthorhombic,20,3,Sr1 Hf1 O3
+Cubic,5,3,Na1 Mg1 O3
+Cubic,5,3,Zn1 B1 O3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Orthorhombic,20,3,Tm1 Sc1 O3
+Cubic,5,3,Ti1 Pb1 O3
+Cubic,10,4,Ca2 Ti1 Si1 O6
+Cubic,10,4,Ba2 Y1 Sb1 O6
+Cubic,10,3,Rb1 In1 F3
+Cubic,5,3,Lu1 V1 O3
+Cubic,5,3,Np1 Ti1 O3
+Cubic,10,4,Cs2 Na1 Al1 H6
+Cubic,10,4,K2 Ag1 Au1 Br6
+Orthorhombic,40,5,Na3 Tb1 Ti2 Nb2 O12
+Cubic,5,3,Eu1 Er1 O3
+Cubic,10,4,Rb2 Na1 Bi1 Br6
+Cubic,5,3,K1 Pa1 O3
+Cubic,10,4,Cs2 Ag1 Au1 F6
+Cubic,10,4,Na1 Nd1 Hf2 O6
+Monoclinic,20,4,Sr2 Tm1 Ru1 O6
+Cubic,10,4,Rb2 Li1 Y1 F6
+Cubic,40,4,Sr2 Gd1 Nb1 O6
+Cubic,10,4,Na2 Li1 Al1 H6
+Cubic,5,3,Pu1 In1 O3
+Orthorhombic,20,3,Co1 Te1 O3
+Orthorhombic,20,3,Na1 Zn1 F3
+Cubic,10,4,Cs2 Li1 Bi1 Cl6
+Cubic,5,3,Ta1 Be1 O3
+Cubic,5,3,Dy3 Sn1 C1
+Orthorhombic,20,3,Mn1 Bi1 O3
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,10,4,Rb2 Li1 Mo1 Cl6
+Cubic,10,4,Rb2 Li1 Sb1 I6
+Cubic,10,4,K2 Cu1 Au1 F6
+Cubic,10,4,Rb2 Ga1 Ag1 I6
+Cubic,10,4,Cs2 Ta1 Ag1 Br6
+Cubic,10,4,Na2 Li1 Mn1 F6
+Cubic,10,4,Cs2 Ta1 Ag1 I6
+Cubic,10,4,Cs2 Rb1 Al1 Cl6
+Cubic,5,3,Cs1 La1 O3
+Cubic,10,4,Cs2 K1 Gd1 Cl6
+Tetragonal,20,4,Sr2 Ti1 Mn1 O6
+Cubic,10,4,K1 Rb2 Al1 Br6
+Cubic,5,3,La1 Al1 O3
+Cubic,10,4,Ba1 La1 Mn2 O6
+Orthorhombic,20,3,Fe1 Sn1 O3
+Cubic,10,4,Ba2 Pr1 Nb1 O6
+Cubic,5,3,Mo1 Pb1 O3
+Tetragonal,20,3,Sr1 Co1 O3
+Cubic,5,3,Pu1 Sb1 O3
+Cubic,20,4,Sr2 Cr1 W1 O6
+Cubic,5,3,K1 Te1 O3
+Tetragonal,10,4,Ba1 Ce2 Eu1 O6
+Monoclinic,20,4,Ca2 Sc1 Sb1 O6
+Tetragonal,10,4,Ba1 Ca1 Zr2 O6
+Cubic,10,4,Cs2 Na1 Mo1 Cl6
+Tetragonal,10,3,Sr1 Ti1 O3
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Trigonal,40,4,Sr1 La3 Mn4 O12
+Cubic,10,4,Cs2 Rb1 Tb1 Cl6
+Cubic,5,3,Sr1 As1 O3
+Cubic,5,3,Cu3 Pd1 N1
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,5,3,Sc1 Sn1 O3
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Rb2 Na1 Fe1 F6
+Cubic,10,4,Cs2 Li1 Y1 Br6
+Tetragonal,50,5,Na1 Sr8 La1 Ti10 O30
+Orthorhombic,20,3,Sm1 Cu1 O3
+Cubic,10,4,Cs2 Sc1 Ag1 Cl6
+Cubic,10,4,Cs2 Rb1 Pb1 F6
+Cubic,10,3,Cs1 In1 Cl3
+Cubic,10,4,Cs2 In1 Hg1 F6
+Cubic,10,4,Rb2 Ga1 Ag1 Br6
+Cubic,10,4,Cs2 Rb1 As1 I6
+Cubic,10,4,Rb2 Sc1 Cu1 F6
+Cubic,10,4,Rb2 Tl1 Ga1 I6
+Orthorhombic,20,3,Li1 Mn1 O3
+Cubic,5,3,Co1 Sb1 O3
+Cubic,5,3,Ca1 Mg1 O3
+Cubic,5,3,U1 Hg1 O3
+Cubic,5,3,Cs1 Ti1 O3
+Monoclinic,20,4,Sr2 Nd1 Ta1 O6
+Orthorhombic,40,5,Na3 Gd1 Ti2 Nb2 O12
+Cubic,10,4,Ba2 Ce1 Zr1 O6
+Cubic,10,4,Ca1 La1 Co2 O6
+Cubic,5,3,Sm3 In1 C1
+Orthorhombic,20,3,Nd1 Ga1 O3
+Cubic,5,3,Na1 V1 F3
+Monoclinic,20,4,Sr2 Yb1 Ru1 O6
+Monoclinic,20,4,La2 Mg1 Ir1 O6
+Orthorhombic,20,3,La1 Pd1 O3
+Cubic,5,3,Ba1 Np1 O3
+Cubic,5,3,Eu1 Ti1 O3
+Cubic,10,4,K2 In1 Hg1 Br6
+Cubic,10,4,K2 Sc1 Ag1 Cl6
+Cubic,10,4,Rb2 Li1 Tm1 Cl6
+Cubic,5,3,Ga1 Te1 O3
+Orthorhombic,20,3,Ba1 U1 O3
+Cubic,5,3,Tc1 Sn1 O3
+Monoclinic,20,4,Ca2 Sc1 Nb1 O6
+Cubic,10,4,Na1 Sr2 Mn1 O6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,K2 Ta1 Ag1 Br6
+Cubic,10,4,K2 Nb1 Ag1 F6
+Cubic,10,4,Cs2 Rb1 Ru1 F6
+Cubic,10,4,Cs2 In1 Sb1 Br6
+Cubic,5,3,Ca1 Y1 O3
+Cubic,10,4,Rb2 Al1 Hg1 Br6
+Cubic,10,4,Rb2 Li1 Tl1 F6
+Cubic,5,3,Ho1 Cu1 O3
+Cubic,5,3,Eu1 Ir1 O3
+Cubic,5,3,U1 Si1 O3
+Orthorhombic,28,3,Ho2 Pb1 S4
+Tetragonal,10,4,K2 Ta1 Nb1 O6
+Orthorhombic,20,3,Ni1 W3 N1
+Cubic,10,4,Ba2 Y1 Zr1 O6
+Tetragonal,10,4,K2 Mg1 Cu1 F6
+Cubic,5,3,Ho1 Ru3 C1
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,10,4,Sr2 Y1 V1 O6
+Cubic,5,3,Lu3 Al1 C1
+Cubic,40,4,Sr2 Eu1 W1 O6
+Cubic,40,4,Sr1 Ca7 Mn8 O24
+Cubic,5,3,Al1 Sn1 O3
+Cubic,10,4,Cs2 Na1 As1 F6
+Orthorhombic,20,3,Ca1 Cr1 O3
+Cubic,10,4,Cs2 Y1 Ag1 Cl6
+Monoclinic,20,4,Sr2 Co1 Te1 O6
+Orthorhombic,48,5,H6 Pb1 C1 Br3 N1
+Cubic,5,3,K1 Tc1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 I6
+Cubic,10,4,Cs2 Na1 As1 Cl6
+Cubic,10,4,Sr2 Hf1 Sn1 O6
+Cubic,10,4,Cs2 K1 Sc1 F6
+Cubic,5,3,Cs1 Np1 O3
+Cubic,10,4,Ba2 Tm1 Mo1 O6
+Orthorhombic,20,3,Yb1 Fe1 O3
+Cubic,10,4,Ba2 U1 Ge1 O6
+Cubic,10,4,Ba2 Nb1 Co1 O6
+Cubic,5,3,Ni1 Ag1 F3
+Cubic,10,4,Ba2 Nb1 In1 O6
+Orthorhombic,20,3,Ce1 Tm1 O3
+Cubic,10,4,Rb2 Nd1 Au1 Cl6
+Cubic,10,3,Fe1 Bi1 O3
+Orthorhombic,20,3,Fe1 Bi1 O3
+Monoclinic,20,4,Ba2 Ca1 U1 O6
+Orthorhombic,20,3,Al1 Fe1 O3
+Cubic,5,3,Nb1 Tl1 O3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,Sc3 In1 N1
+Orthorhombic,20,3,Tb1 V1 O3
+Orthorhombic,20,3,Sr1 Zr1 S3
+Cubic,5,3,Er3 Sn1 C1
+Cubic,5,3,Np1 Tc1 O3
+Cubic,5,3,Cs1 Hg1 F3
+Cubic,10,4,Rb2 Eu1 Cu1 Cl6
+Orthorhombic,20,3,Na1 Os1 O3
+Cubic,10,3,Sr1 Ni1 O3
+Cubic,10,4,K2 Na1 Ga1 Cl6
+Cubic,10,4,K2 Sc1 Ag1 Br6
+Cubic,10,4,Cs2 Y1 Hg1 F6
+Cubic,5,3,K3 I1 O1
+Cubic,10,4,Cs2 Al1 Cu1 Cl6
+Cubic,5,3,Np1 Sn1 O3
+Orthorhombic,20,3,Mn1 N1 Cl3
+Monoclinic,60,4,La3 Ta1 Co2 O9
+Cubic,10,4,Sr2 Mn1 Re1 O6
+Cubic,10,4,K1 Tl2 Ga1 F6
+Cubic,10,4,K2 Na1 Sb1 Cl6
+Cubic,5,3,Gd3 Sn1 C1
+Cubic,10,4,K2 Li1 La1 Cl6
+Cubic,10,4,Cs2 Nb1 Ag1 F6
+Cubic,10,4,Cs2 Y1 Cu1 F6
+Cubic,10,4,Cs2 Ag1 Au1 Br6
+Cubic,10,4,K1 Rb2 Al1 I6
+Cubic,10,4,K2 Li1 Ta1 Cl6
+Cubic,5,3,Li1 Er1 O3
+Cubic,10,4,Cs2 Bi1 Au1 Cl6
+Cubic,10,4,Ba2 Cd1 Re1 O6
+Tetragonal,5,4,Cs1 Hg1 Br2 Cl1
+Orthorhombic,20,3,Hf1 Co1 O3
+Orthorhombic,20,3,Ce1 Cr1 O3
+Cubic,5,3,Re1 Bi1 O3
+Cubic,10,4,Cs2 Na1 Y1 F6
+Orthorhombic,20,3,K1 Ag1 F3
+Cubic,10,4,Sr2 Sm1 U1 O6
+Cubic,10,4,Sr2 Li1 Re1 O6
+Cubic,10,4,Eu2 Cr1 Sn1 O6
+Orthorhombic,20,3,Mg1 Bi1 O3
+Cubic,5,3,Mn3 In1 C1
+Cubic,10,4,Cs2 Cu1 Bi1 Br6
+Cubic,10,3,Ba1 Bi1 O3
+Cubic,10,4,K2 Na1 Al1 H6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,40,4,Sr2 Eu1 Nb1 O6
+Cubic,10,4,Nd1 Eu2 Nb1 O6
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,4,K2 Tb1 Au1 Cl6
+Cubic,10,4,Rb2 La1 Au1 Cl6
+Cubic,10,4,Sr2 Hf1 Ti1 O6
+Cubic,10,3,Rb3 Au1 F6
+Orthorhombic,20,3,Ca1 Rh1 O3
+Cubic,10,4,Rb2 Na1 Sc1 Br6
+Cubic,10,4,Ba2 Ag1 I1 O6
+Cubic,10,4,Eu2 Dy1 Mn1 O6
+Monoclinic,20,4,Sr2 Gd1 Ru1 O6
+Cubic,5,3,Ti3 In1 C1
+Orthorhombic,20,3,Tm1 Ni1 O3
+Tetragonal,40,4,Ba1 Eu1 Zr2 O6
+Cubic,5,3,Y3 Pb1 C1
+Orthorhombic,20,3,Tb1 Ho1 O3
+Trigonal,11,4,Mg1 Hg2 Bi2 O6
+Orthorhombic,20,3,Gd1 Sc1 S3
+Cubic,5,3,Si1 B1 O3
+Cubic,5,3,Nd3 In1 C1
+Cubic,5,3,Sc1 Ru3 C1
+Orthorhombic,20,3,Nd1 In1 O3
+Cubic,5,3,Mg1 Re1 O3
+Cubic,5,2,Ge2 O3
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,5,3,Th1 B1 O3
+Cubic,5,3,Ce1 Ru3 C1
+Cubic,10,4,K2 Na1 Ta1 Cl6
+Cubic,5,3,Ce3 Sn1 N1
+Cubic,5,3,Fe3 Ni1 N1
+Orthorhombic,20,3,K1 Dy1 Br3
+Cubic,5,3,Mn3 Zn1 C1
+Cubic,10,3,Eu3 W1 O6
+Orthorhombic,20,3,Mn1 Zn1 O3
+Monoclinic,20,4,Sr2 Sm1 Nb1 O6
+Cubic,5,3,K1 Ca1 O3
+Cubic,10,4,Rb2 Hg1 As1 Cl6
+Cubic,40,4,Sr2 Ce1 Nb1 O6
+Cubic,5,3,Ho1 Be1 O3
+Tetragonal,10,4,Ba2 Ca1 W1 O6
+Cubic,5,3,Rb1 Mg1 O3
+Orthorhombic,60,3,Na1 Nb1 O3
+Cubic,10,4,Rb2 Cu1 Ni1 F6
+Cubic,5,3,Nd3 Pb1 N1
+Tetragonal,20,4,Ca4 Mn3 Cr1 O12
+Monoclinic,20,4,Sr2 Lu1 Ru1 O6
+Cubic,10,4,Ca2 Bi1 W1 O6
+Cubic,10,4,Rb2 Na1 In1 I6
+Cubic,40,4,Pr1 Eu2 Sb1 O6
+Orthorhombic,20,3,Sr1 Sn1 O3
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,Ba1 Th1 O3
+Monoclinic,20,4,Sr2 Tb1 Ru1 O6
+Cubic,5,3,Li1 Be1 O3
+Cubic,40,4,Sr2 Tb1 Hf1 O6
+Cubic,5,3,Sr1 Mo1 O3
+Orthorhombic,20,3,Tm1 Sc1 O3
+Cubic,10,4,K2 Na1 Nd1 F6
+Orthorhombic,20,3,La1 Ga1 O3
+Cubic,10,4,Eu2 Fe1 Sn1 O6
+Cubic,5,3,Np1 Os1 O3
+Cubic,10,4,K1 Ba2 I1 O6
+Cubic,5,3,Na1 Re1 O3
+Cubic,10,4,Cs2 Na1 Mg1 F6
+Cubic,5,3,K3 Br1 O1
+Cubic,10,4,K2 Ag1 Bi1 F6
+Cubic,10,4,K2 Pr1 Cu1 Br6
+Cubic,5,3,Sr1 Zr1 O3
+Cubic,10,4,Na2 Tl1 Cu1 F6
+Cubic,10,4,K2 Lu1 Ag1 Cl6
+Cubic,10,4,Cs2 Li1 Sm1 Cl6
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,10,4,Cs2 Y1 Cu1 I6
+Cubic,10,4,Sr2 Pr1 Nb1 O6
+Trigonal,25,4,Sr5 Zr1 Ti4 O15
+Monoclinic,40,4,La2 Ti1 Mn1 O6
+Cubic,10,4,K2 Li1 Pr1 Cl6
+Cubic,10,4,Ba2 Tb1 Ir1 O6
+Cubic,10,4,Cs2 Na1 Sb1 F6
+Cubic,10,4,Cs2 Na1 In1 F6
+Cubic,10,4,Sr2 V1 W1 O6
+Cubic,10,4,K2 In1 Ag1 Br6
+Cubic,10,4,Cs2 In1 Ga1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Monoclinic,20,4,Sr2 Ca1 Mo1 O6
+Orthorhombic,20,3,Eu1 Ni1 O3
+Orthorhombic,20,4,La1 Y1 Ti2 O6
+Cubic,5,3,K1 Rh1 O3
+Trigonal,20,4,Ba4 Er1 Ru3 O12
+Cubic,10,4,Cs2 Tl1 Ga1 Cl6
+Cubic,10,4,Sr2 Pr1 Co1 O6
+Cubic,10,4,K2 Ta1 Cu1 Br6
+Cubic,10,4,Cs2 Sb1 Au1 F6
+Cubic,10,4,Cs2 Ga1 Ag1 I6
+Cubic,5,3,Yb1 Cd1 O3
+Trigonal,25,5,Sr3 La2 Fe4 Co1 O15
+Cubic,5,3,La1 Ga1 O3
+Monoclinic,20,4,Sr2 Y1 Ru1 O6
+Orthorhombic,20,3,Sc1 Co1 O3
+Cubic,5,3,Ac1 Ga1 O3
+Cubic,10,4,K2 In1 Ag1 Cl6
+Cubic,10,3,K3 Ti1 F6
+Cubic,10,4,Cs2 Rb1 Ga1 Br6
+Cubic,10,4,Cs2 Pr1 Cu1 I6
+Cubic,5,3,Bi1 Pt1 O3
+Cubic,10,4,Rb2 Ga1 Hg1 Cl6
+Cubic,10,4,Na2 Li1 Ga1 F6
+Orthorhombic,20,3,Sm1 Tm1 O3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,Cs1 Tm1 H3
+Cubic,5,3,Na1 Nb1 O3
+Cubic,10,4,Ba2 V1 Bi1 O6
+Cubic,10,4,Sr2 Sm1 V1 O6
+Monoclinic,20,4,Li1 La2 Ru1 O6
+Monoclinic,20,4,Pr2 Mg1 Pt1 O6
+Cubic,10,4,Ba2 Eu1 Cr1 O6
+Orthorhombic,20,3,Nd1 Cr1 O3
+Orthorhombic,20,3,Dy1 Ti1 O3
+Orthorhombic,20,3,Na1 Co1 F3
+Monoclinic,68,3,Nd4 Co3 O10
+Cubic,10,4,Cs2 Br1 Cl6 F1
+Orthorhombic,20,3,Ca1 Bi1 O3
+Orthorhombic,20,3,Mn1 Tl1 O3
+Cubic,5,3,Lu1 U1 O3
+Tetragonal,5,4,Ba1 Ta1 N1 O2
+Cubic,5,3,K1 Hf1 O3
+Cubic,10,3,Rb3 In1 Cl6
+Cubic,10,4,Rb2 Ga1 Ag1 Cl6
+Cubic,10,4,K2 Lu1 Cu1 Cl6
+Cubic,10,4,Rb2 Li1 Bi1 Br6
+Cubic,10,4,Cs2 Li1 Au1 Cl6
+Cubic,10,4,Sr2 Dy1 Re1 O6
+Cubic,10,4,K1 Rb2 In1 Br6
+Cubic,10,4,K2 Ag1 Bi1 I6
+Cubic,5,3,K1 Tm1 O3
+Cubic,10,4,Rb2 Y1 Ag1 F6
+Cubic,10,4,Sr2 Pr1 Ta1 O6
+Cubic,10,4,Cs2 Ag1 Sb1 Br6
+Orthorhombic,20,3,Eu1 Co1 O3
+Monoclinic,20,4,Nd2 Mn1 Ga1 O6
+Cubic,5,3,Mg1 B1 O3
+Cubic,5,3,Ti1 Pb1 O3
+Cubic,10,4,Rb2 Nb1 Cu1 F6
+Cubic,10,4,Ca2 Ti1 Si1 O6
+Cubic,10,4,Rb2 In1 Hg1 F6
+Cubic,10,4,Ba2 Y1 Sb1 O6
+Cubic,10,4,Cs2 Li1 Sc1 F6
+Cubic,5,3,Pa1 Si1 O3
+Cubic,5,3,Lu1 V1 O3
+Cubic,5,3,Np1 Ti1 O3
+Cubic,10,4,Cs2 Na1 Al1 H6
+Cubic,40,4,Ca8 Ti1 Mn7 O24
+Cubic,10,4,Sr2 Tm1 Re1 O6
+Cubic,10,4,K2 Ag1 Au1 Br6
+Orthorhombic,40,5,Na3 Tb1 Ti2 Nb2 O12
+Cubic,5,3,Eu1 Er1 O3
+Cubic,5,3,K1 Pa1 O3
+Cubic,10,4,Cs2 Ag1 Au1 F6
+Tetragonal,40,4,Sr2 Ti1 Mn1 O6
+Cubic,5,3,Tb3 Sn1 C1
+Cubic,10,4,K2 Na1 In1 Cl6
+Orthorhombic,20,3,Pr1 Mn1 O3
+Cubic,5,3,Tb1 B1 Pd3
+Cubic,5,3,Zn1 Ga1 O3
+Orthorhombic,60,4,Ca2 Y1 Mn3 O9
+Cubic,10,4,K2 Li1 Fe1 F6
+Cubic,5,3,Eu1 Zr1 O3
+Cubic,10,4,Rb2 Na1 Sb1 I6
+Cubic,10,4,Cs2 Rb1 Tl1 Br6
+Cubic,10,4,K1 Rb2 Au1 F6
+Cubic,10,4,Cs2 Rb1 Sc1 Cl6
+Cubic,10,3,Cs3 Y1 F6
+Cubic,10,3,Rb3 Sc1 F6
+Cubic,5,3,Cu1 Hg1 O3
+Monoclinic,20,4,Pr2 Mg1 Ir1 O6
+Cubic,5,3,Mn3 Hg1 N1
+Cubic,10,4,Ba2 Pu1 Ta1 O6
+Orthorhombic,20,3,Mg1 Tl1 Cl3
+Cubic,10,4,Ba2 Yb1 Mo1 O6
+Cubic,40,4,Ba2 Nd1 Bi1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Li1 Al1 F6
+Orthorhombic,20,3,Tl1 Co1 O3
+Cubic,10,4,Cs2 In1 Bi1 F6
+Cubic,5,3,Ca1 Zr1 O3
+Cubic,40,4,La8 Mg1 Al7 O24
+Cubic,10,4,Rb2 Na1 Ce1 F6
+Cubic,10,4,Rb2 Nd1 Ag1 I6
+Cubic,10,3,Li3 V1 F6
+Cubic,10,4,K2 Cu1 Sb1 Cl6
+Cubic,10,4,K2 In1 Ag1 F6
+Monoclinic,20,4,Sr2 Sc1 Nb1 O6
+Cubic,10,4,Cs2 Na1 Bi1 I6
+Cubic,10,4,K2 Mn1 Hg1 F6
+Cubic,5,3,Yb1 Ge1 O3
+Cubic,5,3,Bi1 Mo1 O3
+Cubic,10,4,Cs2 Ga1 Hg1 I6
+Cubic,5,3,Ti1 Be1 O3
+Orthorhombic,20,3,La1 Lu1 S3
+Cubic,5,3,Sr1 Pu1 O3
+Cubic,10,3,Cs3 Pd1 F6
+Cubic,10,4,Sc1 Nb1 Pb2 O6
+Cubic,10,4,Rb2 Sc1 Cu1 Cl6
+Cubic,10,3,Rb3 Au1 Cl6
+Cubic,5,3,Ge1 Pd1 O3
+Cubic,10,4,Sr2 Gd1 Cr1 O6
+Cubic,10,4,Ba2 Gd1 Ta1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,3,Cs3 Tb1 F6
+Trigonal,25,5,Ca4 U1 Al2 Si3 O15
+Cubic,10,4,Cs2 Li1 Pr1 Br6
+Cubic,5,3,Ac1 Mn1 O3
+Cubic,5,3,La1 Ta1 O3
+Cubic,10,4,Rb2 Y1 Hg1 F6
+Cubic,10,4,K2 Na1 Bi1 Br6
+Cubic,10,4,K2 In1 Hg1 Cl6
+Cubic,10,4,Rb2 Ta1 Cu1 Br6
+Cubic,5,3,Tb1 Ni1 O3
+Cubic,5,3,Eu1 Hg1 O3
+Orthorhombic,20,3,Eu1 Np1 O3
+Cubic,5,3,Gd1 Cu1 O3
+Trigonal,16,3,Ba3 Yb4 O9
+Cubic,5,3,Nd3 Al1 N1
+Cubic,5,3,Np1 Si1 O3
+Monoclinic,20,3,Sc1 Co1 O3
+Orthorhombic,20,3,Tb1 Sc1 O3
+Cubic,10,4,Sr2 Nd1 Mn1 O6
+Cubic,5,3,Sr1 Sn1 O3
+Monoclinic,20,3,Ca1 Bi1 O3
+Cubic,5,3,Yb3 Sn1 C1
+Cubic,5,3,Cs1 Cd1 F3
+Cubic,10,4,Ba2 U1 Fe1 O6
+Cubic,5,3,Rb1 B1 O3
+Cubic,10,4,Cs2 Na1 Y1 Br6
+Cubic,20,4,Ba2 Ni1 Mo1 O6
+Cubic,10,4,Cs2 Li1 N1 F6
+Cubic,10,4,Rb2 Li1 Bi1 Cl6
+Cubic,5,3,Cs1 Ge1 Br3
+Cubic,10,3,K3 Y1 F6
+Cubic,10,4,K2 Ni1 Hg1 F6
+Cubic,5,3,Ba1 Pa1 O3
+Cubic,10,3,Cs1 Tl1 I3
+Cubic,10,4,Cs2 K1 Dy1 Cl6
+Cubic,10,4,Cs2 Rb1 Tl1 F6
+Cubic,10,4,Rb2 Na1 In1 Br6
+Cubic,5,3,Eu1 Pb1 O3
+Monoclinic,20,3,Er1 Ni1 O3
+Cubic,10,4,Sr2 Fe1 Ru1 O6
+Orthorhombic,20,3,Er1 Co1 O3
+Cubic,10,4,K2 Li1 Ce1 Br6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,K2 Li1 Mo1 F6
+Monoclinic,20,4,La2 Mn1 Cr1 O6
+Cubic,10,4,Cs2 Tm1 Cu1 Cl6
+Cubic,10,4,Cs2 Na1 U1 Cl6
+Cubic,10,4,K2 Tl1 As1 Cl6
+Cubic,10,4,Cs2 Rb1 In1 I6
+Cubic,10,4,Rb2 Tl1 Ag1 Br6
+Cubic,10,4,Rb2 Ga1 Hg1 Br6
+Cubic,10,4,Sr2 In1 Bi1 O6
+Cubic,10,4,Na1 Eu1 Nb2 O6
+Cubic,10,4,Rb2 Tl1 As1 Br6
+Cubic,10,4,K1 Rb2 Tm1 Cl6
+Cubic,20,4,Sr2 Fe1 Mo1 O6
+Cubic,10,4,K2 Na1 Sc1 Cl6
+Cubic,5,3,Eu1 Au1 O3
+Cubic,5,3,Gd3 Al1 C1
+Orthorhombic,20,3,Ho1 Ga1 O3
+Cubic,5,3,Ni1 Pt1 O3
+Cubic,5,3,Nd1 Ge1 O3
+Cubic,10,4,Cs2 K1 Sb1 Br6
+Cubic,5,3,Pb1 Au1 O3
+Cubic,10,4,Ba2 Y1 Mo1 O6
+Cubic,5,3,Np1 Be1 O3
+Tetragonal,10,4,Sr2 Nb1 Fe1 O6
+Cubic,10,4,K2 Li1 Mo1 Cl6
+Cubic,10,4,Cs2 Ce1 Ag1 F6
+Cubic,10,4,K2 Tl1 Ga1 Br6
+Cubic,10,4,K2 Li1 Sc1 Cl6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,K2 Na1 Ce1 F6
+Cubic,5,3,Be1 Pt1 O3
+Cubic,10,4,Rb2 Tl1 Bi1 F6
+Cubic,5,3,Ga1 Sn1 O3
+Orthorhombic,20,3,U1 V1 Se3
+Cubic,10,4,Cs2 Na1 Pb1 F6
+Cubic,10,4,Ba2 Ta1 Tl1 O6
+Cubic,10,4,Eu2 Er1 Ta1 O6
+Cubic,10,4,Re1 Ni1 Pb2 O6
+Cubic,10,4,Ba2 Ce1 W1 O6
+Trigonal,20,5,Ba2 La2 Mg1 Ti3 O12
+Cubic,10,4,Ba2 Nd1 Nb1 O6
+Cubic,10,4,Sr2 Nb1 Cu1 O6
+Monoclinic,20,4,Sr2 Co1 Sb1 O6
+Trigonal,20,4,Ba2 Ni1 Te1 O6
+Monoclinic,40,4,Ca2 Fe1 Ir1 O6
+Monoclinic,20,4,Na2 Li1 Al1 H6
+Cubic,10,4,Ba2 Ca1 Os1 O6
+Cubic,5,3,Sr1 Ru1 O3
+Orthorhombic,20,3,Dy1 Lu1 O3
+Orthorhombic,48,5,H6 Pb1 C1 I3 N1
+Cubic,40,4,K9 U6 Bi1 O24
+Cubic,10,4,Rb2 Cu1 Bi1 Cl6
+Cubic,10,4,Rb2 Pr1 Ag1 Br6
+Cubic,10,4,Sr2 Ho1 Re1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Sr2 Ni1 Bi1 O6
+Cubic,10,4,Cs2 K1 Ag1 F6
+Cubic,10,4,Ba2 Ce1 Sn1 O6
+Orthorhombic,20,3,Ca1 Zr1 O3
+Cubic,5,3,Cs1 Cd1 Br3
+Orthorhombic,20,3,Tb1 Cr1 O3
+Orthorhombic,28,3,Mg1 Ag2 O4
+Cubic,5,3,Pu1 Pt1 O3
+Cubic,10,4,Sr2 Y1 W1 O6
+Cubic,5,3,Be1 Ga1 O3
+Cubic,5,3,Rb1 Pd1 Cl3
+Cubic,10,4,Sr2 Ca1 W1 O6
+Orthorhombic,20,3,Dy1 Sc1 O3
+Orthorhombic,24,3,Tl2 Sn1 O3
+Cubic,5,3,Hf1 Np1 O3
+Cubic,10,4,Cs2 K1 Tb1 Cl6
+Orthorhombic,20,3,Na1 Nb1 O3
+Orthorhombic,20,3,Cd1 Co1 O3
+Cubic,10,4,Sr2 Y1 Bi1 O6
+Cubic,10,4,Ba2 Ce1 Pt1 O6
+Orthorhombic,20,3,Eu1 Sc1 O3
+Orthorhombic,20,3,Ca1 Ir1 O3
+Cubic,5,3,Dy1 Sn1 O3
+Orthorhombic,20,3,Na1 V1 F3
+Orthorhombic,20,3,Mg1 Mn1 O3
+Cubic,5,3,B1 Sb1 O3
+Cubic,10,4,Ba2 Er1 U1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,K1 Pr1 Nb2 O6
+Cubic,5,3,Tb3 In1 N1
+Cubic,10,4,Eu2 Fe1 W1 O6
+Cubic,10,4,Na1 Nd1 Hf2 O6
+Monoclinic,20,4,Sr2 Tm1 Ru1 O6
+Cubic,10,4,Rb2 Li1 Y1 F6
+Cubic,5,3,Rb1 Ge1 I3
+Cubic,40,4,Sr2 Gd1 Nb1 O6
+Cubic,5,3,Sm3 Al1 C1
+Cubic,10,4,Na2 Li1 Al1 H6
+Cubic,5,3,K1 Nb1 O3
+Cubic,10,3,Rb1 In1 Br3
+Cubic,10,4,Rb2 Nd1 Ag1 F6
+Cubic,10,4,K2 Tl1 Au1 Br6
+Cubic,5,3,Pu1 In1 O3
+Cubic,10,3,Cs3 In1 Cl6
+Cubic,10,4,Rb2 Cu1 As1 F6
+Orthorhombic,20,3,La1 Ga1 O3
+Orthorhombic,20,3,Co1 Te1 O3
+Cubic,5,3,Nd1 Ta1 O3
+Cubic,5,3,Tm1 Ge1 O3
+Orthorhombic,20,3,Na1 Zn1 F3
+Cubic,10,4,K1 Tl2 Cr1 F6
+Tetragonal,5,4,Sr1 W1 N1 O2
+Cubic,10,4,Cs2 Li1 Bi1 Cl6
+Tetragonal,10,4,Sr2 Fe1 Co1 O6
+Cubic,5,3,Ta1 Be1 O3
+Cubic,5,3,Dy3 Sn1 C1
+Trigonal,20,4,Sr2 Fe1 Os1 O6
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,10,4,Ca2 Sb1 W1 O6
+Cubic,10,4,K2 Cu1 Au1 F6
+Cubic,10,4,Rb2 Ga1 Ag1 I6
+Cubic,10,4,Cs2 Ta1 Ag1 Br6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Cs1 La1 O3
+Cubic,10,4,Cs2 K1 Gd1 Cl6
+Tetragonal,20,4,Sr2 Ti1 Mn1 O6
+Orthorhombic,20,3,Ca1 Ge1 O3
+Cubic,10,4,K1 Rb2 Al1 Br6
+Cubic,5,3,La1 Al1 O3
+Cubic,10,4,Ba1 La1 Mn2 O6
+Orthorhombic,20,3,Fe1 Sn1 O3
+Cubic,10,3,K3 Rh1 F6
+Cubic,10,4,Ba2 Pr1 Nb1 O6
+Cubic,10,4,K2 As1 Au1 F6
+Cubic,5,3,Mo1 Pb1 O3
+Cubic,10,3,Cs3 Tl1 F6
+Tetragonal,20,3,Sr1 Co1 O3
+Cubic,10,4,Rb2 Sm1 Au1 Cl6
+Cubic,5,3,Pu1 Sb1 O3
+Cubic,5,3,Pu1 Pb1 O3
+Cubic,5,3,Al1 Fe3 B1
+Cubic,20,4,Sr2 Cr1 W1 O6
+Cubic,5,3,Ce3 Sn1 N1
+Cubic,5,3,K1 Te1 O3
+Cubic,40,4,Sr2 Sm1 Nb1 O6
+Tetragonal,10,4,Ba1 Ce2 Eu1 O6
+Cubic,40,4,Sr2 Tb1 Sn1 O6
+Monoclinic,20,4,Ca2 Sc1 Sb1 O6
+Cubic,10,4,Na1 La1 Hf2 O6
+Tetragonal,10,4,Ba1 Ca1 Zr2 O6
+Cubic,10,4,Cs2 Na1 Mo1 Cl6
+Cubic,10,4,Sr2 Zr1 Fe1 O6
+Monoclinic,20,3,Li1 Ag1 F3
+Cubic,10,4,K2 Li1 Ga1 F6
+Cubic,5,3,Na1 Pb1 O3
+Tetragonal,10,4,Sr1 Eu1 Co2 O6
+Cubic,10,4,Rb2 Na1 V1 Cl6
+Cubic,10,4,Ca2 Gd1 Sb1 O6
+Cubic,10,4,Sr2 Tb1 Zr1 O6
+Cubic,5,3,Ta1 Ru3 C1
+Orthorhombic,20,3,Sm1 Ni1 O3
+Cubic,5,3,Ca3 Sn1 O1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Ag1 Au1 Cl6
+Cubic,5,3,Eu1 H3 Pd1
+Cubic,10,4,Ba2 Eu1 Nb1 O6
+Orthorhombic,20,3,La1 Er1 O3
+Cubic,10,4,K2 Tm1 Cu1 Cl6
+Orthorhombic,20,3,Eu1 Zr1 S3
+Cubic,10,4,Rb2 Tm1 Cu1 Cl6
+Monoclinic,20,4,La2 Mg1 Ti1 O6
+Cubic,10,4,Cs1 Rb2 Ir1 F6
+Cubic,10,4,Cs2 Na1 Sm1 F6
+Cubic,10,3,Na3 Co1 F6
+Cubic,5,3,Er1 Al1 O3
+Cubic,10,4,K2 In1 Sb1 F6
+Cubic,10,4,Cs2 Li1 Tl1 Cl6
+Cubic,10,4,Ba2 Ho1 U1 O6
+Cubic,5,3,Al1 Sb1 O3
+Cubic,5,3,Ca1 Zn1 O3
+Cubic,10,4,K2 Li1 Cu1 F6
+Cubic,5,3,In1 As1 O3
+Orthorhombic,20,3,Tm1 Ti1 O3
+Cubic,10,4,Ca1 Eu2 W1 O6
+Cubic,5,3,Tl1 Cd1 N3
+Cubic,10,4,Ba2 Mg1 Re1 O6
+Tetragonal,25,4,Ba4 Ca1 Zr5 O15
+Cubic,10,4,Ba2 Pr1 Ru1 O6
+Cubic,5,3,Yb1 Re1 O3
+Cubic,40,4,Ba2 Pr1 Zr1 O6
+Monoclinic,20,4,Sr2 Y1 Ir1 O6
+Cubic,5,3,Fe3 Pt1 N1
+Cubic,10,4,Cs2 Na1 Y1 Cl6
+Cubic,10,4,K2 Na1 Al1 F6
+Cubic,5,3,Eu1 Nb1 O3
+Orthorhombic,20,3,Sm1 Dy1 O3
+Cubic,5,3,Ca3 Au1 N1
+Cubic,10,4,Sr2 Eu1 Bi1 O6
+Cubic,10,4,Mg6 Bi2 P1 N1
+Cubic,40,4,Cs1 Na7 Ta8 O24
+Cubic,10,4,K2 Sb1 Au1 Cl6
+Cubic,5,3,Mn3 Ge1 C1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Cs1 K1 O3
+Cubic,10,4,K2 Na1 In1 Br6
+Orthorhombic,20,3,La1 Ti1 O3
+Cubic,10,4,Cs2 Ag1 Sb1 F6
+Cubic,10,4,Rb2 Sc1 Hg1 Br6
+Cubic,5,3,Gd1 Er1 O3
+Cubic,5,3,Mg1 Bi1 O3
+Cubic,10,4,Ba2 Er1 Re1 O6
+Cubic,10,4,Na2 Li1 In1 F6
+Cubic,10,4,Cs2 Rb1 Eu1 Cl6
+Cubic,5,3,K1 Pd1 F3
+Tetragonal,5,3,Al1 Cr1 O3
+Cubic,10,4,Cs2 Al1 In1 I6
+Cubic,10,4,Rb2 Y1 Hg1 Cl6
+Orthorhombic,20,3,Pr1 Sc1 S3
+Monoclinic,40,4,La2 Ti1 Ni1 O6
+Cubic,10,4,Yb1 Nb1 Pb2 O6
+Cubic,5,3,Be1 In1 O3
+Cubic,10,4,Ca1 La2 Zr1 O6
+Monoclinic,20,4,Sr2 Y1 Ta1 O6
+Cubic,10,4,Sr2 Eu1 V1 O6
+Cubic,5,3,K1 Zn1 O3
+Cubic,10,4,Eu2 Y1 W1 O6
+Tetragonal,10,4,K1 Na1 Bi2 O6
+Cubic,5,3,Sb1 Au1 O3
+Orthorhombic,20,3,U1 Cr1 S3
+Cubic,20,4,Ba2 Ta1 Fe1 O6
+Cubic,10,4,Cs2 Li1 Lu1 Cl6
+Orthorhombic,20,3,Tm1 Co1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Y1 In1 F6
+Orthorhombic,20,3,Dy1 Sc1 S3
+Monoclinic,20,4,Li1 Pr2 Ir1 O6
+Cubic,5,3,Lu3 Pb1 C1
+Cubic,10,4,Sr2 V1 Sn1 O6
+Cubic,10,4,Cs2 Na1 Cr1 Cl6
+Monoclinic,60,4,Ca3 Mn2 W1 O9
+Cubic,5,3,Ho1 B1 Rh3
+Cubic,5,3,Mn1 In1 F3
+Tetragonal,10,3,Sr1 Ti1 O3
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Trigonal,40,4,Sr1 La3 Mn4 O12
+Orthorhombic,20,3,Er1 Mn1 O3
+Orthorhombic,20,3,Sr3 Si1 O1
+Cubic,10,4,Cs2 Li1 Y1 Cl6
+Cubic,10,4,Cs2 Rb1 Tb1 Cl6
+Orthorhombic,20,3,Yb1 Co1 O3
+Cubic,5,3,Sr1 As1 O3
+Cubic,5,3,K1 Be1 O3
+Cubic,5,3,Cu3 Pd1 N1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Tetragonal,20,5,K2 Na1 Nb1 O2 F4
+Cubic,10,4,Rb2 Tl1 In1 Br6
+Cubic,5,3,Ce1 Ta1 O3
+Cubic,5,3,Pm1 In1 O3
+Cubic,10,4,Cs2 Sb1 Au1 Cl6
+Cubic,5,3,Nb1 Ru3 C1
+Cubic,5,3,La3 Tl1 C1
+Monoclinic,20,4,Sr2 Mg1 U1 O6
+Cubic,10,4,Rb2 Tm1 Ag1 Cl6
+Cubic,10,4,Cs2 Mn1 Hg1 F6
+Cubic,5,3,Be1 Cu1 O3
+Cubic,5,3,Ti1 Cu1 O3
+Orthorhombic,20,3,Ba1 Th1 O3
+Cubic,10,4,Sm1 Eu2 Ta1 O6
+Cubic,5,3,Be1 Re1 O3
+Trigonal,11,5,Na1 Mg1 Ti2 Bi1 O6
+Cubic,10,4,Ba2 In1 Bi1 O6
+Cubic,5,3,Sr1 Yb1 O3
+Orthorhombic,20,3,Mn1 N1 F3
+Cubic,10,4,K2 Li1 Tl1 Cl6
+Cubic,10,4,Cs2 In1 Au1 Cl6
+Cubic,10,4,Sr2 In1 Sb1 O6
+Cubic,5,3,B1 Ir1 O3
+Cubic,5,3,K1 Cd1 O3
+Cubic,5,3,K1 Au1 O3
+Cubic,5,3,Yb1 Sn1 O3
+Hexagonal,30,4,Ba3 Sr1 Nb2 O9
+Cubic,5,3,Ba1 B1 O3
+Cubic,10,4,Ba2 Pu1 Pa1 O6
+Cubic,5,3,Rb1 Li1 O3
+Cubic,10,4,Ca2 V1 Sb1 O6
+Cubic,10,3,In1 Ag3 F6
+Orthorhombic,60,4,Ca1 Nd2 Mn3 O9
+Cubic,10,4,Ba2 La1 Ir1 O6
+Orthorhombic,20,4,Y1 Er1 Al2 O6
+Cubic,10,4,Rb2 Pr1 Cu1 I6
+Monoclinic,40,4,La2 Ga1 Fe1 O6
+Cubic,10,4,Cs2 K1 Ta1 F6
+Cubic,5,3,Tb3 Pb1 C1
+Cubic,10,3,K3 V1 F6
+Cubic,10,4,Ba2 Ce1 Nb1 O6
+Cubic,5,3,Al1 Fe3 C1
+Cubic,10,4,K2 Tl1 Hg1 Br6
+Cubic,5,3,Ba1 Bi1 O3
+Cubic,10,4,K2 Na1 In1 F6
+Cubic,10,4,Cs2 Li1 Gd1 Cl6
+Cubic,10,4,Rb2 Hg1 As1 I6
+Cubic,10,4,Rb2 Li1 Tb1 Cl6
+Cubic,5,3,Co1 Rh1 O3
+Cubic,10,4,Rb2 Li1 Bi1 F6
+Cubic,10,4,K2 Li1 Nb1 F6
+Cubic,5,3,V1 Os1 O3
+Cubic,10,4,Cs2 Na1 Ta1 Br6
+Cubic,10,4,Ca2 La1 Sb1 O6
+Cubic,10,4,K2 Sc1 Cu1 Cl6
+Cubic,5,3,Zr1 B1 O3
+Cubic,10,4,Cs2 Sc1 Ag1 I6
+Cubic,5,3,Ba1 Ni1 O3
+Cubic,5,3,Co1 Ag1 F3
+Cubic,5,3,Er1 Zn1 O3
+Cubic,10,3,Ba3 U1 O6
+Trigonal,20,5,Sr3 La1 Ti2 Mn2 O12
+Monoclinic,20,4,K1 Rb2 In1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Ca2 Zr1 Nb1 O6
+Cubic,5,3,Cs1 Pb1 O3
+Cubic,10,4,Ca2 Zr1 V1 O6
+Cubic,5,3,Si1 Pd1 O3
+Orthorhombic,20,3,Ca1 W1 O3
+Cubic,5,3,Ba1 Pb1 O3
+Orthorhombic,20,3,Ca1 Ti1 O3
+Trigonal,20,4,Ba4 Tb1 Ru3 O12
+Orthorhombic,20,3,Al1 Tl1 O3
+Cubic,10,4,K2 Na1 Rh1 F6
+Cubic,10,3,K3 Ta1 F6
+Cubic,10,3,K3 As1 Cl6
+Cubic,10,4,K2 Li1 Nd1 I6
+Cubic,10,4,Cs2 Na1 Ce1 Br6
+Cubic,10,3,Rb1 In1 Cl3
+Cubic,10,4,Ba2 Ca1 Mo1 O6
+Cubic,10,4,K2 As1 Au1 Br6
+Cubic,5,3,Cs1 U1 Br3
+Cubic,5,3,Tm1 Ru3 C1
+Cubic,10,4,Ba2 Sm1 Cr1 O6
+Cubic,5,3,K1 Ta1 O3
+Cubic,10,4,Rb2 Tl1 Rh1 F6
+Cubic,10,4,Ba1 La1 Co2 O6
+Monoclinic,20,4,La2 Mn1 V1 O6
+Orthorhombic,20,3,La1 Sc1 O3
+Cubic,5,3,Co1 Te1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zr1 Os1 O3
+Cubic,10,4,Eu2 V1 W1 O6
+Cubic,5,3,Cs1 Pd1 Br3
+Cubic,10,4,Cs2 Li1 Ta1 Br6
+Tetragonal,10,4,Ba1 Nd1 Zr2 O6
+Cubic,10,4,Ba2 Sr1 Mn1 O6
+Cubic,10,4,Na2 Li1 Y1 F6
+Cubic,10,4,K1 Pr1 Hf2 O6
+Cubic,10,4,Cs2 Li1 Tl1 Br6
+Cubic,10,4,Rb2 Na1 Pr1 Br6
+Cubic,20,4,Ba2 Co1 Mo1 O6
+Cubic,5,3,Sc3 In1 B1
+Cubic,10,4,Rb2 Tl1 Au1 F6
+Orthorhombic,20,3,Ba3 Si1 O1
+Cubic,5,3,Cr3 Ir1 N1
+Cubic,10,4,Cs2 Na1 Ga1 Cl6
+Cubic,5,3,Si1 Sn1 O3
+Cubic,10,4,Cs2 Er1 Ag1 Cl6
+Cubic,10,4,Rb2 Y1 Tl1 F6
+Orthorhombic,48,5,Sn1 H6 C1 I3 N1
+Cubic,10,4,K2 Ag1 Mo1 Cl6
+Cubic,5,3,Eu1 Lu1 O3
+Cubic,10,4,Na2 Li1 Sc1 Cl6
+Cubic,10,4,Cs2 Rb1 Tl1 Cl6
+Cubic,10,4,Rb2 La1 Cu1 Cl6
+Cubic,5,3,Ce3 Al1 N1
+Cubic,10,4,Rb2 Pr1 Au1 Cl6
+Cubic,5,3,K1 Cd1 N3
+Monoclinic,20,4,Li1 La2 Re1 O6
+Cubic,5,3,K1 Lu1 O3
+Orthorhombic,20,4,La1 Pr1 Mn2 O6
+Orthorhombic,20,3,Sn1 Pb1 S3
+Cubic,10,4,Rb2 Li1 Pr1 I6
+Orthorhombic,20,3,Eu1 In1 O3
+Cubic,5,3,Yb1 Mg1 O3
+Tetragonal,5,4,Eu1 Ta1 N1 O2
+Cubic,10,3,Li3 Co1 F6
+Cubic,10,4,Ba2 Zr1 Sn1 O6
+Orthorhombic,20,3,Y1 Sb1 O3
+Cubic,5,3,Lu3 In1 C1
+Cubic,10,3,Cs3 Au1 Br6
+Cubic,10,4,Cs2 Nd1 Au1 Cl6
+Cubic,10,4,Na1 La1 Zr2 O6
+Cubic,5,3,Rb1 Pb1 Cl3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Orthorhombic,36,3,Cs1 In3 O5
+Cubic,10,4,Na1 La1 Se2 O6
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Cubic,5,3,Sm3 Pb1 C1
+Orthorhombic,20,3,K3 Cl1 O1
+Cubic,5,3,Sr1 V1 O3
+Orthorhombic,20,3,Tb1 Mn1 O3
+Tetragonal,20,4,Sr4 Fe3 Mo1 O12
+Tetragonal,10,3,K1 Cu1 F3
+Orthorhombic,20,3,Al1 Ga1 O3
+Monoclinic,20,4,Sr2 Sm1 Sb1 O6
+Cubic,5,3,Rb1 Cu1 O3
+Cubic,10,4,Ba2 Yb1 Ta1 O6
+Cubic,10,4,K1 Rb2 Sc1 F6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Orthorhombic,20,3,Dy1 In1 O3
+Cubic,5,3,Np1 Hg1 O3
+Orthorhombic,20,3,Eu1 Hf1 S3
+Cubic,10,3,K3 Au1 Cl6
+Monoclinic,20,4,La2 Fe1 Co1 O6
+Cubic,10,4,Cs2 Al1 Ag1 Br6
+Cubic,10,4,Eu2 Nb1 Zn1 O6
+Cubic,10,4,K2 Cu1 Bi1 Br6
+Cubic,5,3,Na1 Ag1 O3
+Cubic,10,4,Sr2 Ce1 Si1 O6
+Cubic,5,3,U1 Re1 O3
+Cubic,10,4,Cs2 Tl1 Bi1 Br6
+Orthorhombic,20,3,Eu1 U1 O3
+Cubic,5,3,Sr1 Cr1 O3
+Cubic,5,3,Lu1 Re1 O3
+Cubic,20,4,K2 Li1 Al1 H6
+Cubic,10,4,Cs2 K1 Y1 Br6
+Cubic,10,4,Cs2 K1 Tl1 F6
+Cubic,10,4,Cs2 Sc1 In1 I6
+Cubic,5,3,K1 Au1 Br3
+Orthorhombic,20,3,Mg1 W1 O3
+Cubic,10,4,K2 As1 Au1 Cl6
+Trigonal,35,5,Sr4 Nd3 Ta2 Al5 O21
+Cubic,5,3,Yb1 Tc1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Mn1 Tl1 Cl3
+Cubic,5,3,Mn3 Ga1 N1
+Cubic,10,4,Rb2 Pr1 Ag1 F6
+Cubic,10,4,Rb2 Ag1 Bi1 Cl6
+Cubic,10,4,Rb2 Tl1 Au1 Br6
+Cubic,10,4,K2 Li1 Ta1 Br6
+Cubic,10,4,Cs2 Tl1 Bi1 I6
+Cubic,10,4,Rb2 In1 Bi1 Cl6
+Cubic,5,3,Cs1 Sm1 O3
+Cubic,5,3,Ca1 Ni1 H3
+Cubic,10,4,Sr2 Eu1 Nb1 O6
+Cubic,5,3,La3 In1 B1
+Cubic,10,3,Rb3 As1 Cl6
+Cubic,10,4,Ba2 Eu1 Re1 O6
+Cubic,40,4,Sm1 Eu2 Sb1 O6
+Cubic,10,4,Eu2 Dy1 W1 O6
+Cubic,5,3,K3 Au1 O1
+Cubic,10,4,K1 La1 Hf2 O6
+Cubic,10,4,Rb2 Na1 Pb1 F6
+Cubic,10,4,Ba2 La1 Sb1 O6
+Cubic,10,4,Ba2 Na1 Os1 O6
+Cubic,10,4,Ba2 Zn1 W1 O6
+Cubic,5,3,U1 Al1 O3
+Cubic,5,3,Er1 B1 Rh3
+Cubic,5,3,Sm1 Pu1 O3
+Cubic,10,4,Cs2 Na1 Ta1 Cl6
+Cubic,10,4,K2 Li1 Pd1 F6
+Cubic,10,4,Cs2 Rb1 In1 Br6
+Cubic,10,4,K2 Li1 Mo1 Br6
+Cubic,10,4,Cs2 Y1 Ag1 I6
+Cubic,10,4,Ba2 Eu1 Ru1 O6
+Cubic,10,4,Ba2 Cd1 Mo1 O6
+Cubic,10,3,Li3 Ru1 F6
+Monoclinic,60,4,Sr3 U1 In2 O9
+Cubic,10,4,Cs2 K1 Ta1 Br6
+Orthorhombic,20,3,Eu1 Tm1 O3
+Orthorhombic,20,3,Gd1 Ga1 O3
+Cubic,5,3,Mg1 U1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Ba2 Tm1 Ru1 O6
+Cubic,10,4,K2 Ta1 Ag1 I6
+Cubic,10,4,Ba2 Ho1 Re1 O6
+Cubic,10,4,Cs2 Tl1 Cu1 F6
+Cubic,10,4,Ba2 Er1 Ta1 O6
+Cubic,10,4,Cs2 Ta1 Cu1 I6
+Cubic,5,3,Dy1 Sb1 O3
+Orthorhombic,60,4,Sr1 Nd2 Mn3 O9
+Orthorhombic,20,3,Eu1 Al1 O3
+Cubic,5,3,Yb1 B1 Rh3
+Cubic,10,4,Cs2 Na1 Er1 F6
+Cubic,5,3,Al1 Sb1 O3
+Cubic,5,3,Ba1 Pu1 O3
+Orthorhombic,20,3,Y1 Sc1 S3
+Cubic,10,4,Rb2 Na1 Y1 I6
+Cubic,10,4,Cs2 Na1 Ru1 F6
+Cubic,10,4,K2 Ag1 Ru1 F6
+Cubic,10,4,Rb2 Na1 Sc1 F6
+Cubic,10,4,Sr2 Dy1 Nb1 O6
+Cubic,10,4,Rb2 Na1 As1 Cl6
+Cubic,10,4,Sr2 In1 Os1 O6
+Cubic,40,4,Nd1 Eu2 Sb1 O6
+Cubic,10,4,Sr2 Ce1 Zr1 O6
+Cubic,5,3,Ce3 Al1 O1
+Cubic,10,4,Cs2 Eu1 Ag1 Cl6
+Tetragonal,5,4,K1 Ti1 O2 F1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Cs2 Na1 Li1 F6
+Cubic,10,3,Rb3 Rh1 F6
+Orthorhombic,48,5,H6 Pb1 C1 I3 N1
+Monoclinic,20,4,Ba2 Sr1 U1 O6
+Cubic,10,4,Pr1 Zn1 Bi2 O6
+Cubic,10,4,Ba2 Sn1 W1 O6
+Cubic,10,4,Rb2 Li1 Dy1 Cl6
+Cubic,5,3,Cs1 Au1 O3
+Tetragonal,10,4,Sr2 Ta1 Al1 O6
+Cubic,10,4,Sr2 Sc1 Os1 O6
+Monoclinic,20,4,Sr2 Ho1 Bi1 O6
+Cubic,10,4,Sr2 Dy1 Mn1 O6
+Orthorhombic,20,3,Mg1 Ti1 O3
+Cubic,10,4,Ba2 Sm1 Fe1 O6
+Cubic,5,3,Ho1 B1 O3
+Cubic,5,3,Ca3 Pb1 O1
+Cubic,10,4,Ba2 Mn1 Re1 O6
+Cubic,5,3,Dy3 Tl1 C1
+Cubic,5,3,K1 U1 O3
+Orthorhombic,20,3,Ca3 As1 N1
+Orthorhombic,20,3,La1 Sc1 S3
+Orthorhombic,20,3,Na1 Mn1 F3
+Monoclinic,20,4,Na2 Li1 Al1 F6
+Orthorhombic,20,3,Sc1 Cr1 O3
+Cubic,5,3,Rb1 Gd1 O3
+Cubic,10,4,K2 Bi1 Au1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Li1 V1 F6
+Cubic,5,3,Gd1 Rh1 O3
+Tetragonal,10,4,Ba1 Eu1 Zr2 O6
+Cubic,10,4,Sr2 Cr1 Mo1 O6
+Tetragonal,10,3,K1 Mn1 F3
+Trigonal,40,4,Ba2 Ti1 Mn1 O6
+Cubic,5,3,Zr1 Ni1 O3
+Cubic,5,3,K1 Re1 O3
+Cubic,10,4,Cs2 Li1 Ta1 I6
+Orthorhombic,20,3,Ca1 Ni1 O3
+Cubic,10,4,K1 Gd1 Nb2 O6
+Orthorhombic,20,3,Eu1 Rh1 O3
+Cubic,5,3,Y3 Al1 C1
+Cubic,5,3,Pd3 Pb1 C1
+Cubic,5,3,K1 Ni1 F3
+Cubic,5,3,Mg1 Pb1 O3
+Cubic,10,4,Rb2 Li1 Ce1 Br6
+Monoclinic,20,4,Sr2 Er1 Ru1 O6
+Cubic,10,4,Cs2 Sc1 Ag1 Br6
+Cubic,5,3,Ac1 Cu1 O3
+Cubic,10,4,Rb2 Gd1 Ag1 Cl6
+Cubic,10,3,K3 Ni1 F6
+Cubic,10,4,Cs2 Rb1 Pr1 Cl6
+Cubic,5,3,Gd3 In1 N1
+Cubic,10,4,Cs2 Rb1 As1 Br6
+Cubic,10,4,K2 Na1 Tm1 Cl6
+Cubic,5,3,Gd1 Cd1 O3
+Cubic,5,3,Tb1 V1 O3
+Tetragonal,10,4,Sr1 Cr1 H1 O2
+Cubic,10,3,K3 Mo1 Cl6
+Monoclinic,60,4,La3 Mg2 Ta1 O9
+Cubic,10,4,K2 Li1 Mn1 F6
+Orthorhombic,20,3,Al1 Cr1 O3
+Cubic,10,4,Cs2 Na1 Pr1 Cl6
+Cubic,10,4,Pr1 Eu2 Sb1 O6
+Tetragonal,10,3,Rb1 Ag1 F3
+Cubic,10,3,Na3 Pd1 F6
+Cubic,10,4,Cs2 K1 V1 F6
+Monoclinic,20,4,Sr2 Sm1 Ta1 O6
+Orthorhombic,20,3,Dy1 Al1 O3
+Monoclinic,20,4,La2 Mg1 Nb1 O6
+Cubic,5,3,Ce1 Fe1 O3
+Cubic,5,3,Sn1 B1 O3
+Tetragonal,10,4,Mn6 Zn2 C1 N1
+Cubic,10,4,Na2 Li1 N1 F6
+Cubic,10,4,K2 Li1 Bi1 Cl6
+Cubic,10,4,Cs2 K1 In1 Cl6
+Orthorhombic,20,3,Ti1 Cd1 O3
+Cubic,10,4,Cs2 K1 Er1 Cl6
+Cubic,10,3,K3 Bi1 F6
+Cubic,10,4,Rb2 Tl1 Mo1 F6
+Cubic,10,4,Rb2 Na1 Sm1 F6
+Cubic,10,3,Li3 Ga1 F6
+Cubic,5,3,Al1 Fe1 O3
+Cubic,10,4,Cs2 K1 As1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,K2 Na1 Ta1 I6
+Cubic,10,4,Ba2 Ce1 Pu1 O6
+Cubic,10,4,K1 Rb2 Ti1 F6
+Cubic,5,3,Re1 Te1 O3
+Orthorhombic,20,3,Sm1 Lu1 O3
+Cubic,10,4,K2 Rb1 As1 F6
+Cubic,10,4,Cs2 Rb1 Al1 I6
+Cubic,10,4,Rb2 Sb1 Au1 I6
+Cubic,5,3,Ca3 P1 N1
+Cubic,5,3,Yb1 Eu1 O3
+Monoclinic,20,4,Li1 La2 Ir1 O6
+Cubic,5,3,Ca1 Sn1 S3
+Tetragonal,10,4,Sr2 V1 Mo1 O6
+Cubic,5,3,Sr1 Ho1 O3
+Orthorhombic,20,4,La1 Sm1 Cr2 O6
+Monoclinic,40,4,La2 Ni1 Rh1 O6
+Cubic,10,4,Ca6 Sn2 N1 F1
+Cubic,10,4,Cs2 Tl1 Cu1 Cl6
+Cubic,5,3,Rb1 U1 O3
+Cubic,5,3,Ho1 Rh1 O3
+Cubic,10,4,Rb2 Na1 Cr1 Cl6
+Orthorhombic,20,3,Yb1 Rh1 O3
+Cubic,10,4,Ba2 Tb1 Sn1 O6
+Orthorhombic,40,4,Ba2 Mn1 Nb1 O6
+Cubic,10,4,Na2 Pr1 W1 O6
+Cubic,10,4,Ba2 Dy1 W1 O6
+Cubic,10,4,Eu2 Co1 W1 O6
+Cubic,10,4,Mg1 Pb2 W1 O6
+Cubic,10,4,Ba2 Ca1 Se1 O6
+Monoclinic,34,3,Ba4 Ir3 O10
+Monoclinic,20,4,La2 Co1 Ir1 O6
+Cubic,10,4,Ba2 Yb1 Nb1 O6
+Monoclinic,20,4,Sm2 Mn1 Ni1 O6
+Tetragonal,5,3,K1 Cr1 F3
+Cubic,5,3,Mn3 Sn1 C1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Orthorhombic,20,3,Gd1 Mn1 O3
+Monoclinic,40,4,Sr2 Co1 Re1 O6
+Orthorhombic,40,5,Na3 Pr1 Ti2 Nb2 O12
+Cubic,5,3,Eu1 Mo1 O3
+Monoclinic,60,4,Sr1 La2 Fe3 O9
+Tetragonal,20,4,La4 Ni3 Mo1 O12
+Cubic,5,3,V1 Pt1 O3
+Orthorhombic,20,3,Tb1 Rh1 O3
+Cubic,40,4,Sr2 Tb1 Nb1 O6
+Orthorhombic,20,3,Li1 V1 F3
+Cubic,10,4,Ba2 Ce1 Hf1 O6
+Monoclinic,60,4,Sr3 Ca1 Ru2 O9
+Cubic,5,3,Nd3 In1 C1
+Cubic,5,3,Dy1 Cu1 O3
+Cubic,10,4,Cs2 Na1 Ga1 H6
+Cubic,5,3,La1 Mg1 O3
+Orthorhombic,20,3,Dy1 Fe1 O3
+Cubic,10,4,Ba2 U1 In1 O6
+Cubic,5,3,Ba1 Ti1 O3
+Cubic,10,4,Cs2 In1 Cu1 Br6
+Cubic,5,3,Nd1 Np1 O3
+Cubic,5,3,Yb1 Nb1 O3
+Cubic,40,4,Sr2 Fe1 Sb1 O6
+Cubic,10,4,Cs2 Ag1 Ir1 F6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Orthorhombic,40,3,Nb1 Ag1 O3
+Cubic,10,4,Cs2 In1 Sb1 F6
+Cubic,10,4,Rb2 Li1 Ir1 F6
+Cubic,10,3,Rb3 Gd1 F6
+Cubic,10,3,Fe1 Ag3 F6
+Cubic,10,4,Cs2 K1 Yb1 Cl6
+Monoclinic,20,4,Eu2 Ti1 Cu1 O6
+Monoclinic,20,4,Li1 Nd2 Ir1 O6
+Tetragonal,10,4,Ba1 La1 Mn2 O6
+Cubic,10,4,Eu2 Hf1 Ti1 O6
+Cubic,5,3,Er3 Pb1 C1
+Cubic,10,3,Sr1 Co1 O3
+Cubic,5,3,Pr3 In1 N1
+Cubic,5,3,Nd3 Tl1 N1
+Orthorhombic,20,3,Gd1 Lu1 O3
+Cubic,5,3,Ba1 Ce1 O3
+Cubic,10,4,K2 In1 Ga1 I6
+Cubic,5,3,Ac1 Cr1 O3
+Cubic,5,3,Rb1 Tm1 O3
+Monoclinic,20,4,Sr2 Y1 Sb1 O6
+Cubic,10,4,Cs2 Li1 In1 Br6
+Cubic,5,3,Ti1 Fe3 N1
+Cubic,5,3,Rb1 Cu1 Br3
+Cubic,10,4,K2 Li1 Tl1 Br6
+Cubic,10,4,Cs2 Rb1 Nb1 F6
+Cubic,10,4,K2 Gd1 Au1 Cl6
+Cubic,10,4,Cs2 Y1 Tl1 I6
+Cubic,10,3,Rb3 Nb1 F6
+Cubic,10,4,K2 Li1 Sm1 Cl6
+Cubic,10,4,K1 Zr2 Bi1 O6
+Cubic,5,3,K1 Y1 O3
+Cubic,10,4,K2 Na1 Er1 Cl6
+Monoclinic,20,4,Sr2 Dy1 Ta1 O6
+Cubic,10,4,Cs2 Tl1 As1 F6
+Cubic,10,4,Cs2 Tl1 Hg1 F6
+Tetragonal,20,4,Ba4 Bi1 Pb3 O12
+Cubic,10,4,Cs2 Li1 Tm1 Cl6
+Cubic,10,4,Rb2 Li1 Mn1 F6
+Cubic,10,4,Eu2 Zr1 V1 O6
+Orthorhombic,20,3,Nd1 Fe1 O3
+Cubic,10,4,Cs2 Rb1 Ta1 F6
+Cubic,5,3,Nd3 Tl1 C1
+Cubic,10,4,Sr2 Fe1 W1 O6
+Cubic,10,4,K1 Rb2 Au1 Br6
+Monoclinic,20,4,La2 Zn1 Ir1 O6
+Cubic,10,4,Rb2 Na1 Tb1 Cl6
+Cubic,5,3,Mn3 Pt1 N1
+Cubic,5,3,Ac1 Fe1 O3
+Cubic,5,3,Rb1 Mo1 O3
+Orthorhombic,20,3,Ca1 Hf1 S3
+Cubic,10,4,La2 Mg1 Nb1 O6
+Cubic,10,4,Rb2 Nd1 Cu1 Br6
+Cubic,10,4,Ba2 Sm1 U1 O6
+Cubic,10,4,K2 Ti1 Ag1 F6
+Cubic,10,4,Rb2 Tl1 Hg1 Br6
+Monoclinic,20,4,Nd2 Co1 Ni1 O6
+Orthorhombic,20,3,Nd1 Cu1 O3
+Cubic,10,4,Cs2 Ag1 As1 F6
+Cubic,5,3,Li1 Cr1 O3
+Cubic,5,3,Rb1 Cd1 N3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Monoclinic,20,4,La2 Nb1 Ni1 O6
+Orthorhombic,20,3,Gd1 V1 O3
+Monoclinic,34,3,Nd4 Ni3 O10
+Cubic,5,3,Ca3 Sb1 N1
+Monoclinic,20,4,K1 Rb2 Y1 F6
+Cubic,5,3,Yb1 Ti1 O3
+Cubic,5,3,Rb1 Cd1 O3
+Cubic,10,3,Ba1 Ti1 O3
+Cubic,10,4,Rb2 Na1 Sb1 Cl6
+Cubic,10,4,Ba2 Sr1 U1 O6
+Cubic,10,4,Ba2 Dy1 Re1 O6
+Monoclinic,20,4,Sr2 Y1 Os1 O6
+Monoclinic,20,4,Sr2 In1 Os1 O6
+Cubic,10,4,Cs2 Sm1 Cu1 Cl6
+Cubic,10,4,Cs2 Na1 Ga1 F6
+Cubic,10,4,Eu2 Ni1 W1 O6
+Cubic,10,3,Cs1 In1 F3
+Cubic,10,4,K1 Nd1 Zr2 O6
+Cubic,10,4,Rb2 Li1 Nd1 I6
+Cubic,5,3,K1 Yb1 O3
+Cubic,5,3,Y1 Ag1 O3
+Cubic,10,4,K2 In1 Au1 F6
+Tetragonal,50,4,Ba5 Fe3 W2 O15
+Orthorhombic,20,3,Sr3 Ge1 O1
+Cubic,10,4,Ba2 Ce1 Bi1 O6
+Cubic,10,4,Cs2 Ce1 Ag1 Cl6
+Cubic,10,4,Ba2 Cr1 Sn1 O6
+Cubic,10,4,Sr2 Tb1 Nb1 O6
+Cubic,5,3,Ba1 Pd1 O3
+Cubic,5,3,Dy3 Ga1 C1
+Monoclinic,20,4,Sr2 U1 Mn1 O6
+Orthorhombic,72,3,Bi2 Pb2 S5
+Cubic,5,3,Yb1 Tm1 O3
+Monoclinic,20,4,Sr2 Gd1 Bi1 O6
+Cubic,5,3,Na1 Li1 O3
+Orthorhombic,20,3,Sc1 Bi1 O3
+Cubic,10,4,Na1 Tl2 In1 F6
+Cubic,10,4,Sr2 Sm1 Fe1 O6
+Cubic,5,3,Pr1 Nb1 O3
+Cubic,10,4,K2 Rb1 Ir1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Sr2 Ce1 Sb1 O6
+Cubic,10,4,Sr2 Ce1 Hf1 O6
+Cubic,5,3,Rb1 Na1 O3
+Cubic,10,4,K1 Eu1 Hf2 O6
+Cubic,10,4,Na1 In1 W2 O6
+Orthorhombic,20,3,Ba1 Zr1 S3
+Cubic,10,4,Sr2 Ho1 U1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,40,4,Ba2 Mn1 Te1 O6
+Tetragonal,40,5,Cs8 Na4 Y3 Ho1 Cl24
+Cubic,10,4,Ca2 Hf1 Sn1 O6
+Cubic,5,3,Li3 Br1 O1
+Cubic,10,4,K2 Rb1 Nb1 F6
+Cubic,10,4,Rb2 Na1 Fe1 F6
+Cubic,10,4,Cs2 Li1 Y1 Br6
+Tetragonal,50,5,Na1 Sr8 La1 Ti10 O30
+Orthorhombic,20,3,Sm1 Cu1 O3
+Cubic,5,3,Mn3 Ga1 C1
+Cubic,10,4,Cs2 Sc1 Ag1 Cl6
+Cubic,10,4,Cs2 Rb1 Pb1 F6
+Cubic,5,3,Li1 Sm1 O3
+Cubic,10,3,Cs1 In1 Cl3
+Cubic,5,3,Ag1 B1 O3
+Cubic,10,4,Sr6 Sn2 N1 O1
+Cubic,10,4,Cs2 In1 Hg1 F6
+Cubic,10,4,Rb2 Ga1 Ag1 Br6
+Cubic,10,4,K2 Na1 Eu1 Cl6
+Cubic,10,4,Cs2 Rb1 As1 I6
+Cubic,10,4,Cs2 Tb1 Cu1 Cl6
+Cubic,10,4,Rb2 Sc1 Cu1 F6
+Cubic,5,3,Cu1 Bi1 O3
+Cubic,10,4,Rb2 Tl1 Ga1 I6
+Cubic,5,3,Yb1 Pd1 O3
+Cubic,5,3,Co1 Ag1 F3
+Orthorhombic,20,3,Li1 Mn1 O3
+Cubic,5,3,Co1 Sb1 O3
+Monoclinic,20,4,La2 Cr1 Fe1 O6
+Cubic,5,3,Ca1 Mg1 O3
+Cubic,5,3,U1 Hg1 O3
+Cubic,5,3,Cs1 Ti1 O3
+Cubic,5,3,Rb1 Ag1 Cl3
+Cubic,5,3,Mn3 Ga1 C1
+Monoclinic,20,4,Sr2 Nd1 Ta1 O6
+Cubic,10,4,K2 Li1 Lu1 Cl6
+Cubic,10,4,Na1 Sr2 Mn1 O6
+Cubic,10,4,K2 Tm1 Au1 Cl6
+Cubic,10,4,Cs2 Ag1 Sb1 I6
+Cubic,10,4,Rb2 Li1 Er1 Cl6
+Cubic,10,3,Na3 Rh1 F6
+Monoclinic,20,4,Ba2 Ca1 U1 O6
+Monoclinic,40,4,La2 Ti1 Co1 O6
+Orthorhombic,20,3,Al1 Fe1 O3
+Cubic,10,4,Sr2 Nb1 Ga1 O6
+Tetragonal,10,4,Ba2 Ce1 Zr1 O6
+Tetragonal,10,4,Ba2 Ho1 Ta1 O6
+Cubic,5,3,Nb1 Tl1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,K2 Lu1 Cu1 Cl6
+Cubic,10,4,Ba2 Re1 Ni1 O6
+Cubic,10,4,Cs2 Li1 Au1 Cl6
+Cubic,5,3,Cs1 Tl1 F3
+Cubic,10,4,Sr2 Dy1 Re1 O6
+Cubic,10,4,K1 Rb2 In1 Br6
+Orthorhombic,20,3,Lu1 Co1 O3
+Cubic,10,4,Cs2 Ag1 Au1 Cl6
+Cubic,5,3,K1 Tm1 O3
+Cubic,10,4,Sr2 Pr1 Ta1 O6
+Cubic,10,4,Cs2 Ag1 Sb1 Br6
+Orthorhombic,20,3,Eu1 Co1 O3
+Cubic,10,3,K3 Co1 F6
+Cubic,10,3,Na3 Ta1 F6
+Monoclinic,20,4,Nd2 Mn1 Ga1 O6
+Cubic,10,4,K2 Dy1 Ag1 Cl6
+Cubic,5,3,Mg1 B1 O3
+Cubic,10,4,Cs2 Hg1 Bi1 Cl6
+Cubic,10,4,Cs2 Na1 Y1 F6
+Cubic,10,4,Rb2 Mn1 Cu1 F6
+Cubic,10,3,Rb1 In1 I3
+Cubic,5,3,Sr1 Re1 O3
+Orthorhombic,20,3,K1 Ag1 F3
+Cubic,10,4,Ba2 Pr1 Ta1 O6
+Cubic,10,3,Sr3 Nb1 O6
+Orthorhombic,20,3,Mn1 Te1 O3
+Cubic,10,4,Sr2 Sm1 U1 O6
+Orthorhombic,20,3,V1 Zn1 O3
+Orthorhombic,20,3,Mn1 N1 Cl3
+Cubic,10,4,Sr2 Tb1 Cr1 O6
+Monoclinic,60,4,La3 Ta1 Co2 O9
+Cubic,10,4,Sr2 Mn1 Re1 O6
+Cubic,5,3,Ca3 Pb1 N1
+Cubic,10,4,K1 Tl2 Ga1 F6
+Cubic,5,3,Pa1 Tl1 O3
+Cubic,10,4,K2 Na1 Sb1 Cl6
+Cubic,5,3,Gd3 Sn1 C1
+Cubic,10,4,K2 Li1 La1 Cl6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Eu2 Tm1 Ta1 O6
+Cubic,5,3,Sm3 In1 C1
+Cubic,5,3,Y1 Cu1 O3
+Orthorhombic,20,3,Nd1 Ga1 O3
+Cubic,5,3,Na1 V1 F3
+Monoclinic,20,4,Sr2 Yb1 Ru1 O6
+Monoclinic,20,4,La2 Mg1 Ir1 O6
+Cubic,10,4,Na1 Sm1 Hf2 O6
+Orthorhombic,20,3,La1 Pd1 O3
+Cubic,5,3,Ba1 Np1 O3
+Cubic,10,3,Rb3 Sc1 Cl6
+Cubic,5,3,Sc3 Sn1 C1
+Cubic,5,3,Eu1 Ti1 O3
+Cubic,20,4,Ba2 Mn1 Mo1 O6
+Cubic,10,4,K2 In1 Hg1 Br6
+Cubic,10,4,K1 Rb2 Mo1 F6
+Cubic,5,3,Rb1 V1 F3
+Cubic,10,4,K2 Sc1 Ag1 Cl6
+Cubic,5,3,Cs1 Tm1 Cl3
+Orthorhombic,28,3,In2 Pb1 S4
+Cubic,10,4,Rb2 Li1 Tm1 Cl6
+Orthorhombic,20,3,Lu1 Ga1 O3
+Cubic,5,3,Pa1 Ag1 O3
+Cubic,5,3,Ga1 Te1 O3
+Orthorhombic,20,3,Ba1 U1 O3
+Cubic,5,3,Tc1 Sn1 O3
+Cubic,10,4,Rb2 Sc1 Ag1 F6
+Cubic,10,3,K3 Pd1 F6
+Monoclinic,20,4,Ca2 Sc1 Nb1 O6
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Cs2 Eu1 Cu1 Cl6
+Cubic,10,3,Na3 Ru1 F6
+Cubic,5,3,Ba1 Tl1 O3
+Cubic,10,3,Rb3 Mo1 F6
+Cubic,10,4,Na1 Eu1 Zr2 O6
+Cubic,5,3,K1 Dy1 O3
+Monoclinic,20,4,Li1 Sm2 Ir1 O6
+Cubic,5,3,Np1 Ta1 O3
+Cubic,5,3,Mg1 Tl1 O3
+Cubic,5,3,Yb1 Ni1 O3
+Cubic,10,4,Nb1 Ga1 Pb2 O6
+Cubic,10,4,Rb2 Li1 Ho1 Cl6
+Cubic,5,3,Sm1 Sb1 O3
+Cubic,10,4,Sr2 Nd1 V1 O6
+Cubic,10,4,Ba2 Ho1 Ta1 O6
+Orthorhombic,20,3,Zn1 Fe1 O3
+Cubic,10,4,Ca2 Dy1 Sb1 O6
+Cubic,10,4,Ca2 Ni1 Bi1 O6
+Cubic,10,4,K1 Rb2 Bi1 F6
+Cubic,40,4,Ba2 Tb1 Sn1 O6
+Cubic,10,4,Sr2 Zn1 Mo1 O6
+Cubic,5,3,Si1 Mo1 O3
+Cubic,40,4,Sr2 Gd1 W1 O6
+Orthorhombic,20,3,Ca1 V1 O3
+Orthorhombic,20,3,Li1 Be1 H3
+Cubic,10,4,Ba2 Tb1 Ce1 O6
+Trigonal,16,3,Sr3 La4 O9
+Orthorhombic,20,3,Cs1 Eu1 Br3
+Cubic,5,3,Li1 Lu1 O3
+Cubic,5,3,K1 Tl1 O3
+Monoclinic,20,4,Sr2 Zn1 Re1 O6
+Orthorhombic,20,3,Tb1 Lu1 O3
+Cubic,5,3,Th1 Re1 O3
+Orthorhombic,20,3,Ho1 Fe1 O3
+Cubic,10,4,Rb2 Na1 Tb1 F6
+Cubic,10,4,Ba2 Dy1 Ta1 O6
+Cubic,5,3,Tm3 In1 C1
+Cubic,5,3,Er1 Ru3 C1
+Monoclinic,20,4,Sr2 Sc1 Ta1 O6
+Orthorhombic,20,3,Sr1 Hf1 O3
+Cubic,5,3,Na1 Mg1 O3
+Cubic,5,3,Al1 Bi1 O3
+Cubic,5,3,Zn1 B1 O3
+Orthorhombic,20,3,Lu1 V1 O3
+Cubic,10,4,Sr2 Li1 Re1 O6
+Cubic,10,4,Eu2 Cr1 Sn1 O6
+Cubic,10,4,Ca2 Fe1 W1 O6
+Orthorhombic,20,3,Ce1 Sc1 S3
+Orthorhombic,20,3,Mg1 Si1 O3
+Orthorhombic,20,3,Mg1 Bi1 O3
+Cubic,5,3,Ni1 Pb1 O3
+Cubic,5,3,Mn3 In1 C1
+Cubic,10,4,Cs2 Rb1 In1 F6
+Cubic,10,4,Cs2 Cu1 Bi1 Br6
+Cubic,10,3,Ba1 Bi1 O3
+Cubic,10,4,K2 Na1 Al1 H6
+Cubic,10,4,Rb2 In1 As1 F6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Ba1 Nd1 O3
+Cubic,5,3,Lu1 Si1 O3
+Cubic,10,3,Rb3 Ru1 F6
+Cubic,10,4,Sr2 Mg1 Ir1 O6
+Cubic,40,4,Sr2 Eu1 Nb1 O6
+Cubic,20,4,Sr2 Co1 Mo1 O6
+Cubic,10,4,Cs2 Li1 Bi1 F6
+Cubic,10,4,Ca6 Al2 N1 F1
+Cubic,10,4,Na2 Mn1 Ag1 F6
+Cubic,10,4,Nd1 Eu2 Nb1 O6
+Cubic,10,4,Rb2 Tb1 Ag1 Cl6
+Cubic,5,3,Rb1 Cd1 F3
+Cubic,10,4,K2 Tb1 Au1 Cl6
+Cubic,10,4,K2 Ga1 Hg1 I6
+Cubic,10,4,Cs2 K1 Ce1 Br6
+Cubic,10,4,Rb2 La1 Au1 Cl6
+Cubic,10,4,Rb2 In1 Sb1 F6
+Cubic,10,4,Sr2 Hf1 Ti1 O6
+Cubic,5,3,Ho1 Si1 O3
+Cubic,10,3,Rb3 Au1 F6
+Cubic,10,4,Ba2 U1 Ti1 O6
+Cubic,10,4,K1 Sc1 Tl2 F6
+Orthorhombic,20,3,Ca1 Rh1 O3
+Cubic,5,3,Al1 Fe3 O1
+Cubic,10,4,Rb2 Na1 Sc1 Br6
+Cubic,5,3,Pr3 Ga1 C1
+Cubic,10,4,K1 Eu1 Zr2 O6
+Orthorhombic,20,3,Tb1 Co1 O3
+Cubic,5,3,Gd1 B1 Rh3
+Cubic,10,4,K2 Pr1 Cu1 I6
+Cubic,5,3,Eu1 Rh3 C1
+Orthorhombic,20,3,Tm1 Mn1 O3
+Cubic,5,3,Eu1 Os1 O3
+Cubic,5,3,Ca3 As1 N1
+Orthorhombic,20,4,Ca1 Ta1 N1 O2
+Tetragonal,50,4,Sr4 Ca1 Fe5 O15
+Cubic,10,4,Na2 Cu1 Sb1 F6
+Cubic,10,4,K2 Tl1 Hg1 F6
+Cubic,5,3,Sr3 Sb1 N1
+Cubic,10,3,K1 In1 I3
+Cubic,5,3,K1 Ba1 O3
+Cubic,5,3,Th1 Be1 O3
+Orthorhombic,120,3,Na1 Nb1 O3
+Cubic,5,3,Mn1 Tl1 F3
+Cubic,10,4,Ba2 Dy1 U1 O6
+Orthorhombic,20,3,La1 Tm1 O3
+Cubic,10,4,K2 Ga1 Ag1 Cl6
+Cubic,10,4,Rb2 Ag1 Mo1 F6
+Cubic,10,4,Sr2 Hf1 V1 O6
+Cubic,10,4,K2 Na1 In1 I6
+Orthorhombic,20,3,Li1 Mn1 F3
+Cubic,10,4,Rb2 Na1 Bi1 I6
+Cubic,5,3,K1 Rb1 O3
+Cubic,5,3,Ho1 Ge1 O3
+Cubic,5,3,Sr1 Tm1 O3
+Cubic,10,4,Cs2 Li1 Dy1 Cl6
+Cubic,5,3,Gd1 Co1 O3
+Cubic,5,3,Th1 Ru3 C1
+Orthorhombic,20,3,K1 Mn1 Cl3
+Cubic,10,4,Yb1 Ta1 Pb2 O6
+Cubic,5,3,Cs1 Na1 O3
+Orthorhombic,36,3,Rb1 Fe3 O5
+Cubic,5,3,K1 In1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 Cl6
+Cubic,20,4,Mn1 Te1 Pb2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Ba2 Sm1 W1 O6
+Orthorhombic,20,4,Sr1 Ca1 Ru2 O6
+Cubic,5,3,Cs1 Au1 Br3
+Cubic,10,4,Eu2 Y1 V1 O6
+Orthorhombic,20,3,Pr1 Lu1 O3
+Orthorhombic,20,3,Sm1 Al1 O3
+Cubic,10,3,Pr1 Al1 O3
+Cubic,5,3,Cu1 Ag1 F3
+Cubic,5,3,Nd3 In1 N1
+Cubic,5,3,K1 Mg1 H3
+Cubic,10,4,Sr2 Ti1 Bi1 O6
+Cubic,10,4,Rb2 Li1 Ta1 Br6
+Cubic,5,3,La3 Al1 N1
+Cubic,10,4,K2 Na1 Ir1 F6
+Orthorhombic,20,3,Y1 W1 O3
+Cubic,10,4,K2 Er1 Ag1 Cl6
+Cubic,40,4,Ba2 Co1 Re1 O6
+Cubic,5,3,Ac1 Ni1 O3
+Cubic,10,4,Cs2 Ag1 As1 Cl6
+Cubic,5,3,Ba1 Cd1 O3
+Cubic,5,3,In1 Os1 O3
+Cubic,10,4,Eu2 Lu1 Ta1 O6
+Cubic,5,3,Cs1 Yb1 F3
+Cubic,5,3,Rb1 W1 O3
+Cubic,5,3,Al1 Pb1 O3
+Cubic,10,4,K2 Li1 Ce1 I6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,5,3,Cs1 In1 Br3
+Cubic,5,3,Ti3 Tl1 C1
+Orthorhombic,40,5,Na3 Gd1 Ti2 Nb2 O12
+Cubic,5,3,Ba1 Ir1 O3
+Cubic,10,4,Ba2 Ce1 Zr1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Trigonal,20,3,La1 Co1 O3
+Cubic,10,4,Sr2 Eu1 Sb1 O6
+Cubic,5,3,Sc3 In1 N1
+Orthorhombic,20,3,Tb1 V1 O3
+Orthorhombic,20,3,Sr1 Zr1 S3
+Cubic,10,4,Cs2 Tl1 In1 F6
+Cubic,5,3,Er3 Sn1 C1
+Cubic,5,3,Np1 Tc1 O3
+Cubic,5,3,Cs1 Hg1 F3
+Tetragonal,40,4,La5 Sm3 Cr8 O24
+Tetragonal,10,4,Ba2 Sm1 Mo1 O6
+Cubic,10,3,K3 Al1 Cl6
+Cubic,10,4,Rb2 Tl1 Au1 Cl6
+Cubic,10,4,K2 In1 As1 Cl6
+Cubic,10,4,Cs2 Y1 In1 Cl6
+Cubic,10,4,Rb2 Eu1 Cu1 Cl6
+Cubic,10,4,Cs2 Li1 Sb1 I6
+Orthorhombic,20,3,Na1 Os1 O3
+Cubic,10,3,Rb3 Y1 F6
+Cubic,10,3,Sr1 Ni1 O3
+Cubic,10,4,Na2 Li1 Ir1 F6
+Cubic,10,4,K2 Na1 Ga1 Cl6
+Cubic,5,3,Zr1 Tl1 O3
+Cubic,10,4,K2 Sc1 Ag1 Br6
+Cubic,10,4,Ba2 Sc1 Os1 O6
+Cubic,10,4,Cs2 Y1 Hg1 F6
+Cubic,5,3,K3 I1 O1
+Cubic,10,4,Cs2 Al1 Cu1 Cl6
+Cubic,10,4,Sr2 Tb1 Sn1 O6
+Cubic,20,4,Ba2 Cr1 Mo1 O6
+Cubic,5,3,Np1 Sn1 O3
+Cubic,10,4,Sr2 Dy1 Sb1 O6
+Cubic,10,4,K2 Cu1 Sb1 Cl6
+Cubic,10,4,Eu2 In1 Fe1 O6
+Cubic,10,4,K2 In1 Ag1 F6
+Monoclinic,20,4,Sr2 Sc1 Nb1 O6
+Cubic,10,4,Ba2 Pr1 Ti1 O6
+Cubic,10,4,Cs2 Na1 Bi1 I6
+Cubic,10,4,K2 Mn1 Hg1 F6
+Cubic,5,3,Yb1 Ge1 O3
+Cubic,5,3,Bi1 Mo1 O3
+Cubic,5,3,K1 Ca1 F3
+Cubic,10,4,Cs2 Ga1 Hg1 I6
+Cubic,5,3,Rb1 Fe1 F3
+Cubic,5,3,Ti1 Be1 O3
+Orthorhombic,20,3,Rb1 Yb1 Br3
+Orthorhombic,20,3,Lu1 Ti1 O3
+Cubic,5,3,Sr1 Pu1 O3
+Cubic,10,4,Ba2 Sr1 Ir1 O6
+Cubic,10,3,Cs3 Pd1 F6
+Cubic,10,4,Sc1 Nb1 Pb2 O6
+Cubic,10,4,K2 Ga1 Cu1 F6
+Cubic,10,4,Rb2 Sc1 Cu1 Cl6
+Cubic,10,4,Cs2 K1 Pr1 Br6
+Cubic,10,4,Rb2 Tl1 Cu1 F6
+Cubic,5,3,La1 Pt1 O3
+Cubic,10,3,Rb3 Au1 Cl6
+Cubic,5,3,Pa1 Ta1 O3
+Tetragonal,20,5,Ba4 Ta2 Ti1 Zn1 O12
+Cubic,5,3,Ge1 Pd1 O3
+Cubic,10,4,Sr2 Gd1 Cr1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,K2 Na1 Tb1 Cl6
+Monoclinic,20,4,Sr2 Tm1 Ta1 O6
+Cubic,5,3,Ce1 Ga1 O3
+Cubic,10,3,Cs3 Tb1 F6
+Trigonal,25,5,Ca4 U1 Al2 Si3 O15
+Orthorhombic,20,3,Ho1 Rh1 O3
+Cubic,10,4,Ba2 Ag1 I1 O6
+Cubic,10,4,Eu2 Dy1 Mn1 O6
+Monoclinic,20,4,Sr2 Gd1 Ru1 O6
+Cubic,5,3,Sr1 Tc1 O3
+Cubic,10,4,Sr2 La1 Bi1 O6
+Cubic,5,3,Ti3 In1 C1
+Orthorhombic,20,3,Tm1 Ni1 O3
+Tetragonal,40,4,Ba1 Eu1 Zr2 O6
+Cubic,5,3,Mn3 Zn1 N1
+Orthorhombic,20,3,Sm1 Co1 O3
+Orthorhombic,20,3,Eu1 Mn1 O3
+Cubic,5,3,Y3 Pb1 C1
+Cubic,5,3,Pm1 Ti1 O3
+Orthorhombic,20,3,Tb1 Ho1 O3
+Trigonal,11,4,Mg1 Hg2 Bi2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Sc1 Ru3 C1
+Cubic,10,4,K2 Tl1 In1 F6
+Cubic,10,4,K2 In1 Ga1 F6
+Orthorhombic,20,3,Nd1 In1 O3
+Cubic,10,4,Cs2 Li1 Mo1 I6
+Cubic,5,3,Mg1 Re1 O3
+Cubic,10,4,Rb2 In1 Cu1 Cl6
+Cubic,5,2,Ge2 O3
+Cubic,5,3,Li1 Pa1 O3
+Cubic,10,4,Sr2 Cr1 Re1 O6
+Cubic,10,4,Cs2 In1 Bi1 F6
+Orthorhombic,20,3,Rb1 Tm1 I3
+Cubic,5,3,Ca1 Zr1 O3
+Cubic,40,4,La8 Mg1 Al7 O24
+Cubic,10,4,Ba1 Nd1 Fe2 O6
+Orthorhombic,20,3,Zn1 Mo1 O3
+Cubic,10,4,Rb2 Nd1 Ag1 I6
+Cubic,10,4,Sr2 Pr1 Bi1 O6
+Cubic,10,4,Sr2 Ce1 Ni1 O6
+Cubic,10,3,Li3 V1 F6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Cs1 Pd1 F3
+Cubic,10,4,Cs2 Ag1 Au1 Br6
+Cubic,10,4,Li1 La1 Ti2 O6
+Cubic,10,4,K1 Rb2 Al1 I6
+Cubic,10,4,K2 Li1 Ta1 Cl6
+Cubic,5,3,Li1 Er1 O3
+Cubic,10,4,Ba2 U1 Ni1 O6
+Orthorhombic,20,3,Nd1 Co1 O3
+Cubic,5,3,Sm1 Rh3 C1
+Orthorhombic,20,3,Co1 Pb1 O3
+Cubic,5,3,Rb1 Sr1 O3
+Cubic,10,4,Cs2 Bi1 Au1 Cl6
+Cubic,10,4,Ba2 Cd1 Re1 O6
+Tetragonal,5,4,Cs1 Hg1 Br2 Cl1
+Orthorhombic,20,3,Hf1 Co1 O3
+Cubic,10,4,Cs1 Rb2 Au1 F6
+Orthorhombic,20,3,Ce1 Cr1 O3
+Cubic,10,4,K2 Li1 Gd1 Cl6
+Cubic,10,4,Rb2 Li1 La1 Cl6
+Cubic,5,3,Re1 Bi1 O3
+Cubic,5,3,Cs1 Nd1 O3
+Cubic,5,3,Na1 Al1 O3
+Cubic,5,3,La1 Ga1 O3
+Cubic,5,3,Yb1 W1 O3
+Monoclinic,20,4,Sr2 Y1 Ru1 O6
+Monoclinic,20,4,Nd2 Mn1 Rh1 O6
+Orthorhombic,20,3,Sc1 Co1 O3
+Cubic,5,3,Y1 Co1 O3
+Cubic,5,3,Ac1 Ga1 O3
+Cubic,10,4,Sr2 Pr1 Sn1 O6
+Cubic,10,3,K3 Ti1 F6
+Cubic,10,4,Sr2 Cu1 Sb1 O6
+Cubic,10,4,Cs2 Rb1 Ga1 Br6
+Cubic,10,4,Cs2 Pr1 Cu1 I6
+Cubic,5,3,Bi1 Pt1 O3
+Monoclinic,60,4,Li1 La3 Ti2 O9
+Cubic,10,4,Cs2 Na1 Ca1 Cl6
+Cubic,5,3,Sc1 Sn1 O3
+Cubic,10,4,Cs2 Li1 Ta1 F6
+Cubic,10,3,K3 Au1 F6
+Cubic,10,4,Sr1 La1 Co2 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Sr2 La1 Sb1 O6
+Orthorhombic,20,3,Tl1 Ni1 O3
+Cubic,5,3,Mn3 Sn1 N1
+Cubic,10,4,Ba2 Yb1 Sb1 O6
+Cubic,10,4,Cs2 K1 Rh1 F6
+Monoclinic,20,4,Sr2 Ca1 Mo1 O6
+Monoclinic,20,4,K1 Rb2 Sc1 F6
+Orthorhombic,20,3,Eu1 Ni1 O3
+Orthorhombic,20,3,Sm1 In1 O3
+Orthorhombic,20,4,La1 Y1 Ti2 O6
+Cubic,10,4,K2 Ce1 Ag1 F6
+Monoclinic,16,3,Li1 Tm1 O2
+Cubic,5,3,K1 Co1 O3
+Cubic,5,3,K1 Rh1 O3
+Orthorhombic,20,3,Nd1 Lu1 O3
+Trigonal,20,4,Ba4 Er1 Ru3 O12
+Cubic,10,3,K1 Tl1 I3
+Cubic,10,4,Cs2 Tl1 Ga1 Cl6
+Cubic,10,4,Sr2 Pr1 Co1 O6
+Cubic,10,4,K2 Ta1 Cu1 Br6
+Cubic,10,4,Sr2 Mg1 W1 O6
+Cubic,10,4,Cs2 Sb1 Au1 F6
+Monoclinic,20,4,Ba2 La1 Sb1 O6
+Cubic,10,4,Cs2 Ga1 Ag1 I6
+Cubic,40,4,La7 Sc1 Al8 O24
+Cubic,5,3,Tl1 Zn1 F3
+Orthorhombic,40,4,Ba2 Ta1 Mn1 O6
+Cubic,10,4,Rb2 Na1 Ce1 Br6
+Cubic,5,3,K3 Br1 O1
+Cubic,10,4,K2 Ag1 Bi1 F6
+Cubic,40,4,Sr2 Tb1 W1 O6
+Cubic,10,4,K2 Pr1 Cu1 Br6
+Cubic,5,3,Sr1 Zr1 O3
+Cubic,10,4,Na2 Tl1 Cu1 F6
+Cubic,10,4,K2 Lu1 Ag1 Cl6
+Cubic,10,4,Cs2 Li1 Sm1 Cl6
+Cubic,5,3,Na1 Be1 H3
+Cubic,10,4,Cs2 Tl1 In1 Br6
+Cubic,5,3,Dy3 Al1 C1
+Cubic,10,4,Cs2 Y1 Cu1 I6
+Orthorhombic,20,3,Ho1 Lu1 O3
+Cubic,10,4,Sr2 Pr1 Nb1 O6
+Trigonal,25,4,Sr5 Zr1 Ti4 O15
+Cubic,10,4,Rb2 Ir1 Au1 F6
+Monoclinic,40,4,La2 Ti1 Mn1 O6
+Cubic,10,4,Cs2 Li1 Sb1 Br6
+Cubic,10,4,K2 Li1 Pr1 Cl6
+Cubic,10,4,K2 Cr1 Ag1 F6
+Cubic,10,4,Ba2 Tb1 Ir1 O6
+Cubic,10,4,Rb2 In1 Hg1 Br6
+Cubic,5,3,Ce1 Mn1 O3
+Orthorhombic,28,3,Er2 Pb1 S4
+Cubic,10,4,Cs2 Na1 Sb1 F6
+Cubic,10,4,Cs2 Na1 In1 F6
+Cubic,10,4,K1 Na1 Mg2 F6
+Cubic,10,4,Sr2 V1 W1 O6
+Tetragonal,20,5,Ca2 La2 Ti3 Cu1 O12
+Cubic,10,4,K2 In1 Ag1 Br6
+Cubic,5,3,Al1 Mo1 O3
+Cubic,10,4,Sr2 Gd1 Nb1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Tetragonal,10,4,Sr2 Ti1 Ru1 O6
+Cubic,5,3,Sr1 Hg1 O3
+Cubic,10,4,Cs2 Na1 Sr1 F6
+Monoclinic,20,4,Sr2 Yb1 Mo1 O6
+Cubic,10,4,Sr2 Gd1 W1 O6
+Cubic,10,4,Cs2 Li1 Pr1 Br6
+Orthorhombic,20,3,Lu1 Tl1 O3
+Cubic,5,3,Ac1 Mn1 O3
+Cubic,10,4,Na2 Li1 As1 F6
+Cubic,5,3,La1 Ta1 O3
+Cubic,10,4,Cs2 Tl1 In1 I6
+Cubic,10,4,Na2 Li1 Ni1 F6
+Cubic,10,4,Rb2 Y1 Hg1 F6
+Cubic,5,3,Cr1 Cu1 O3
+Cubic,10,4,K2 Na1 Bi1 Br6
+Cubic,5,3,Lu1 Np1 O3
+Cubic,10,4,Eu2 Ho1 Ta1 O6
+Cubic,10,4,K2 In1 Hg1 Cl6
+Cubic,10,4,Sr2 Ga1 Os1 O6
+Monoclinic,20,4,Eu2 Mn1 Rh1 O6
+Cubic,10,4,Rb2 Ta1 Cu1 Br6
+Cubic,10,4,Ba2 Tl1 Sb1 O6
+Monoclinic,20,4,Ca2 Cr1 Ir1 O6
+Cubic,5,3,Tb1 Ni1 O3
+Monoclinic,20,4,Ca2 V1 Ir1 O6
+Cubic,5,3,Eu1 Hg1 O3
+Orthorhombic,20,3,Eu1 Np1 O3
+Monoclinic,20,4,Sr2 Eu1 W1 O6
+Cubic,5,3,Gd1 Cu1 O3
+Orthorhombic,20,3,Cs1 Dy1 I3
+Cubic,10,3,K3 W1 F6
+Orthorhombic,20,3,K1 Mn1 F3
+Orthorhombic,20,3,Sm1 Tl1 O3
+Trigonal,16,3,Ba3 Yb4 O9
+Monoclinic,20,4,U1 Cd1 Pb2 O6
+Cubic,5,3,Nd3 Al1 N1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Li1 In1 F6
+Cubic,10,4,Rb2 Tl1 Ru1 F6
+Cubic,5,3,Np1 Os1 O3
+Cubic,10,4,K1 Rb2 Gd1 Cl6
+Cubic,10,4,K1 Ba2 I1 O6
+Cubic,5,3,Ca1 La1 O3
+Cubic,5,3,Na1 Re1 O3
+Cubic,5,3,K1 As1 O3
+Cubic,10,4,Sr2 Lu1 Ta1 O6
+Cubic,10,4,Cs2 Na1 Mg1 F6
+Cubic,10,4,Cs2 Li1 Mo1 F6
+Cubic,10,4,K2 Hg1 Rh1 F6
+Cubic,10,4,Sr2 Yb1 U1 O6
+Cubic,10,4,K2 Nd1 Cu1 F6
+Cubic,10,4,Cs2 Tl1 Ga1 Br6
+Cubic,10,4,K1 Rb2 Nb1 F6
+Cubic,10,4,Rb2 Tl1 Hg1 I6
+Cubic,5,3,Cs1 Mo1 O3
+Cubic,5,3,Yb1 Pt1 O3
+Cubic,10,4,Ba2 Sc1 U1 O6
+Orthorhombic,20,3,Pu1 Cr1 O3
+Cubic,5,3,Cs1 Tm1 H3
+Cubic,5,3,Na1 Nb1 O3
+Cubic,10,4,Ba2 V1 Bi1 O6
+Cubic,10,4,Sr2 Sm1 V1 O6
+Monoclinic,20,4,Li1 La2 Ru1 O6
+Cubic,10,4,Tb1 Eu2 Sb1 O6
+Cubic,10,4,Sr2 Eu1 W1 O6
+Monoclinic,20,4,Pr2 Mg1 Pt1 O6
+Cubic,10,4,Ba2 Eu1 Cr1 O6
+Orthorhombic,20,3,Nd1 Cr1 O3
+Orthorhombic,20,3,Dy1 Ti1 O3
+Orthorhombic,20,3,Na1 Co1 F3
+Monoclinic,68,3,Nd4 Co3 O10
+Cubic,10,4,Cs2 Br1 Cl6 F1
+Cubic,10,4,Rb2 Bi1 Au1 F6
+Cubic,10,4,Rb2 Hg1 Bi1 F6
+Orthorhombic,20,3,Ca1 Bi1 O3
+Cubic,10,4,Cs2 Li1 Ce1 I6
+Orthorhombic,20,3,Mn1 Tl1 O3
+Cubic,10,4,K1 Rb2 Eu1 Cl6
+Cubic,5,3,Tb1 Cu1 O3
+Cubic,5,3,Lu1 U1 O3
+Cubic,10,4,Ba2 Yb1 U1 O6
+Tetragonal,5,4,Ba1 Ta1 N1 O2
+Cubic,5,3,Mn3 Al1 N1
+Cubic,5,3,K1 Hf1 O3
+Cubic,10,4,Ba2 Dy1 Nb1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Rb2 Ga1 Hg1 Cl6
+Cubic,10,4,Na2 Li1 Ga1 F6
+Orthorhombic,20,3,Sm1 Tm1 O3
+Cubic,5,3,Ca1 In1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Monoclinic,20,4,Sr2 Co1 Te1 O6
+Cubic,5,3,Dy3 Pb1 C1
+Cubic,5,3,Nd3 Sn1 C1
+Orthorhombic,48,5,H6 Pb1 C1 Br3 N1
+Cubic,5,3,K1 Tc1 O3
+Cubic,10,4,Cs2 Hg1 Sb1 I6
+Cubic,10,4,Ba2 Y1 Re1 O6
+Cubic,10,4,Cs2 Na1 As1 Cl6
+Cubic,5,3,Sc1 Cu1 O3
+Cubic,5,3,Rb1 Sb1 O3
+Cubic,10,4,Cs2 Na1 Sb1 Cl6
+Cubic,10,4,Rb2 Na1 Sb1 F6
+Cubic,10,4,Sr2 Hf1 Sn1 O6
+Cubic,10,4,Cs2 K1 Mo1 Br6
+Cubic,10,4,Cs2 K1 Sc1 F6
+Cubic,10,4,Cs2 Pr1 Ag1 I6
+Cubic,5,3,K1 Mg1 O3
+Cubic,5,3,Cs1 Np1 O3
+Cubic,5,3,Li1 Gd1 O3
+Cubic,5,3,Cs1 Yb1 H3
+Cubic,10,4,Ba2 Tm1 Mo1 O6
+Orthorhombic,20,3,Yb1 Fe1 O3
+Cubic,10,4,Ba2 U1 Ge1 O6
+Cubic,10,4,Rb2 Na1 Rh1 F6
+Cubic,10,4,Ba2 Nb1 Co1 O6
+Cubic,5,3,Ni1 Ag1 F3
+Cubic,10,4,Ba2 Tb1 Pr1 O6
+Cubic,10,4,Ba2 Nb1 In1 O6
+Orthorhombic,20,3,Ce1 Tm1 O3
+Cubic,10,4,Rb2 Nd1 Au1 Cl6
+Cubic,10,3,Fe1 Bi1 O3
+Cubic,10,4,Sr2 In1 W1 O6
+Orthorhombic,20,3,Yb1 Ni1 O3
+Orthorhombic,20,3,Fe1 Bi1 O3
+Monoclinic,20,3,Na1 Cu1 F3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Li1 In1 Cl6
+Cubic,5,3,Mn3 Ni1 N1
+Tetragonal,10,3,Cs1 Ag1 F3
+Cubic,10,4,Cs2 Cu1 Sb1 Br6
+Orthorhombic,20,3,Er1 Lu1 O3
+Cubic,10,4,Cs2 Li1 Sb1 Cl6
+Cubic,20,4,Sr2 Nb1 Co1 O6
+Cubic,10,4,K2 Ta1 Ag1 Br6
+Cubic,10,4,K2 Li1 Ni1 F6
+Cubic,10,4,K2 Nb1 Ag1 F6
+Cubic,10,4,Rb2 Sc1 Ag1 I6
+Cubic,10,4,Cs2 Rb1 Ru1 F6
+Cubic,10,4,Cs2 Na1 Ta1 I6
+Cubic,10,3,Rb3 Pd1 F6
+Cubic,10,4,Cs2 In1 Sb1 Br6
+Cubic,10,4,Rb2 Na1 Au1 Cl6
+Cubic,5,3,Ca1 Y1 O3
+Cubic,5,3,Be1 Ge1 O3
+Cubic,10,4,Rb2 Al1 Hg1 Br6
+Cubic,10,4,K2 Na1 Mo1 I6
+Cubic,5,3,Sr1 H3 Pd1
+Cubic,10,4,Rb2 Li1 Tl1 F6
+Monoclinic,20,4,Pr2 Mn1 Ni1 O6
+Cubic,5,3,Ho1 Cu1 O3
+Orthorhombic,20,3,Ca1 Os1 O3
+Cubic,5,3,Eu1 Ir1 O3
+Cubic,5,3,U1 Si1 O3
+Orthorhombic,28,3,Ho2 Pb1 S4
+Tetragonal,10,4,K2 Ta1 Nb1 O6
+Cubic,10,4,Ca2 Tb1 Sb1 O6
+Orthorhombic,20,3,Ni1 W3 N1
+Cubic,10,4,Ba2 Y1 Zr1 O6
+Tetragonal,10,4,K2 Mg1 Cu1 F6
+Cubic,5,3,Ho1 Ru3 C1
+Cubic,20,4,Ba2 Mn1 W1 O6
+Cubic,5,3,Sr1 Fe1 O3
+Cubic,10,4,Sr2 Y1 V1 O6
+Cubic,5,3,Rb1 Yb1 F3
+Cubic,5,3,Lu3 Al1 C1
+Cubic,10,4,K2 Li1 Nd1 Cl6
+Cubic,10,4,Cs2 Rb1 Au1 Br6
+Orthorhombic,20,3,Ca3 Si1 O1
+Cubic,5,3,Mg1 Al1 O3
+Cubic,40,4,Sr2 Eu1 W1 O6
+Cubic,5,3,Cu3 Ru1 N1
+Cubic,40,4,Sr1 Ca7 Mn8 O24
+Cubic,10,4,Rb2 Dy1 Ag1 Cl6
+Cubic,5,3,Al1 Sn1 O3
+Cubic,5,3,Pb1 Au1 O3
+Cubic,10,4,Ba2 Y1 Mo1 O6
+Cubic,10,4,Cs2 Y1 Tl1 F6
+Cubic,5,3,Np1 Be1 O3
+Cubic,10,4,Cs2 K1 Au1 Cl6
+Monoclinic,20,4,La2 Mn1 Ni1 O6
+Tetragonal,10,4,Sr2 Nb1 Fe1 O6
+Cubic,10,4,Ba2 Sc1 Ta1 O6
+Cubic,10,4,K2 Li1 Mo1 Cl6
+Cubic,10,4,Cs2 Ce1 Ag1 F6
+Cubic,10,4,K2 Tl1 Ga1 Br6
+Monoclinic,20,4,La2 V1 Fe1 O6
+Monoclinic,20,4,Ba2 Ce1 Bi1 O6
+Cubic,10,4,K2 Li1 Sc1 Cl6
+Cubic,5,3,Er1 Be1 O3
+Cubic,10,4,K2 Na1 Ce1 F6
+Cubic,5,3,Be1 Pt1 O3
+Cubic,10,4,Rb2 Tl1 Bi1 F6
+Cubic,5,3,Ga1 Sn1 O3
+Orthorhombic,20,3,U1 V1 Se3
+Cubic,10,4,Cs2 Na1 Pb1 F6
+Cubic,10,4,Ba2 Ta1 Tl1 O6
+Cubic,5,3,Na1 Cd1 O3
+Cubic,10,4,Eu2 Er1 Ta1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Ba2 Nd1 Nb1 O6
+Cubic,10,4,K1 Rb2 Ga1 I6
+Cubic,5,3,Tl1 Si1 O3
+Cubic,10,4,Sr2 Nb1 Cu1 O6
+Tetragonal,10,4,Nb1 Fe1 Pb2 O6
+Monoclinic,20,4,Sr2 Co1 Sb1 O6
+Cubic,5,3,Dy1 Bi1 O3
+Tetragonal,25,4,Ba4 Sr1 Fe5 O15
+Monoclinic,20,3,Y1 Co1 O3
+Orthorhombic,20,3,Zn1 W1 O3
+Cubic,5,3,La1 B1 Rh3
+Orthorhombic,20,3,Gd1 Ni1 O3
+Cubic,5,3,Rb1 Pd1 O3
+Cubic,10,4,Cs2 Na1 In1 Cl6
+Trigonal,20,4,Ba2 Ni1 Te1 O6
+Cubic,10,3,K3 Ga1 Br6
+Monoclinic,40,4,Ca2 Fe1 Ir1 O6
+Cubic,10,4,K2 Na1 As1 Cl6
+Cubic,10,4,K2 Cu1 As1 F6
+Monoclinic,20,4,Na2 Li1 Al1 H6
+Cubic,10,4,Cs2 K1 Al1 Cl6
+Cubic,10,4,Ba2 Ca1 Os1 O6
+Cubic,10,4,Cs2 Ag1 As1 Br6
+Cubic,5,3,Tb1 Mg1 O3
+Cubic,5,3,Yb1 Be1 O3
+Cubic,5,3,Sr1 Ru1 O3
+Orthorhombic,20,3,Dy1 Lu1 O3
+Cubic,10,3,Rb3 Nd1 F6
+Orthorhombic,48,5,H6 Pb1 C1 I3 N1
+Cubic,40,4,K9 U6 Bi1 O24
+Cubic,10,4,Rb2 Y1 Cu1 Cl6
+Cubic,10,4,Rb2 Cu1 Bi1 Cl6
+Cubic,10,4,Sr2 Dy1 Se1 O6
+Cubic,10,4,Rb2 Pr1 Ag1 Br6
+Cubic,10,4,K1 Sm1 Hf2 O6
+Cubic,10,3,Na3 V1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Rb2 Na1 Au1 Br6
+Cubic,10,4,Cs2 K1 Ti1 F6
+Cubic,5,3,K1 Sr1 O3
+Orthorhombic,20,3,Ce1 Sc1 O3
+Cubic,5,3,Na1 Ti1 O3
+Cubic,5,3,Sr1 Sb1 O3
+Cubic,10,4,Rb2 Ta1 Ag1 Br6
+Cubic,10,4,K2 Li1 Sb1 Br6
+Cubic,10,4,K2 Li1 Mo1 F6
+Cubic,10,4,K2 Tl1 Ag1 Cl6
+Cubic,5,3,B1 Te1 O3
+Cubic,5,3,Be1 V1 O3
+Monoclinic,20,4,La2 Mn1 Cr1 O6
+Cubic,5,3,La1 Zr1 O3
+Cubic,10,4,Cs2 Tm1 Cu1 Cl6
+Cubic,5,3,Yb1 Nd1 O3
+Cubic,10,4,Cs2 K1 Dy1 Cl6
+Cubic,10,4,Cs2 Rb1 Tl1 F6
+Cubic,10,4,Rb2 Na1 In1 Br6
+Cubic,5,3,Eu1 Pb1 O3
+Orthorhombic,20,3,Y1 Ti1 O3
+Monoclinic,20,3,Er1 Ni1 O3
+Cubic,10,4,Sr2 Fe1 Ru1 O6
+Orthorhombic,20,3,Mg1 Sn1 O3
+Cubic,5,3,K1 Bi1 O3
+Cubic,10,4,K2 Tl1 Mo1 F6
+Cubic,10,4,K2 Ga1 Au1 Cl6
+Orthorhombic,20,3,Er1 Co1 O3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,20,4,Sr2 Fe1 Os1 O6
+Cubic,10,4,Cs2 Na1 Ni1 F6
+Tetragonal,25,4,Ba4 Ti5 Pb1 O15
+Cubic,10,4,Rb2 Hg1 Sb1 I6
+Cubic,5,3,Y1 Bi1 O3
+Cubic,10,4,Rb2 Li1 Al1 F6
+Orthorhombic,20,3,Tl1 Co1 O3
+Cubic,10,4,K1 Rb2 Tm1 Cl6
+Cubic,20,4,Sr2 Fe1 Mo1 O6
+Cubic,10,4,K2 Na1 Sc1 Cl6
+Cubic,5,3,Eu1 Au1 O3
+Cubic,40,4,Ba2 La1 Sb1 O6
+Cubic,5,3,Gd3 Al1 C1
+Orthorhombic,20,3,Sr1 Pr1 O3
+Cubic,10,4,K2 Na1 Mo1 F6
+Orthorhombic,20,3,Ho1 Ga1 O3
+Cubic,5,3,Ni1 Pt1 O3
+Cubic,5,3,Li1 Ca1 O3
+Cubic,5,3,Nd1 Ge1 O3
+Cubic,10,4,Cs2 K1 Sb1 Br6
+Cubic,10,4,Ba2 Er1 Ru1 O6
+Cubic,5,3,Nd3 In1 N1
+Cubic,5,3,Ba1 Th1 O3
+Monoclinic,20,4,Sr2 Tb1 Ru1 O6
+Cubic,5,3,Li1 Be1 O3
+Cubic,40,4,Sr2 Tb1 Hf1 O6
+Cubic,10,4,Rb2 Na1 Co1 F6
+Cubic,5,3,Cs1 Ca1 H3
+Cubic,5,3,Sr1 Mo1 O3
+Orthorhombic,20,3,Ce1 Ni1 O3
+Orthorhombic,20,3,Tm1 Sc1 O3
+Cubic,10,4,K2 Na1 Nd1 F6
+Cubic,5,3,Ti1 Pb1 O3
+Cubic,10,4,K2 Na1 Mo1 Cl6
+Cubic,10,4,Rb2 Nb1 Cu1 F6
+Cubic,5,3,K1 Au1 F3
+Cubic,10,4,Ca2 Ti1 Si1 O6
+Cubic,10,3,Cs3 Sb1 F6
+Cubic,10,4,Rb2 In1 Hg1 F6
+Cubic,10,4,Cs2 Li1 Bi1 I6
+Cubic,10,4,Ba2 Y1 Sb1 O6
+Cubic,10,4,Rb2 Pr1 Cu1 F6
+Cubic,10,4,Cs2 Li1 Sc1 F6
+Cubic,5,3,Ba1 Eu1 O3
+Cubic,10,3,Rb1 In1 F3
+Cubic,5,3,Np1 Al1 O3
+Cubic,5,3,Pa1 Si1 O3
+Cubic,5,3,Lu1 V1 O3
+Cubic,10,4,Sr2 Ca1 Os1 O6
+Cubic,5,3,La3 Sn1 N1
+Cubic,5,3,Np1 Ti1 O3
+Orthorhombic,20,3,K1 Ca1 Cl3
+Cubic,10,4,Cs2 Na1 Al1 H6
+Cubic,10,4,Sr2 Nb1 W1 O6
+Cubic,10,4,Ba2 Sm1 Mn1 O6
+Cubic,40,4,Ca8 Ti1 Mn7 O24
+Cubic,10,4,Sr2 Tm1 Re1 O6
+Cubic,10,4,K2 Ag1 Au1 Br6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,5,3,Cd1 Ni3 C1
+Cubic,5,3,Rb1 Mn1 O3
+Orthorhombic,20,3,Dy1 V1 O3
+Trigonal,20,4,Ba4 Zr1 Ru3 O12
+Cubic,5,3,Eu1 Ru1 O3
+Cubic,10,4,Cs2 K1 N1 F6
+Cubic,10,4,Sr2 Ni1 Bi1 O6
+Cubic,10,4,K1 Rb2 As1 Br6
+Orthorhombic,20,3,Co1 Bi1 O3
+Cubic,10,4,Cs2 K1 Ag1 F6
+Orthorhombic,20,3,Er1 Ga1 O3
+Orthorhombic,20,4,La1 Pr1 Cr2 O6
+Monoclinic,20,4,Ca2 Mg1 Re1 O6
+Monoclinic,60,4,Ca1 La2 Mn3 O9
+Cubic,10,4,Ba2 Tb1 Re1 O6
+Cubic,10,4,Ba2 Ce1 Sn1 O6
+Cubic,5,3,Y1 Fe1 O3
+Cubic,10,4,Ce1 Eu2 Cr1 O6
+Tetragonal,10,4,Ba1 Sr1 Ce2 O6
+Orthorhombic,20,3,Ca1 Zr1 O3
+Tetragonal,10,4,Ba1 Pr1 Mn2 O6
+Cubic,5,3,Cs1 Cd1 Br3
+Tetragonal,10,4,Ba2 Eu1 Ta1 O6
+Cubic,5,3,Ba3 Pb1 O1
+Orthorhombic,20,3,Tb1 Cr1 O3
+Cubic,10,4,K1 Rb2 Cr1 F6
+Orthorhombic,28,3,Mg1 Ag2 O4
+Cubic,5,3,Pu1 Pt1 O3
+Cubic,10,4,Sr2 Y1 W1 O6
+Cubic,5,3,Be1 Ga1 O3
+Cubic,5,3,Rb1 Pd1 Cl3
+Cubic,10,4,Sr2 Ca1 W1 O6
+Cubic,10,4,Rb2 Li1 As1 F6
+Cubic,10,4,Rb2 Na1 Eu1 Cl6
+Cubic,10,4,Ba2 Yb1 Pa1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Orthorhombic,24,3,Tl2 Sn1 O3
+Cubic,10,4,Cs2 Sc1 Hg1 Cl6
+Cubic,10,4,K2 Cu1 Au1 Cl6
+Cubic,5,3,Hf1 Np1 O3
+Cubic,10,4,Cs2 K1 Tb1 Cl6
+Orthorhombic,20,3,Na1 Nb1 O3
+Orthorhombic,20,3,Cd1 Co1 O3
+Cubic,5,3,Al1 Bi1 O3
+Trigonal,40,5,Sr6 La2 Ta3 Al5 O24
+Cubic,5,3,Zn1 Bi1 O3
+Cubic,10,4,K2 Ag1 Bi1 Cl6
+Cubic,10,3,Cs3 As1 Br6
+Cubic,10,4,Cs2 Al1 Ag1 Cl6
+Cubic,10,4,Rb2 In1 Sb1 I6
+Cubic,5,3,Ba1 Pt1 O3
+Cubic,10,4,Cs2 Na1 Ce1 F6
+Cubic,10,3,Rb3 Sm1 F6
+Cubic,10,4,Sr2 Er1 U1 O6
+Tetragonal,10,4,La1 Ce1 Al2 O6
+Cubic,10,4,Rb2 In1 Ag1 I6
+Cubic,10,4,Sr2 Y1 Bi1 O6
+Cubic,10,4,K1 Ce1 Hf2 O6
+Cubic,10,4,K2 La1 Au1 Cl6
+Cubic,10,4,Ba2 Ce1 Pt1 O6
+Cubic,10,4,Ba2 Ce1 Cr1 O6
+Orthorhombic,20,3,Eu1 Sc1 O3
+Cubic,10,4,Cs2 In1 Hg1 I6
+Orthorhombic,20,3,Ca1 Ir1 O3
+Cubic,5,3,Dy1 Sn1 O3
+Orthorhombic,20,3,Na1 V1 F3
+Orthorhombic,20,3,Sm1 Ti1 O3
+Orthorhombic,20,3,Mg1 Mn1 O3
+Cubic,10,4,Cs2 Na1 Nd1 F6
+Cubic,5,3,Ca3 Sn1 N1
+Cubic,5,3,B1 Sb1 O3
+Cubic,10,4,Rb2 Al1 Ag1 Cl6
+Cubic,10,4,K2 Nd1 Au1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,5,3,Pa1 Os1 O3
+Cubic,10,4,Ba2 Gd1 Pa1 O6
+Cubic,5,3,Tl1 Ga1 O3
+Cubic,10,4,Ba2 Ho1 Pa1 O6
+Tetragonal,25,4,Sr5 Zr1 Ti4 O15
+Tetragonal,5,4,Er1 B1 Pt1 Rh2
+Cubic,5,3,La3 Al1 O1
+Cubic,10,4,Eu2 Cr1 Sb1 O6
+Cubic,5,3,Yb3 Tl1 C1
+Monoclinic,100,3,K1 Ta1 Te3
+Cubic,10,4,K1 Pr1 Nb2 O6
+Cubic,5,3,Cs1 Ge1 O3
+Cubic,5,3,Tb3 In1 N1
+Cubic,10,4,Eu2 Fe1 W1 O6
+Cubic,10,4,Rb2 Sb1 Au1 Br6
+Cubic,10,4,Na1 Nd1 Hf2 O6
+Cubic,10,4,Cs2 Rb1 Dy1 Cl6
+Cubic,10,4,Cs2 Bi1 Au1 F6
+Monoclinic,20,4,Sr2 Tm1 Ru1 O6
+Cubic,10,4,Cs2 In1 Ag1 Br6
+Cubic,10,4,Rb2 Sc1 Tl1 Br6
+Cubic,5,3,Cs1 Yb1 O3
+Cubic,5,3,Sr1 Er1 O3
+Cubic,10,4,Rb2 Li1 Y1 F6
+Cubic,5,3,Cu3 Rh1 N1
+Cubic,5,3,Rb1 Ge1 I3
+Cubic,40,4,Sr2 Gd1 Nb1 O6
+Cubic,5,3,Sm3 Al1 C1
+Cubic,10,4,Na2 Li1 Al1 H6
+Cubic,5,3,K1 Nb1 O3
+Cubic,10,3,Rb1 In1 Br3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,5,3,Ba1 Li1 H3
+Cubic,10,4,Rb2 Cu1 As1 F6
+Orthorhombic,20,3,Ca1 Zr1 S3
+Orthorhombic,20,3,La1 Ga1 O3
+Cubic,5,3,Cs1 Gd1 O3
+Orthorhombic,20,3,Co1 Te1 O3
+Cubic,5,3,Nd1 Ta1 O3
+Cubic,5,3,Tm1 Ge1 O3
+Cubic,10,4,K2 Li1 Y1 Cl6
+Orthorhombic,20,3,Na1 Zn1 F3
+Cubic,10,4,Cs1 Rb2 Mo1 F6
+Cubic,10,4,K1 Tl2 Cr1 F6
+Cubic,10,4,Cs2 Tl1 Sb1 I6
+Cubic,10,4,Cs2 Li1 In1 F6
+Cubic,5,3,Cs1 Pr1 O3
+Orthorhombic,20,3,La1 Co1 O3
+Tetragonal,5,4,Sr1 W1 N1 O2
+Cubic,10,4,Sr2 In1 Re1 O6
+Cubic,10,4,Cs2 Li1 Bi1 Cl6
+Cubic,10,4,Sr2 Ti1 Mo1 O6
+Tetragonal,10,4,Sr2 Fe1 Co1 O6
+Cubic,40,4,Ba2 Tb1 W1 O6
+Cubic,5,3,Ta1 Be1 O3
+Cubic,10,4,Sr2 Ce1 Cr1 O6
+Cubic,5,3,Dy3 Sn1 C1
+Trigonal,20,4,Sr2 Fe1 Os1 O6
+Orthorhombic,20,3,Ca1 Pb1 O3
+Orthorhombic,20,3,Mn1 Bi1 O3
+Cubic,10,4,Cs2 Rb1 As1 F6
+Cubic,5,3,Pm1 In1 O3
+Cubic,10,4,Cs2 K1 Au1 Br6
+Cubic,10,4,K1 Rb2 Tl1 Br6
+Cubic,10,4,Cs2 Sb1 Au1 Cl6
+Cubic,5,3,Sr1 W1 O3
+Cubic,10,4,Co1 Re1 Pb2 O6
+Cubic,10,4,Ba2 In1 Sb1 O6
+Cubic,5,3,Cs1 Sr1 Cl3
+Cubic,5,3,Nb1 Ru3 C1
+Cubic,5,3,La3 Tl1 C1
+Cubic,5,3,Ce3 Tl1 C1
+Monoclinic,20,4,Sr2 Mg1 U1 O6
+Cubic,5,3,Pu1 Rh3 C1
+Cubic,10,4,Ba2 Y1 Ta1 O6
+Cubic,10,4,Rb2 Tm1 Ag1 Cl6
+Cubic,10,4,Cs2 Mn1 Hg1 F6
+Cubic,10,4,Rb2 Y1 Cu1 Br6
+Cubic,10,4,Rb2 Hg1 Pd1 F6
+Cubic,5,3,Be1 Cu1 O3
+Cubic,10,4,Rb2 Li1 Sc1 Cl6
+Cubic,5,3,Ti1 Cu1 O3
+Cubic,5,3,Th1 W1 O3
+Orthorhombic,20,3,Ba1 Th1 O3
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,5,3,Y1 Ti1 O3
+Cubic,10,4,Pr1 Eu2 Nb1 O6
+Trigonal,11,5,Na1 Mg1 Ti2 Bi1 O6
+Cubic,10,4,Eu2 Nb1 W1 O6
+Cubic,10,4,Ba2 In1 Bi1 O6
+Cubic,10,4,Sr2 Cr1 Sn1 O6
+Cubic,5,3,Fe3 Pd1 N1
+Cubic,5,3,Co1 B1 O3
+Cubic,10,4,Mg1 Re1 Pb2 O6
+Tetragonal,10,3,Sr1 Ti1 O3
+Cubic,10,4,Ba2 Pa1 In1 O6
+Monoclinic,20,4,Li1 La2 Ti1 O6
+Tetragonal,15,4,K3 Mg1 Cu2 F9
+Trigonal,40,4,Sr1 La3 Mn4 O12
+Orthorhombic,20,3,Er1 Mn1 O3
+Cubic,10,4,K2 Na1 Cu1 F6
+Orthorhombic,20,3,Sr3 Si1 O1
+Cubic,10,4,Cs2 Li1 Y1 Cl6
+Cubic,10,4,Cs2 Rb1 Tb1 Cl6
+Orthorhombic,20,3,Yb1 Co1 O3
+Cubic,5,3,Sr1 As1 O3
+Cubic,5,3,K1 Be1 O3
+Cubic,10,4,K2 Na1 Fe1 F6
+Cubic,5,3,K1 Na1 O3
+Cubic,10,4,Rb2 Li1 Ta1 Cl6
+Orthorhombic,20,3,Eu1 Zr1 O3
+Cubic,5,3,Cu3 Pd1 N1
+Cubic,10,4,K2 Y1 Cu1 Br6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,10,4,Cs2 Rb1 Al1 Cl6
+Hexagonal,30,4,Ba3 Sr1 Ta2 O9
+Cubic,5,3,Ce1 Rh3 C1
+Cubic,5,3,Ca1 Ti1 O3
+Cubic,5,3,Rb1 Mn1 F3
+Cubic,5,3,K1 Pd1 O3
+Cubic,5,3,Cs1 La1 O3
+Cubic,10,4,Cs2 K1 Gd1 Cl6
+Cubic,10,4,Rb2 Cu1 Bi1 I6
+Tetragonal,20,4,Sr2 Ti1 Mn1 O6
+Cubic,10,4,Cs2 Li1 Ce1 Br6
+Orthorhombic,20,3,Ca1 Ge1 O3
+Cubic,10,4,Cs2 Sc1 In1 Br6
+Cubic,5,3,Ga1 Fe1 O3
+Cubic,5,3,Hf1 Be1 O3
+Cubic,10,3,K3 Tm1 F6
+Cubic,5,3,Ga1 Ni3 C1
+Cubic,10,4,K1 Rb2 Al1 Br6
+Cubic,10,4,Ba2 Zr1 In1 O6
+Cubic,5,3,La1 Al1 O3
+Cubic,10,4,Ba1 La1 Mn2 O6
+Cubic,10,4,K2 Tl1 Au1 F6
+Orthorhombic,20,3,Fe1 Sn1 O3
+Cubic,10,3,K3 Rh1 F6
+Cubic,10,4,Ba2 Pr1 Nb1 O6
+Cubic,10,4,K2 As1 Au1 F6
+Cubic,5,3,Mo1 Pb1 O3
+Cubic,10,3,Cs3 Tl1 F6
+Orthorhombic,48,3,Rb2 Sn3 O7
+Tetragonal,20,3,Sr1 Co1 O3
+Cubic,5,3,Ca1 Sn1 O3
+Cubic,10,4,Rb2 Sm1 Au1 Cl6
+Cubic,5,3,Sc1 B1 Rh3
+Cubic,5,3,Pu1 Sb1 O3
+Cubic,5,3,Pu1 Pb1 O3
+Orthorhombic,20,3,Sc1 Tl1 O3
+Monoclinic,20,3,Sr3 Te1 O6
+Cubic,5,3,V1 Ir1 O3
+Cubic,5,3,Al1 Fe3 B1
+Cubic,10,4,K2 Na1 Nb1 F6
+Cubic,20,4,Sr2 Cr1 W1 O6
+Cubic,10,4,K2 Cr1 Cu1 F6
+Cubic,10,4,Cs2 Sc1 Hg1 I6
+Cubic,5,3,Ce3 Sn1 N1
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,10,4,Cs2 Tl1 In1 Cl6
+Cubic,10,4,Cs2 Ta1 Cu1 Cl6
+Cubic,10,4,Ce1 Eu2 W1 O6
+Tetragonal,20,5,K2 Na1 Nb1 O2 F4
+Cubic,10,4,Ca2 Zr1 Fe1 O6
+Cubic,10,4,Rb2 Tl1 In1 Br6
+Orthorhombic,20,3,Ti1 Cd1 O3
+Cubic,5,3,Ce1 Ta1 O3
+Cubic,10,4,Rb2 Li1 Tl1 Cl6
+Orthorhombic,20,3,La1 Rh1 O3
+Cubic,10,4,Cs2 Na1 Mn1 F6
+Orthorhombic,20,3,Tb1 Ni1 O3
+Orthorhombic,20,3,Sc1 Fe1 O3
+Cubic,5,3,Ru1 Pb1 O3
+Cubic,5,3,Sr1 Yb1 O3
+Cubic,10,4,K2 Tb1 Cu1 Cl6
+Cubic,10,4,K2 Hg1 As1 I6
+Orthorhombic,36,3,Cs1 In3 O5
+Cubic,10,4,Cs2 K1 Y1 I6
+Cubic,10,4,Rb2 Ga1 Hg1 I6
+Cubic,5,3,Yb3 Sn1 O1
+Cubic,10,4,Na1 La1 Se2 O6
+Monoclinic,20,4,Eu2 Ho1 Ta1 O6
+Cubic,10,4,Eu2 Ni1 Bi1 O6
+Cubic,5,3,Dy1 Ru3 C1
+Cubic,5,3,Sm3 Pb1 C1
+Tetragonal,10,4,Sr2 Fe1 Sn1 O6
+Orthorhombic,20,3,K3 Cl1 O1
+Cubic,5,3,Y1 Mo1 O3
+Cubic,5,3,Sr1 V1 O3
+Cubic,40,4,Sr1 Eu1 Co2 O6
+Orthorhombic,20,3,Tb1 Mn1 O3
+Tetragonal,20,4,Sr4 Fe3 Mo1 O12
+Tetragonal,10,3,K1 Cu1 F3
+Orthorhombic,20,3,La1 V1 O3
+Cubic,5,3,Li3 Cl1 O1
+Orthorhombic,20,3,Al1 Ga1 O3
+Monoclinic,20,4,Sr2 Sm1 Sb1 O6
+Cubic,10,4,K2 Al1 Ag1 Cl6
+Cubic,5,3,Rb1 Cu1 O3
+Cubic,10,4,Rb2 Sm1 Cu1 Cl6
+Cubic,10,4,Ba2 Yb1 Ta1 O6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,10,4,Rb2 Na1 As1 F6
+Cubic,10,4,Nb1 Fe1 Pb2 O6
+Cubic,10,4,K2 Li1 Ir1 F6
+Cubic,10,4,Cs2 Na1 Tl1 Br6
+Cubic,10,4,Ba2 Ta1 Co1 O6
+Cubic,10,4,K2 Ce1 Cu1 Br6
+Orthorhombic,20,3,Dy1 In1 O3
+Cubic,5,3,Np1 Hg1 O3
+Cubic,10,4,Rb2 Na1 Pr1 I6
+Orthorhombic,20,3,Eu1 Hf1 S3
+Cubic,10,3,K3 Au1 Cl6
+Cubic,5,3,Sm1 V1 O3
+Monoclinic,20,4,La2 Fe1 Co1 O6
+Cubic,10,4,K1 Rb2 Fe1 F6
+Monoclinic,20,3,Ca1 Mo1 O3
+Cubic,10,4,Cs2 Al1 Ag1 Br6
+Cubic,10,4,Eu2 Nb1 Zn1 O6
+Cubic,10,4,Rb2 Na1 Tl1 F6
+Cubic,10,4,Rb2 Rh1 Au1 F6
+Cubic,10,4,K2 Cu1 Bi1 Br6
+Cubic,10,4,Cs2 Rb1 Au1 Cl6
+Cubic,5,3,Na1 Ag1 O3
+Cubic,10,4,Sr2 Ta1 Al1 O6
+Tetragonal,5,4,Eu1 Nb1 N1 O2
+Cubic,10,4,Sr2 Ce1 Si1 O6
+Cubic,5,3,U1 Re1 O3
+Cubic,10,4,Cs2 Tl1 Bi1 Br6
+Orthorhombic,20,3,Eu1 U1 O3
+Cubic,5,3,Sr1 Cr1 O3
+Cubic,5,3,Lu1 Re1 O3
+Cubic,20,4,K2 Li1 Al1 H6
+Cubic,10,4,Sr2 Y1 Nb1 O6
+Cubic,10,4,Cs2 K1 Y1 Br6
+Cubic,10,4,Cs2 K1 Tl1 F6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,5,3,Rb1 Cu1 F3
+Cubic,10,4,K2 Na1 Pd1 F6
+Monoclinic,20,4,Sr2 Ho1 Sb1 O6
+Cubic,10,4,Rb2 Nd1 Ag1 Br6
+Cubic,5,3,In1 Cu1 O3
+Cubic,10,4,Cs2 Rb1 Au1 F6
+Cubic,5,3,Eu1 Sn1 O3
+Cubic,5,3,Cs1 Ir1 O3
+Cubic,10,4,Cs2 Rb1 Sc1 Br6
+Cubic,10,3,Cs3 Tl1 Cl6
+Cubic,10,4,K2 Na1 As1 F6
+Cubic,10,4,Rb2 Y1 In1 F6
+Cubic,10,4,Cs2 Y1 Cu1 Br6
+Cubic,10,4,K2 Tl1 Cu1 F6
+Cubic,10,4,Rb2 In1 Hg1 I6
+Cubic,5,3,Rb1 Sn1 O3
+Orthorhombic,20,3,Dy1 Sc1 S3
+Cubic,10,4,Ba2 Cd1 Os1 O6
+Orthorhombic,20,3,Ni1 Te1 O3
+Monoclinic,20,4,Li1 Pr2 Ir1 O6
+Cubic,5,3,Lu3 Pb1 C1
+Cubic,10,4,Rb2 Sb1 Au1 Cl6
+Cubic,10,4,Cs2 K1 As1 I6
+Cubic,10,4,Sr2 Hf1 Nb1 O6
+Cubic,10,4,Sr2 V1 Sn1 O6
+Cubic,10,4,Ba2 Y1 Ir1 O6
+Cubic,5,3,Ba1 Zr1 O3
+Cubic,10,4,Cs2 Na1 Cr1 Cl6
+Monoclinic,118,3,Pr12 Mn11 O36
+Cubic,10,4,Sr2 Co1 W1 O6
+Trigonal,50,5,Sr4 Nd1 Nb2 Al3 O15
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Orthorhombic,20,3,Mg1 W1 O3
+Cubic,10,4,K2 As1 Au1 Cl6
+Cubic,10,4,K2 Ce1 Au1 Cl6
+Cubic,10,4,K2 Eu1 Ag1 Cl6
+Trigonal,35,5,Sr4 Nd3 Ta2 Al5 O21
+Cubic,10,4,Cs2 In1 Sb1 Cl6
+Cubic,10,4,Rb2 Na1 Er1 Cl6
+Cubic,5,3,Yb1 Tc1 O3
+Cubic,5,3,Tb1 Si1 O3
+Cubic,10,4,Rb2 Y1 Hg1 Cl6
+Cubic,5,3,Pr3 Sn1 N1
+Orthorhombic,20,3,Pr1 Sc1 S3
+Cubic,10,4,Sr2 Sc1 Bi1 O6
+Cubic,5,3,Fe3 Co1 N1
+Monoclinic,40,4,La2 Ti1 Ni1 O6
+Tetragonal,5,4,Ba1 Nb1 N1 O2
+Tetragonal,25,4,Ba4 Ca1 Ti5 O15
+Cubic,10,4,Yb1 Nb1 Pb2 O6
+Cubic,5,3,Be1 In1 O3
+Cubic,10,4,Na1 Nd1 Nb2 O6
+Cubic,10,4,Ca1 La2 Zr1 O6
+Cubic,10,4,Na2 Ce1 W1 O6
+Monoclinic,20,4,Sr2 Y1 Ta1 O6
+Cubic,10,4,Sr2 Eu1 V1 O6
+Cubic,5,3,K1 Zn1 O3
+Cubic,10,4,Eu2 Y1 W1 O6
+Cubic,10,4,Cs2 Nd1 Ag1 I6
+Cubic,5,3,In1 Si1 O3
+Cubic,5,3,Pm1 Er1 O3
+Tetragonal,10,4,K1 Na1 Bi2 O6
+Monoclinic,60,4,Sr3 Ca1 Ir2 O9
+Cubic,5,3,Sb1 Au1 O3
+Cubic,5,3,La3 Sn1 C1
+Orthorhombic,20,3,U1 Cr1 S3
+Cubic,20,4,Ba2 Ta1 Fe1 O6
+Cubic,10,4,Cs2 Li1 Lu1 Cl6
+Orthorhombic,20,3,Tm1 Co1 O3
+Cubic,10,4,Sr2 Gd1 V1 O6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Ba2 Y1 Nb1 O6
+Cubic,10,4,Cs2 Na1 Nd1 Br6
+Cubic,10,4,Na2 Li1 Al1 F6
+Cubic,10,4,Ca2 Sb1 W1 O6
+Cubic,10,4,Cs2 Rb1 Y1 Br6
+Cubic,10,4,Rb2 Li1 Mo1 Cl6
+Cubic,10,4,Cs2 Pr1 Cu1 Br6
+Cubic,5,3,Gd1 Cr1 O3
+Cubic,10,4,Rb2 Li1 Sb1 I6
+Cubic,5,3,Pr1 Hf1 O3
+Cubic,5,3,Yb3 Al1 C1
+Cubic,10,4,K2 Cu1 Au1 F6
+Cubic,10,4,Sr2 Dy1 Cr1 O6
+Cubic,10,4,Rb2 Ga1 Ag1 I6
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,5,3,Zn1 N1 F3
+Cubic,40,4,Sr2 Sm1 Nb1 O6
+Tetragonal,10,4,Ba1 Ce2 Eu1 O6
+Cubic,40,4,Sr2 Tb1 Sn1 O6
+Monoclinic,20,4,Ca2 Sc1 Sb1 O6
+Cubic,10,4,Na1 La1 Hf2 O6
+Cubic,5,3,Ba1 Ta1 O3
+Tetragonal,10,4,Ba1 Ca1 Zr2 O6
+Cubic,10,4,Cs2 Na1 Dy1 Cl6
+Cubic,10,4,Cs2 Na1 Mo1 Cl6
+Cubic,10,4,Rb2 Pr1 Cu1 Br6
+Cubic,10,4,Sr2 Zr1 Fe1 O6
+Cubic,10,4,K2 Na1 Sc1 I6
+Cubic,10,4,Cs2 Tl1 Ga1 I6
+Cubic,10,4,K1 Rb2 Dy1 Cl6
+Cubic,5,3,Ac1 Si1 O3
+Cubic,5,3,Cs1 Os1 O3
+Cubic,10,4,Ba2 Sc1 Nb1 O6
+Trigonal,10,4,Sr1 Cr2 Bi1 O6
+Cubic,10,4,La2 Mg1 Zr1 O6
+Cubic,5,3,Ho1 Be1 O3
+Tetragonal,10,4,Ba2 Ca1 W1 O6
+Cubic,5,3,Rb1 Mg1 O3
+Orthorhombic,60,3,Na1 Nb1 O3
+Cubic,10,4,Rb2 Cu1 Ni1 F6
+Cubic,5,3,Nd3 Pb1 N1
+Cubic,10,4,Sr2 Tb1 Se1 O6
+Tetragonal,20,4,Ca4 Mn3 Cr1 O12
+Cubic,5,3,Ce3 Pb1 C1
+Monoclinic,20,4,Sr2 Lu1 Ru1 O6
+Orthorhombic,20,3,Sm1 Ho1 O3
+Cubic,10,4,Ca2 Bi1 W1 O6
+Cubic,5,3,Ni1 Ru1 O3
+Cubic,10,4,Rb2 Na1 In1 I6
+Cubic,40,4,Pr1 Eu2 Sb1 O6
+Orthorhombic,20,3,Sr1 Sn1 O3
+Cubic,10,4,K2 Li1 Tl1 F6
+Cubic,5,3,Co1 Au1 O3
+Cubic,5,3,Mg1 Zn1 O3
+Cubic,10,4,K2 Na1 Tl1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Sr2 Lu1 Nb1 O6
+Orthorhombic,20,3,Ba1 Ce1 O3
+Cubic,10,4,Sr2 Ce1 Sn1 O6
+Cubic,5,3,Yb1 Cd1 O3
+Cubic,10,4,Cs2 Rb1 Bi1 Cl6
+Trigonal,25,5,Sr3 La2 Fe4 Co1 O15
+Cubic,10,4,Cs2 Hg1 As1 Br6
+Cubic,5,3,Ba1 Au1 O3
+Cubic,5,3,Be1 Cd1 O3
+Cubic,5,3,Sr1 Be1 O3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Sr2 Nd1 Mn1 O6
+Cubic,10,4,Co1 Te1 Pb2 O6
+Cubic,5,3,Pr3 Al1 N1
+Cubic,5,3,Sr1 Sn1 O3
+Cubic,5,3,Dy3 In1 N1
+Cubic,5,3,Ge1 B1 O3
+Monoclinic,20,3,Ca1 Bi1 O3
+Cubic,5,3,Ni1 Mo1 O3
+Cubic,5,3,Yb3 Sn1 C1
+Cubic,5,3,Cs1 Cd1 F3
+Cubic,10,4,K2 Na1 Sb1 F6
+Cubic,10,4,Ba2 U1 Fe1 O6
+Cubic,10,4,Cs2 Li1 Mo1 Br6
+Cubic,5,3,Rb1 B1 O3
+Cubic,10,4,Cs2 Nd1 Ag1 Br6
+Cubic,10,4,Cs2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Li1 Pd1 F6
+Cubic,5,3,In1 Sb1 O3
+Cubic,20,4,Ba2 Ni1 Mo1 O6
+Cubic,5,3,Yb1 Ga1 O3
+Cubic,10,4,Ba2 Er1 Pa1 O6
+Cubic,10,4,Cs2 Li1 N1 F6
+Cubic,10,4,Rb2 Li1 Bi1 Cl6
+Cubic,5,3,Cs1 Ge1 Br3
+Cubic,10,3,K3 Y1 F6
+Tetragonal,5,4,Ba1 Fe1 O2 F1
+Cubic,10,4,K2 Ni1 Hg1 F6
+Cubic,5,3,Ba1 Pa1 O3
+Cubic,10,3,Cs1 Tl1 I3
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Cubic,10,4,Na2 Cu1 As1 F6
+Cubic,5,3,Eu1 Er1 O3
+Cubic,10,4,Rb2 Ag1 As1 Br6
+Cubic,10,4,Cs2 Na1 Bi1 Br6
+Cubic,10,3,Cs3 As1 F6
+Cubic,10,4,Cs2 In1 Hg1 Br6
+Cubic,5,3,K1 Pa1 O3
+Orthorhombic,20,3,Th1 Cr1 S3
+Cubic,10,4,Cs2 Ag1 Au1 F6
+Orthorhombic,48,5,H6 Pb1 C1 I3 N1
+Cubic,5,3,Mg3 As1 N1
+Tetragonal,40,4,Sr2 Ti1 Mn1 O6
+Cubic,10,3,Ga1 Ag3 F6
+Cubic,5,3,Tb3 Sn1 C1
+Orthorhombic,20,3,Pr1 Mn1 O3
+Cubic,5,3,Tb1 B1 Pd3
+Cubic,5,3,Zn1 Ga1 O3
+Orthorhombic,60,4,Ca2 Y1 Mn3 O9
+Cubic,10,4,K2 Li1 Fe1 F6
+Cubic,5,3,Eu1 Zr1 O3
+Orthorhombic,20,3,Gd1 Cr1 O3
+Orthorhombic,20,3,Ti1 Fe1 O3
+Tetragonal,10,4,Ba1 Pr1 Co2 O6
+Cubic,10,4,Cs2 Rb1 Tl1 Br6
+Tetragonal,25,5,K1 Ba4 Ti5 O14 F1
+Cubic,10,4,K1 Rb2 Au1 F6
+Cubic,10,4,Cs2 Rb1 Sc1 Cl6
+Cubic,5,3,Rb1 Hg1 F3
+Cubic,5,3,Rb1 Np1 O3
+Cubic,10,3,Cs3 Y1 F6
+Cubic,5,3,Tb1 Ge1 O3
+Cubic,5,3,Mg1 Ag1 F3
+Cubic,10,3,Rb3 Sc1 F6
+Cubic,10,4,K2 Y1 Ag1 Br6
+Cubic,5,3,Cu1 Hg1 O3
+Cubic,10,4,K2 Li1 In1 F6
+Monoclinic,20,4,Pr2 Mg1 Ir1 O6
+Cubic,10,3,Cs1 In1 Br3
+Cubic,10,4,Cs2 Ag1 Bi1 F6
+Cubic,10,4,Ba2 Pu1 Ta1 O6
+Monoclinic,20,3,Nd1 Mn1 O3
+Cubic,5,3,Mn3 Hg1 N1
+Orthorhombic,20,3,Mg1 Tl1 Cl3
+Cubic,10,4,Ba2 Yb1 Re1 O6
+Cubic,10,4,Ba2 Yb1 Mo1 O6
+Cubic,20,4,Sr2 Ta1 V1 O6
+Cubic,10,4,Cs2 Na1 U1 Cl6
+Cubic,5,3,Al1 Fe3 H1
+Monoclinic,20,4,La2 Co1 Ru1 O6
+Cubic,10,4,K2 Tl1 As1 Cl6
+Cubic,10,4,Cs2 Rb1 In1 I6
+Cubic,40,4,Ba2 Pr1 W1 O6
+Cubic,10,4,Rb2 Tl1 Ag1 Br6
+Cubic,10,4,Rb2 Ga1 Hg1 Br6
+Cubic,40,4,Ba2 Pr1 Nb1 O6
+Cubic,10,4,Sr2 In1 Bi1 O6
+Cubic,10,4,Na1 Eu1 Nb2 O6
+Cubic,10,4,Rb2 Tl1 As1 Br6
+Orthorhombic,20,3,La1 Fe1 O3
+Cubic,5,3,La1 B1 Pd3
+Cubic,10,4,Rb2 Ga1 Cu1 F6
+Cubic,5,3,Tl1 Fe1 F3
+Cubic,5,3,Th1 B1 O3
+Cubic,5,3,Li1 Al1 O3
+Cubic,5,3,Ce1 Ru3 C1
+Monoclinic,20,4,Sr2 Dy1 Ru1 O6
+Cubic,10,4,Eu2 Ta1 Al1 O6
+Cubic,10,4,K2 Na1 Ta1 Cl6
+Monoclinic,60,4,Sr1 La2 Mn3 O9
+Monoclinic,20,4,Ca1 Ta1 N1 O2
+Cubic,5,3,Ce3 Sn1 N1
+Monoclinic,20,4,Li1 La2 Os1 O6
+Cubic,5,3,Fe3 Ni1 N1
+Orthorhombic,20,3,K1 Dy1 Br3
+Cubic,10,4,Rb2 Li1 Nd1 Cl6
+Cubic,5,3,Er1 Cu1 O3
+Cubic,10,4,K2 Na1 Y1 Br6
+Cubic,10,4,Rb2 Na1 Ga1 Cl6
+Cubic,5,3,Rb1 Ru1 O3
+Cubic,10,4,Sr2 Pr1 V1 O6
+Cubic,10,4,Li1 Sc1 Tl2 Cl6
+Monoclinic,20,4,Sr2 Sm1 Nb1 O6
+Cubic,5,3,Ce1 Cr1 O3
+Cubic,5,3,Tm1 B1 Rh3
+Cubic,5,3,K1 Ca1 O3
+Monoclinic,20,4,Ba2 La1 Ta1 O6
+Cubic,10,4,Rb2 Hg1 As1 Cl6
+Cubic,10,4,Sr2 Ga1 Sb1 O6
+Cubic,10,4,Cs2 I1 Cl6 F1
+Cubic,10,4,Cs2 Y1 Ag1 F6
+Cubic,40,4,Sr2 Ce1 Nb1 O6
+Cubic,10,4,Cs2 Rb1 Nd1 Cl6
