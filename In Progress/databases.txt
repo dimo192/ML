@@ -1,2 +1,0 @@
-1. Materials projetc.org
-   -method: got all materials of hallides and oxides, Get perovskites and hallide perovskites with robocrys.search
